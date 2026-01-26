@@ -4,7 +4,7 @@
 
 **Document Version:** 1.0  
 **Last Updated:** January 2026  
-**Project:** "Mad Max" Daily Driver Rebuild  
+**Project:** "Mad Maxine" Daily Driver Rebuild  
 **VIN:** 1JTHL6571GT042524
 
 ---
@@ -1926,7 +1926,7 @@ Based on:
 - Personal experience with 1986 Jeep Comanche VIN 1JTHL6571GT042524
 - Community knowledge from ComancheClub.com
 - Factory Service Manual references
-- Trial and error on "Mad Max" daily driver rebuild project
+- Trial and error on "Mad Maxine" daily driver rebuild project
 
 **Special thanks to:**
 - ComancheClub.com community
