@@ -4,7 +4,7 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Spend:** $571.40 (update as purchases made)
+**Current Spend:** $627.33 (update as purchases made)
 
 ## Document Relationship
 
@@ -265,7 +265,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Thermostat (195°F) | 1 | $15 | Auto parts | - | 📋 | | OEM temp rating |
 | Thermostat gasket | 1 | $5 | Auto parts | - | 📋 | | |
-| Antifreeze (50/50) | 2 gal | $30 | Auto parts | - | 📋 | | Pre-mixed for winter |
+| Antifreeze (concentrate) | 1 gal | $15 | Home Depot | 1000045487 | 📦 | $13.48 | Prestone 10yr/300k mi |
 | Radiator cap | 1 | $15 | Auto parts | - | 📋 | | **IF NOT HOLDING PRESSURE** |
 | Upper radiator hose | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
 | Lower radiator hose | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
@@ -273,7 +273,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Radiator (2-row) | 1 | $180 | RockAuto | - | 📋 | | **DEFER TO SPRING** if not leaking |
 | Water pump | 1 | $85 | RockAuto | - | 📋 | | **DEFER TO SPRING** if not leaking |
 
-**Cooling System Subtotal:** $50-390 (defer radiator/water pump if not needed now)
+**Cooling System Subtotal:** $50-390 estimated | $13.48 actual
 
 ### 2.5 Renix Sensors
 
@@ -350,8 +350,13 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Shop rags | 1 box | $20 | Auto parts | - | 📋 | | |
 | Oil drain pan | 1 | $15 | Harbor Freight | - | 📋 | | **IF NEEDED** |
 | Funnel set | 1 | $10 | Auto parts | - | 📋 | | **IF NEEDED** |
+| RTV Ultra Black gasket maker | 1 | $10 | Home Depot | 1002752778 | 📦 | $8.48 | Permatex, max oil resistance |
+| RTV High-Temp Red gasket maker | 1 | $10 | Home Depot | 1010441793 | 📦 | $7.98 | Permatex |
+| Threadlocker Orange (high strength) | 1 | $12 | Home Depot | 1006099406 | 📦 | $10.98 | Permatex, removable |
+| Threadlocker Blue (medium strength) | 1 | $8 | Home Depot | 1002752779 | 📦 | $6.48 | Permatex gel |
+| Windshield washer fluid (-20F) | 1 gal | $5 | Home Depot | 1002339399 | 📦 | $3.68 | All season |
 
-**Miscellaneous Subtotal:** $20-60
+**Miscellaneous Subtotal:** $65-105 estimated | $37.60 actual
 
 ### 2.12 Engine & Transmission Mounts
 
@@ -565,7 +570,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 |-------|-------------|--------------|--------------|--------------|----------|
 | **Phase 0** | Planning & Assessment | $87 | $87 | $47.15 | $_____ |
 | **Phase 1** | Safety & Structural | $1,200 | $1,800 | $305.01 | $_____ |
-| **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $219.24 | $_____ |
+| **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $275.17 | $_____ |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $_____ | $_____ |
 | **Phase 4** | Cab & Interior | $320 | $460 | $_____ | $_____ |
 | **Phase 5** | Final Prep & Testing | $293 | $308 | $_____ | $_____ |
@@ -703,6 +708,7 @@ Use this section to track orders and arrivals:
 
 | Order Date | Vendor | Items | Order # | Est. Arrival | Status | Received Date |
 |------------|--------|-------|---------|--------------|--------|---------------|
+| 2026-01-15 | Home Depot | 6 items (coolant, RTV, threadlockers, washer fluid) | WH20875375 | 2026-01-15 | 📦 | 2026-01-15 |
 | 2026-01-24 | RockAuto | 7 parts (U-joints, seals, ignition) | 335187809 | TBD | 🛒 | _____ |
 | 2026-01-24 | AutoZone | UV dye (3), UV flashlight | 210627708473 | 2026-01-26 | 🛒 | _____ |
 | 2026-01-24 | Parts Geek | Front driveshaft | 31-883336 | TBD | 🛒 | _____ |
