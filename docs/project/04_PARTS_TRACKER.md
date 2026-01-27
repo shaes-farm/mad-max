@@ -4,7 +4,7 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Spend:** $112.30 (update as purchases made)
+**Current Spend:** $297.46 (update as purchases made)
 
 ## Document Relationship
 
@@ -106,10 +106,10 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Front driveshaft (used) | 1 | $100 | Junkyard | - | 📋 | | XJ Cherokee front often fits |
+| Front driveshaft (new) | 1 | $100 | Parts Geek | Replacement 409-419 | 🛒 | $185.16 | Ordered 2026-01-25 |
 | Front U-joints | 2 | $50 | Auto parts | - | 📋 | | Spicer 5-260X or equivalent |
 
-**Driveshaft Subtotal:** $150 (IF INSPECTION SHOWS UNSAFE)
+**Driveshaft Subtotal:** $150 estimated | $185.16 actual
 
 **Sourcing Notes:**
 - XJ Cherokee front driveshaft often interchanges (verify length)
@@ -541,7 +541,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Phase | Description | Min Estimate | Max Estimate | Actual Spend | Variance |
 |-------|-------------|--------------|--------------|--------------|----------|
 | **Phase 0** | Planning & Assessment | $87 | $87 | $_____ | $_____ |
-| **Phase 1** | Safety & Structural | $1,200 | $1,800 | $_____ | $_____ |
+| **Phase 1** | Safety & Structural | $1,200 | $1,800 | $185.16 | $_____ |
 | **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $112.30 | $_____ |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $_____ | $_____ |
 | **Phase 4** | Cab & Interior | $320 | $460 | $_____ | $_____ |
@@ -681,7 +681,7 @@ Use this section to track orders and arrivals:
 | Order Date | Vendor | Items | Order # | Est. Arrival | Status | Received Date |
 |------------|--------|-------|---------|--------------|--------|---------------|
 | 2026-01-24 | RockAuto | 7 parts (U-joints, seals, ignition) | 335187809 | TBD | 🛒 | _____ |
-| _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
+| 2026-01-25 | Replacement | Front driveshaft | FedEx 398086396523 | TBD | 🛒 | _____ |
 | _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
 
 ---
