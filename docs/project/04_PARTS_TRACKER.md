@@ -705,7 +705,7 @@ Use this section to track orders and arrivals:
 |------------|--------|-------|---------|--------------|--------|---------------|
 | 2026-01-24 | RockAuto | 7 parts (U-joints, seals, ignition) | 335187809 | TBD | 🛒 | _____ |
 | 2026-01-24 | AutoZone | UV dye (3), UV flashlight | 210627708473 | 2026-01-26 | 🛒 | _____ |
-| 2026-01-25 | Replacement | Front driveshaft | FedEx 398086396523 | TBD | 🛒 | _____ |
+| 2026-01-24 | Parts Geek | Front driveshaft | 31-883336 | TBD | 🛒 | _____ |
 | 2026-01-26 | RockAuto | 12 parts (mounts, seals, bushings, cables) | 335297769 | TBD | 🛒 | _____ |
 
 ---
