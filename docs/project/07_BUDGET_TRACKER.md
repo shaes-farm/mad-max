@@ -5,8 +5,8 @@ This document tracks all financial aspects of the restoration project. Monitor s
 
 **Budget Target:** $3,000 - $5,000  
 **Budget with 20% Contingency:** $3,600 - $6,000  
-**Current Total Spend:** $_____  
-**Remaining Budget:** $_____
+**Current Total Spend:** $741.65  
+**Remaining Budget:** $2,258.35 - $4,258.35
 
 ## Document Relationship
 
@@ -26,13 +26,13 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 
 | Phase | Budgeted Min | Budgeted Max | Actual Spend | Variance | % of Budget | Status |
 |-------|--------------|--------------|--------------|----------|-------------|--------|
-| **Phase 0** | $87 | $87 | $_____ | $_____ | ___% | 🟢 / 🟡 / 🔴 |
-| **Phase 1** | $1,200 | $1,800 | $_____ | $_____ | ___% | 🟢 / 🟡 / 🔴 |
-| **Phase 2** | $483 | $1,385 | $_____ | $_____ | ___% | 🟢 / 🟡 / 🔴 |
-| **Phase 3** | $276 | $1,221 | $_____ | $_____ | ___% | 🟢 / 🟡 / 🔴 |
-| **Phase 4** | $320 | $460 | $_____ | $_____ | ___% | 🟢 / 🟡 / 🔴 |
-| **Phase 5** | $293 | $308 | $_____ | $_____ | ___% | 🟢 / 🟡 / 🔴 |
-| **TOTAL** | **$2,659** | **$5,261** | **$_____** | **$_____** | **___%** | |
+| **Phase 0** | $152 | $152 | $110.47 | +$41.53 | 73% | 🟢 |
+| **Phase 1** | $1,200 | $1,800 | $305.01 | +$894.99 | 25% | 🟢 |
+| **Phase 2** | $483 | $1,385 | $326.17 | +$156.83 | 68% | 🟢 |
+| **Phase 3** | $276 | $1,221 | $0.00 | - | 0% | 🟢 |
+| **Phase 4** | $320 | $460 | $0.00 | - | 0% | 🟢 |
+| **Phase 5** | $293 | $308 | $0.00 | - | 0% | 🟢 |
+| **TOTAL** | **$2,724** | **$5,326** | **$741.65** | **+$1,982.35** | **27%** | 🟢 |
 
 **Status Key:**
 - 🟢 Under budget
@@ -47,124 +47,122 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 
 | Category | Budgeted | Actual | Variance | % of Total |
 |----------|----------|--------|----------|------------|
-| **Safety & Structural** | $1,200-1,800 | $_____ | $_____ | ___% |
-| Exhaust system | $360-445 | $_____ | $_____ | |
-| Brakes | $200-650 | $_____ | $_____ | |
-| Steering | $80-360 | $_____ | $_____ | |
-| Door repair | $30-360 | $_____ | $_____ | |
-| Floor pan repair | $85-305 | $_____ | $_____ | |
-| Driveshaft | $150 | $_____ | $_____ | |
-| Rust prevention | $310 | $_____ | $_____ | |
-| Weatherproofing | $100-150 | $_____ | $_____ | |
+| **Safety & Structural** | $1,255-1,900 | $305.01 | +$949.99 | 41% |
+| Exhaust system | $360-445 | $0.00 | - | |
+| Brakes | $200-650 | $50.38 | +$149.62 | |
+| Steering | $80-360 | $44.68 | +$35.32 | |
+| Door repair | $30-360 | $0.00 | - | |
+| Floor pan repair | $85-305 | $0.00 | - | |
+| Driveshaft | $150 | $185.16 | -$35.16 | |
+| Rust prevention | $310 | $0.00 | - | |
+| Weatherproofing | $100-150 | $0.00 | - | |
+| Body/Exterior | $25-100 | $24.79 | +$0.21 | |
 | | | | | |
-| **Drivetrain** | $483-1,385 | $_____ | $_____ | ___% |
-| Engine repairs | $55-152 | $_____ | $_____ | |
-| Ignition system | $50-65 | $_____ | $_____ | |
-| Tune-up | $88-123 | $_____ | $_____ | |
-| Cooling system | $50-390 | $_____ | $_____ | |
-| Sensors | $18-118 | $_____ | $_____ | |
-| Battery/charging | $12-197 | $_____ | $_____ | |
-| Transmission | $30 | $_____ | $_____ | |
-| Transfer case | $40-70 | $_____ | $_____ | |
-| Differentials | $70 | $_____ | $_____ | |
-| U-joints | $50-100 | $_____ | $_____ | |
-| Fluids/supplies | $20-60 | $_____ | $_____ | |
+| **Drivetrain** | $513-1,460 | $178.54 | +$334.46 | 24% |
+| Engine repairs | $55-152 | $0.00 | - | |
+| Ignition system | $50-65 | $13.60 | +$36.40 | |
+| Tune-up | $88-123 | $0.00 | - | |
+| Cooling system | $50-390 | $40.44 | +$9.56 | |
+| Sensors | $18-118 | $0.00 | - | |
+| Battery/charging | $12-197 | $0.00 | - | |
+| Transmission | $30 | $0.00 | - | |
+| Transfer case | $40-70 | $23.88 | +$16.12 | |
+| Differentials | $70 | $37.00 | +$33.00 | |
+| U-joints | $50-100 | $26.76 | +$23.24 | |
+| Fluids/supplies | $20-60 | $6.93 | +$13.07 | |
+| Powertrain accessories | $30-75 | $29.93 | +$0.07 | |
 | | | | | |
-| **Electrical** | $276-1,221 | $_____ | $_____ | ___% |
-| Wiring harness | $120-650 | $_____ | $_____ | |
-| Lighting | $56-106 | $_____ | $_____ | |
-| Gauge cluster | $50-160 | $_____ | $_____ | |
-| Switches | $50-150 | $_____ | $_____ | |
-| Accessories | $0-155 | $_____ | $_____ | |
+| **Electrical** | $276-1,221 | $0.00 | - | 0% |
+| Wiring harness | $120-650 | $0.00 | - | |
+| Lighting | $56-106 | $0.00 | - | |
+| Gauge cluster | $50-160 | $0.00 | - | |
+| Switches | $50-150 | $0.00 | - | |
+| Accessories | $0-155 | $0.00 | - | |
 | | | | | |
-| **Interior** | $320-460 | $_____ | $_____ | ___% |
-| Window repair | $60-100 | $_____ | $_____ | |
-| Dash fabrication | $110 | $_____ | $_____ | |
-| Interior panels | $80 | $_____ | $_____ | |
-| Floor protection | $50-100 | $_____ | $_____ | |
-| Weatherproofing | $20-70 | $_____ | $_____ | |
+| **Interior** | $320-460 | $0.00 | - | 0% |
+| Window repair | $60-100 | $0.00 | - | |
+| Dash fabrication | $110 | $0.00 | - | |
+| Interior panels | $80 | $0.00 | - | |
+| Floor protection | $50-100 | $0.00 | - | |
+| Weatherproofing | $20-70 | $0.00 | - | |
 | | | | | |
-| **Final Prep** | $293-308 | $_____ | $_____ | ___% |
-| Paint | $190 | $_____ | $_____ | |
-| Fluids | $63 | $_____ | $_____ | |
-| Misc | $40-55 | $_____ | $_____ | |
+| **Final Prep** | $293-308 | $3.68 | +$289.32 | 0% |
+| Paint | $190 | $0.00 | - | |
+| Fluids | $63 | $3.68 | +$59.32 | |
+| Misc | $40-55 | $0.00 | - | |
 | | | | | |
-| **Professional Labor** | $0-500 | $_____ | $_____ | ___% |
-| Welding inspection | $0-100 | $_____ | $_____ | |
-| Structural welding | $0-200 | $_____ | $_____ | |
-| Ball joint press | $0-150 | $_____ | $_____ | |
-| Other | $0-50 | $_____ | $_____ | |
+| **Professional Labor** | $0-500 | $0.00 | - | 0% |
+| Welding inspection | $0-100 | $0.00 | - | |
+| Structural welding | $0-200 | $0.00 | - | |
+| Ball joint press | $0-150 | $0.00 | - | |
+| Other | $0-50 | $0.00 | - | |
 | | | | | |
-| **Tools Acquired** | TBD | $_____ | | ___% |
-| (Track separately) | | | | |
+| **Tools Acquired** | $100-200 | $82.31 | +$17.69 | 11% |
+| UV flashlight | $15-25 | $18.99 | +$6.01 | |
+| Jack stands (6-ton) | $60-100 | $63.32 | -$3.32 | |
+| Drain container (16 qt) | $10-15 | $13.98 | -$3.98 | |
 | | | | | |
-| **Contingency (Unplanned)** | $600-1,000 | $_____ | | ___% |
+| **Tax & Shipping** | $150-300 | $171.11 | -$21.11 | 23% |
+| (Tracked by order below) | | | | |
 | | | | | |
-| **GRAND TOTAL** | **$2,659-5,261** | **$_____** | **$_____** | **100%** |
+| **Contingency (Unplanned)** | $600-1,000 | $0.00 | - | 0% |
+| | | | | |
+| **GRAND TOTAL** | **$2,724-5,326** | **$741.65** | **+$1,982.35** | **100%** |
 
 ---
 
 ## PHASE 0: PLANNING & ASSESSMENT
 
-**Budget:** $87  
-**Actual Spend:** $_____  
-**Variance:** $_____
+**Budget:** $152  
+**Actual Spend:** $110.47  
+**Variance:** +$41.53 (under budget)
 
 ### Detailed Expenses
 
 | Date | Item | Vendor | Qty | Unit Cost | Total | Category | Receipt # |
 |------|------|--------|-----|-----------|-------|----------|-----------|
-| _____ | Engine degreaser | Auto parts | 1 | $15 | $15 | Supplies | _____ |
-| _____ | UV dye | Auto parts | 1 | $12 | $12 | Supplies | _____ |
-| _____ | UV flashlight | Amazon | 1 | $15 | $15 | Tools | _____ |
-| _____ | Wire brushes | Harbor Freight | 1 set | $20 | $20 | Supplies | _____ |
-| _____ | Rust converter | Auto parts | 1 qt | $25 | $25 | Supplies | _____ |
-| | | | | **Total:** | **$_____** | | |
+| 2026-01-24 | UV dye for oil | AutoZone | 3 | $7.99 | $23.97 | Supplies | 210627708473 |
+| 2026-01-24 | UV flashlight | AutoZone | 1 | $18.99 | $18.99 | Tools | 210627708473 |
+| 2026-01-21 | Jack stands (6-ton) | Home Depot | 1 | $63.32 | $63.32 | Tools | WH21384422 |
+| 2026-01-21 | Drain container (16 qt) | Home Depot | 1 | $13.98 | $13.98 | Tools | WH21384422 |
+| | | | | **Total:** | **$109.96** | | |
 
 **Phase 0 Notes:**
-- 
-- 
+- Jack stands ordered 01/21, arriving 01/27-28
+- UV dye and flashlight for oil leak detection during assessment
+- Tax/shipping tracked separately in Tax & Shipping section 
 
 ---
 
 ## PHASE 1: SAFETY & STRUCTURAL
 
 **Budget:** $1,200 - $1,800  
-**Actual Spend:** $_____  
-**Variance:** $_____
+**Actual Spend:** $305.01  
+**Variance:** +$894.99 to +$1,494.99 (under budget)
 
 ### Detailed Expenses
 
 | Date | Item | Vendor | Qty | Unit Cost | Total | Category | Receipt # |
 |------|------|--------|-----|-----------|-------|----------|-----------|
-| _____ | Exhaust manifold gasket | RockAuto | 1 | $15 | $15 | Exhaust | _____ |
-| _____ | Header pipe | RockAuto | 1 | $80 | $80 | Exhaust | _____ |
-| _____ | Catalytic converter | RockAuto | 1 | $120 | $120 | Exhaust | _____ |
-| _____ | Muffler | RockAuto | 1 | $60 | $60 | Exhaust | _____ |
-| _____ | Tail pipe | RockAuto | 1 | $40 | $40 | Exhaust | _____ |
-| _____ | Exhaust hangers & clamps | Auto parts | 1 set | $35 | $35 | Exhaust | _____ |
-| | | | | | | | |
-| _____ | Front brake pads | RockAuto | 1 set | $40 | $40 | Brakes | _____ |
-| _____ | Rear brake shoes | RockAuto | 1 set | $40 | $40 | Brakes | _____ |
-| _____ | Brake fluid | Auto parts | 2 qt | $15 | $15 | Brakes | _____ |
-| | | | | | | | |
-| _____ | Tie rod ends | RockAuto | 1 set | $80 | $80 | Steering | _____ |
-| | | | | | | | |
-| _____ | POR-15 chassis paint | Amazon | 1 qt | $60 | $60 | Rust prev | _____ |
-| _____ | Fluid Film | Amazon | 5 gal | $120 | $120 | Undercoat | _____ |
-| | | | | | | | |
-| _____ | Welding class | Comm college | 1 | $150 | $150 | Labor/Ed | _____ |
-| _____ | Sheet metal patches | Metal supply | 3 sq ft | $30 | $30 | Floor pan | _____ |
-| | | | | **Phase 1 Total:** | **$_____** | | |
+| 2026-01-25 | Front driveshaft (new) | Parts Geek | 1 | $164.95 | $164.95 | Driveshaft | 31-883336 |
+| 2026-01-26 | Parking brake cable (front) | RockAuto | 1 | $21.79 | $21.79 | Brakes | 335297769 |
+| 2026-01-26 | Parking brake cable (rear) | RockAuto | 1 | $24.79 | $24.79 | Brakes | 335297769 |
+| 2026-01-26 | Parking brake strut spring | RockAuto | 2 | $1.90 | $3.80 | Brakes | 335297769 |
+| 2026-01-26 | Control arm bushing (upper) | RockAuto | 2 | $9.12 | $18.24 | Steering | 335297769 |
+| 2026-01-26 | Control arm bushing (lower) | RockAuto | 2 | $13.22 | $26.44 | Steering | 335297769 |
+| 2026-01-26 | Hood release cable | RockAuto | 1 | $24.79 | $24.79 | Exterior | 335297769 |
+| | | | | **Phase 1 Total:** | **$284.80** | | |
 
 **Phase 1 Notes:**
-- 
-- 
+- Driveshaft ordered new from Parts Geek (Replacement brand) instead of used junkyard
+- Parking brake cables and hardware ordered for complete brake system refresh
+- Control arm bushings (MOOG) for steering improvements
+- Tax/shipping tracked separately in Tax & Shipping section
 
 **Major Decisions:**
 - Exhaust manifold condition: Cracked? YES / NO - Cost impact: $_____
 - Floor pan: Patch vs. full replacement: PATCH / FULL - Cost impact: $_____
-- Front driveshaft: Safe vs. replace: SAFE / REPLACE - Cost impact: $_____
+- Front driveshaft: Safe vs. replace: ~~SAFE~~ / **REPLACE** - Cost impact: $185.16
 - Brake condition: Pads only vs. rotors too: PADS / BOTH - Cost impact: $_____
 
 ---
@@ -172,43 +170,37 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 ## PHASE 2: DRIVETRAIN RELIABILITY
 
 **Budget:** $483 - $1,385  
-**Actual Spend:** $_____  
-**Variance:** $_____
+**Actual Spend:** $326.17  
+**Variance:** +$156.83 to +$1,058.83 (under budget)
 
 ### Detailed Expenses
 
 | Date | Item | Vendor | Qty | Unit Cost | Total | Category | Receipt # |
 |------|------|--------|-----|-----------|-------|----------|-----------|
-| _____ | Oil pressure sender | NAPA | 1 | $25 | $25 | Engine | _____ |
-| _____ | Valve cover gasket | Auto parts | 1 | $15 | $15 | Engine | _____ |
-| _____ | Engine oil | Auto parts | 5 qt | $25 | $25 | Fluids | _____ |
-| _____ | Oil filter | Auto parts | 2 | $12 | $12 | Filters | _____ |
-| | | | | | | | |
-| _____ | Ignition switch | RockAuto | 1 | $50 | $50 | Ignition | _____ |
-| | | | | | | | |
-| _____ | Spark plugs | Auto parts | 4 | $15 | $15 | Tune-up | _____ |
-| _____ | Distributor cap | Auto parts | 1 | $20 | $20 | Tune-up | _____ |
-| _____ | Distributor rotor | Auto parts | 1 | $10 | $10 | Tune-up | _____ |
-| _____ | Air filter | Auto parts | 1 | $20 | $20 | Tune-up | _____ |
-| _____ | Fuel filter | Auto parts | 1 | $15 | $15 | Tune-up | _____ |
-| _____ | PCV valve | Auto parts | 1 | $8 | $8 | Tune-up | _____ |
-| | | | | | | | |
-| _____ | Thermostat & gasket | Auto parts | 1 | $20 | $20 | Cooling | _____ |
-| _____ | Antifreeze (50/50) | Auto parts | 2 gal | $30 | $30 | Cooling | _____ |
-| | | | | | | | |
-| _____ | Coolant temp sensor | Auto parts | 1 | $25 | $25 | Sensors | _____ |
-| | | | | | | | |
-| _____ | Battery (Group 34) | Auto parts | 1 | $150 | $150 | Electrical | _____ |
-| | | | | | | | |
-| _____ | ATF (Dexron III) | Auto parts | 5 qt | $45 | $45 | Fluids | _____ |
-| _____ | Gear oil (80W-90) | Auto parts | 4 qt | $40 | $40 | Fluids | _____ |
-| _____ | Transfer case seals | Auto parts | 2 | $15 | $15 | T-case | _____ |
-| _____ | Diff cover gaskets | Auto parts | 2 | $20 | $20 | Diffs | _____ |
-| | | | | **Phase 2 Total:** | **$_____** | | |
+| 2026-01-24 | Ignition starter switch | RockAuto | 1 | $6.01 | $6.01 | Ignition | 335187809 |
+| 2026-01-24 | Ignition lock cylinder | RockAuto | 1 | $7.59 | $7.59 | Ignition | 335187809 |
+| 2026-01-24 | Transfer case output seal (rear) | RockAuto | 1 | $6.01 | $6.01 | T-case | 335187809 |
+| 2026-01-24 | Transfer case output seal (front) | RockAuto | 1 | $11.94 | $11.94 | T-case | 335187809 |
+| 2026-01-26 | Transfer case input shaft seal | RockAuto | 1 | $5.93 | $5.93 | T-case | 335297769 |
+| 2026-01-24 | Differential pinion seal (rear) | RockAuto | 1 | $5.13 | $5.13 | Diffs | 335187809 |
+| 2026-01-24 | Differential pinion seal (front) | RockAuto | 1 | $15.91 | $15.91 | Diffs | 335187809 |
+| 2026-01-26 | Diff cover gasket (front Dana 30) | RockAuto | 2 | $4.05 | $8.10 | Diffs | 335297769 |
+| 2026-01-26 | Diff cover gasket (rear Dana 35) | RockAuto | 2 | $3.93 | $7.86 | Diffs | 335297769 |
+| 2026-01-24 | Universal joints (rear driveshaft) | RockAuto | 2 | $13.38 | $26.76 | U-joints | 335187809 |
+| 2026-01-26 | Transmission mount | RockAuto | 1 | $14.44 | $14.44 | Mounts | 335297769 |
+| 2026-01-26 | Motor mount (left) | RockAuto | 1 | $7.66 | $7.66 | Mounts | 335297769 |
+| 2026-01-26 | Motor mount (right) | RockAuto | 1 | $7.83 | $7.83 | Mounts | 335297769 |
+| 2026-01-15 | RTV Ultra Black gasket maker | Home Depot | 1 | $8.48 | $8.48 | Supplies | WH20875375 |
+| 2026-01-15 | RTV High-Temp Red gasket maker | Home Depot | 1 | $7.98 | $7.98 | Supplies | WH20875375 |
+| 2026-01-15 | Threadlocker Orange | Home Depot | 1 | $10.98 | $10.98 | Supplies | WH20875375 |
+| 2026-01-15 | Threadlocker Blue | Home Depot | 1 | $6.48 | $6.48 | Supplies | WH20875375 |
+| | | | | **Phase 2 Total:** | **$219.51** | | |
 
 **Phase 2 Notes:**
-- 
-- 
+- Ignition switch and lock cylinder significantly cheaper than estimated ($13.60 vs $50-65)
+- All drivetrain seals ordered for comprehensive leak prevention
+- Engine and transmission mounts (Anchor brand) for vibration reduction
+- Tax/shipping tracked separately in Tax & Shipping section
 
 **Major Decisions:**
 - Oil leak severity: Minor / Major - Additional parts needed: $_____
@@ -245,8 +237,7 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 | | | | | **Phase 3 Total:** | **$_____** | | |
 
 **Phase 3 Notes:**
-- 
-- 
+- Considering custom dash with analog gauges, indicators, lights, etc. to replaced factory cluster
 
 **Major Decisions:**
 - Wiring harness: REPAIR ($120) / REPLACE ($450-650) - Decision: _____
@@ -303,8 +294,9 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 | | | | | | | | |
 | _____ | Engine oil | Auto parts | 5 qt | $25 | $25 | Fluids | _____ |
 | _____ | Oil filter | Auto parts | 1 | $8 | $8 | Fluids | _____ |
-| _____ | Coolant | Auto parts | 1 gal | $15 | $15 | Fluids | _____ |
-| _____ | Washer fluid (winter) | Auto parts | 1 gal | $5 | $5 | Fluids | _____ |
+| 2026-01-15 | Antifreeze (concentrate) | Home Depot | 1 gal | $13.48 | $13.48 | Fluids | WH20875375 |
+| 2026-01-21 | Antifreeze (concentrate) | Home Depot | 2 gal | $13.48 | $26.96 | Fluids | WH21384422 |
+| 2026-01-15 | Windshield washer fluid | Home Depot | 1 gal | $3.68 | $3.68 | Fluids | WH20875375 |
 | _____ | Fuel system cleaner | Auto parts | 1 bottle | $10 | $10 | Fluids | _____ |
 | | | | | | | | |
 | _____ | Wiper blades | Auto parts | 2 | $30 | $30 | Misc | _____ |
@@ -342,12 +334,14 @@ Track tools purchased for the project (may be reusable for future projects):
 
 | Date | Tool | Vendor | Cost | Used For | Receipt # |
 |------|------|--------|------|----------|-----------|
+| 2026-01-24 | UV flashlight | AutoZone | $18.99 | Oil & ATF leak detection | 210627708473 |
+| 2026-01-21 | Jack stands (6-ton) | Home Depot | $63.32 | Vehicle safety | WH21384422 |
+| 2026-01-21 | Drain container (16 qt) | Home Depot | $13.98 | Planning & Assessment | WH21384422 |
 | _____ | Brake bleeder kit | Harbor Freight | $25 | Brake work | _____ |
 | _____ | Gear puller set | Amazon | $30 | U-joints | _____ |
 | _____ | Pickle fork | Harbor Freight | $15 | Ball joints | _____ |
 | _____ | Torque wrench | Harbor Freight | $40 | All phases | _____ |
-| _____ |  |  | $ |  |  |
-| | | **Total:** | **$_____** | | |
+| | | **Total:** | **$82.31** | | |
 
 **Note:** Tools have residual value and can be used for future maintenance.
 
@@ -367,6 +361,28 @@ Track unexpected costs not in original budget:
 **Contingency Notes:**
 - 
 - 
+
+---
+
+## TAX & SHIPPING BY ORDER
+
+Track tax and shipping costs by order to simplify accounting (parts may span multiple phases):
+
+| Order # | Vendor | Order Date | Parts Subtotal | Tax + Shipping | Order Total |
+|---------|--------|------------|----------------|----------------|-------------|
+| WH20875375 | Home Depot | 2026-01-15 | $51.08 | $4.85 | $55.93 |
+| WH21384422 | Home Depot | 2026-01-21 | $104.26 | $10.06 | $114.32 |
+| 335187809 | RockAuto | 2026-01-24 | $71.11 | $41.19 | $112.30 |
+| 210627708473 | AutoZone | 2026-01-24 | $42.96 | $4.19 | $47.15 |
+| 31-883336 | Parts Geek | 2026-01-25 | $164.95 | $20.21 | $185.16 |
+| 335297769 | RockAuto | 2026-01-26 | $136.18 | $90.61 | $226.79 |
+| | | | **Total Parts:** | **Tax+Ship:** | **Grand Total:** |
+| | | | **$570.54** | **$171.11** | **$741.65** |
+
+**Tax & Shipping Notes:**
+- Tax/shipping represents 23% of total spend — consider consolidating orders when possible
+- RockAuto shipping can be high; watch for free shipping thresholds
+- Home Depot orders include pickup, so lower shipping costs
 
 ---
 
@@ -486,33 +502,22 @@ Document ways you saved money:
 
 ---
 
-## PAYMENT METHODS TRACKING
-
-Track how expenses were paid (for credit card rewards, expense tracking, etc.):
-
-| Payment Method | Amount | % of Total | Rewards/Points Earned |
-|----------------|--------|------------|-----------------------|
-| Cash | $_____ | ___% | N/A |
-| Credit Card 1 | $_____ | ___% | _____ points |
-| Credit Card 2 | $_____ | ___% | _____ points |
-| Debit Card | $_____ | _____ | N/A |
-| **Total** | **$_____** | **100%** | |
-
----
-
 ## VENDOR SPENDING SUMMARY
 
 Track spending by vendor for future reference:
 
 | Vendor | Total Spent | # of Orders | Avg Order | Would Use Again? | Notes |
 |--------|-------------|-------------|-----------|------------------|-------|
-| RockAuto | $_____ | ___ | $_____ | ✅ / ❌ | Good prices, multiple shipments |
-| NAPA | $_____ | ___ | $_____ | ✅ / ❌ | Local, convenient |
-| Amazon | $_____ | ___ | $_____ | ✅ / ❌ | |
-| Harbor Freight | $_____ | ___ | $_____ | ✅ / ❌ | Tools |
-| Local Junkyard | $_____ | ___ | $_____ | ✅ / ❌ | |
-| Mobile Mechanic | $_____ | ___ | $_____ | ✅ / ❌ | |
-| **Total** | **$_____** | | | | |
+| RockAuto | $339.09 | 2 | $169.55 | ✅ | Good prices, multiple shipments |
+| Home Depot | $170.25 | 2 | $85.13 | ✅ | Local pickup, consumables |
+| Parts Geek | $185.16 | 1 | $185.16 | ✅ | New driveshaft, fast shipping |
+| AutoZone | $47.15 | 1 | $47.15 | ✅ | Local pickup, UV supplies |
+| NAPA | $0.00 | 0 | - | ✅ / ❌ | Local, convenient |
+| Amazon | $0.00 | 0 | - | ✅ / ❌ | |
+| Harbor Freight | $0.00 | 0 | - | ✅ / ❌ | Tools |
+| Local Junkyard | $0.00 | 0 | - | ✅ / ❌ | |
+| Mobile Mechanic | $0.00 | 0 | - | ✅ / ❌ | |
+| **Total** | **$741.65** | **6** | | | |
 
 ---
 
@@ -522,13 +527,13 @@ Track spending by month to monitor cash flow:
 
 | Month | Phase(s) | Amount | Cumulative | Notes |
 |-------|----------|--------|------------|-------|
-| January 2026 | 0 | $_____ | $_____ | Assessment phase |
+| January 2026 | 0, 1, 2 | $741.65 | $741.65 | Assessment + early parts ordering |
 | February 2026 | 1, 2 | $_____ | $_____ | |
 | March 2026 | 1, 2 | $_____ | $_____ | |
 | April 2026 | 3 | $_____ | $_____ | |
 | May 2026 | 4 | $_____ | $_____ | |
 | June 2026 | 5 | $_____ | $_____ | |
-| **Total** | | **$_____** | | |
+| **Total** | | **$741.65** | | |
 
 ---
 
