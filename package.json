@@ -1,0 +1,21 @@
+{
+  "name": "mad-max",
+  "version": "1.0.0",
+  "description": "Farm utility truck rescue: providing reliable all-weather transportation for livestock care and farm operations within a 50-mile radius of SHAES farm.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "web": "web"
+  },
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "process-images": "node scripts/process-images.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["jeep", "comanche", "restoration", "documentation"],
+  "author": "SHAES Farm",
+  "license": "ISC",
+  "devDependencies": {
+    "sharp": "^0.33.0"
+  }
+}
