@@ -4,7 +4,7 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Spend:** $344.61 (update as purchases made)
+**Current Spend:** $571.40 (update as purchases made)
 
 ## Document Relationship
 
@@ -138,11 +138,12 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Brake lines (steel, pre-bent) | Kit | $80 | RockAuto/Inline Tube | - | 📋 | | **IF NEEDED** if rusted |
 | Brake line fitting assortment | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
 | **Parking brake:** | | | | | | | |
-| Parking brake cables | Set | $60 | RockAuto | - | 📋 | | Front and rear |
-| Parking brake hardware | 1 | $30 | RockAuto | - | 📋 | | Springs, clips |
+| Parking brake cable (front) | 1 | $30 | RockAuto | RAYBESTOS BC93549 | 🛒 | $21.79 | Ordered 2026-01-26 |
+| Parking brake cable (rear) | 1 | $30 | RockAuto | RAYBESTOS BC93550 | 🛒 | $24.79 | Ordered 2026-01-26 |
+| Parking brake strut spring | 2 | $5 | RockAuto | RAYBESTOS H1338 | 🛒 | $3.80 | Ordered 2026-01-26 |
 | Parking brake lever assembly | 1 | $40 | Junkyard | - | 📋 | | **IF MISSING** |
 
-**Brake System Subtotal:** $200-650 (depending on condition)
+**Brake System Subtotal:** $200-650 estimated | $50.38 actual
 
 **Sourcing Notes:**
 - Assess condition in Phase 0 before ordering
@@ -159,10 +160,12 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Center link | 1 | $50 | RockAuto | - | 📋 | | **IF NEEDED** |
 | Ball joints (upper) | 2 | $60 | RockAuto | - | 📋 | | **IF NEEDED** - test first |
 | Ball joints (lower) | 2 | $60 | RockAuto | - | 📋 | | **IF NEEDED** - test first |
+| Control arm bushing kit (upper) | 2 | $20 | RockAuto | MOOG K3128 | 🛒 | $18.24 | Ordered 2026-01-26 |
+| Control arm bushing kit (lower) | 2 | $28 | RockAuto | MOOG K3131 | 🛒 | $26.44 | Ordered 2026-01-26 |
 | Power steering hoses | 2 | $40 | Auto parts | - | 📋 | | **IF NEEDED** if leaking |
 | Power steering fluid | 1 qt | $10 | Auto parts | - | 📋 | | Top-off or flush |
 
-**Steering Subtotal:** $80-360 (depending on wear)
+**Steering Subtotal:** $128-408 estimated | $44.68 actual
 
 **Sourcing Notes:**
 - Moog "Problem Solver" series preferred for quality
@@ -199,6 +202,14 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Firewall grommets | Assorted | $15 | Auto parts | - | 📋 | | Wire/hose penetrations |
 
 **Weatherproofing Subtotal:** $100-150
+
+### 1.9 Hood & Exterior
+
+| Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
+|------|-----|-----------|--------|-------|--------|-------------|-------|
+| Hood release cable | 1 | $25 | RockAuto | DORMAN 912008 | 🛒 | $24.79 | Ordered 2026-01-26, fits 1992 MJ |
+
+**Hood & Exterior Subtotal:** $25 estimated | $24.79 actual
 
 ---
 
@@ -302,11 +313,12 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Transfer case output seal (rear) | 1 | $8 | RockAuto | TIMKEN 4370N | 🛒 | $6.01 | Ordered 2026-01-24 |
 | Transfer case output seal (front) | 1 | $12 | RockAuto | TIMKEN 710046 | 🛒 | $11.94 | Ordered 2026-01-24 |
+| Transfer case input shaft seal | 1 | $8 | RockAuto | SKF 19255 | 🛒 | $5.93 | Ordered 2026-01-26 |
 | Transfer case gasket | 1 | $25 | RockAuto | - | 📋 | | **IF CASE LEAK** |
-| ATF Dexron III | 2 qt | $20 | Auto parts | - | 📋 | | NP231 or NP207 fluid |
+| ATF Dexron III | 2 qt | $20 | Auto parts | - | 📋 | | NP207 fluid |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📋 | | For sealing |
 
-**Transfer Case Service Subtotal:** $55-75 estimated | $17.95 actual
+**Transfer Case Service Subtotal:** $63-83 estimated | $23.88 actual
 
 ### 2.9 Differential Service
 
@@ -315,10 +327,11 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Differential pinion seal (rear) | 1 | $8 | RockAuto | DANA 43085 | 🛒 | $5.13 | Ordered 2026-01-24 |
 | Differential pinion seal (front) | 1 | $16 | RockAuto | TIMKEN 5778 | 🛒 | $15.91 | Ordered 2026-01-24 |
 | Gear oil 80W-90 GL-5 | 4 qt | $40 | Auto parts | - | 📋 | | Front and rear diffs |
-| Diff cover gaskets | 2 | $20 | Auto parts | - | 📋 | | Front and rear |
+| Diff cover gasket (front Dana 30) | 2 | $10 | RockAuto | FEL-PRO RDS55019 | 🛒 | $8.10 | Ordered 2026-01-26 |
+| Diff cover gasket (rear Dana 35) | 2 | $10 | RockAuto | FEL-PRO RDS13089 | 🛒 | $7.86 | Ordered 2026-01-26 |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📋 | | For extra sealing |
 
-**Differential Service Subtotal:** $94 estimated | $21.04 actual
+**Differential Service Subtotal:** $94 estimated | $37.00 actual
 
 ### 2.10 U-Joints
 
@@ -339,6 +352,16 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Funnel set | 1 | $10 | Auto parts | - | 📋 | | **IF NEEDED** |
 
 **Miscellaneous Subtotal:** $20-60
+
+### 2.12 Engine & Transmission Mounts
+
+| Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
+|------|-----|-----------|--------|-------|--------|-------------|-------|
+| Transmission mount | 1 | $15 | RockAuto | ANCHOR 2858 | 🛒 | $14.44 | Ordered 2026-01-26 |
+| Motor mount (left) | 1 | $10 | RockAuto | ANCHOR 2569 | 🛒 | $7.66 | Ordered 2026-01-26 |
+| Motor mount (right) | 1 | $10 | RockAuto | ANCHOR 2571 | 🛒 | $7.83 | Ordered 2026-01-26 |
+
+**Engine & Transmission Mounts Subtotal:** $35 estimated | $29.93 actual
 
 ---
 
@@ -541,8 +564,8 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Phase | Description | Min Estimate | Max Estimate | Actual Spend | Variance |
 |-------|-------------|--------------|--------------|--------------|----------|
 | **Phase 0** | Planning & Assessment | $87 | $87 | $47.15 | $_____ |
-| **Phase 1** | Safety & Structural | $1,200 | $1,800 | $185.16 | $_____ |
-| **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $112.30 | $_____ |
+| **Phase 1** | Safety & Structural | $1,200 | $1,800 | $305.01 | $_____ |
+| **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $219.24 | $_____ |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $_____ | $_____ |
 | **Phase 4** | Cab & Interior | $320 | $460 | $_____ | $_____ |
 | **Phase 5** | Final Prep & Testing | $293 | $308 | $_____ | $_____ |
@@ -683,6 +706,7 @@ Use this section to track orders and arrivals:
 | 2026-01-24 | RockAuto | 7 parts (U-joints, seals, ignition) | 335187809 | TBD | 🛒 | _____ |
 | 2026-01-24 | AutoZone | UV dye (3), UV flashlight | 210627708473 | 2026-01-26 | 🛒 | _____ |
 | 2026-01-25 | Replacement | Front driveshaft | FedEx 398086396523 | TBD | 🛒 | _____ |
+| 2026-01-26 | RockAuto | 12 parts (mounts, seals, bushings, cables) | 335297769 | TBD | 🛒 | _____ |
 
 ---
 
