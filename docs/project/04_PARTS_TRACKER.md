@@ -36,9 +36,9 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Engine degreaser | 1 gal | $15 | Auto parts | - | 📋 | | |
-| UV dye for oil | 1 bottle | $12 | Auto parts | - | 📋 | | |
-| UV flashlight | 1 | $15 | Amazon | - | 📋 | | If not already owned |
+| Engine degreaser | 1 gal | $15 | Auto parts | - | 📋 | | Gunk engine cleaner |
+| UV dye for oil | 3 bottles | $12 | AutoZone | 374CS | 🛒 | $23.97 | Auto Pro |
+| UV flashlight | 1 | $15 | AutoZone | UV-1 | 🛒 | $18.99 | A/C Pro |
 | Wire brushes | Set | $20 | Harbor Freight | - | 📋 | | For rust cleaning |
 | Rust converter | 1 qt | $25 | Auto parts | - | 📋 | | POR-15 or Rustoleum |
 
