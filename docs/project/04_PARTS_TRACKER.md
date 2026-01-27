@@ -4,7 +4,7 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Spend:** $_______ (update as purchases made)
+**Current Spend:** $112.30 (update as purchases made)
 
 ## Document Relationship
 
@@ -228,10 +228,11 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Ignition switch | 1 | $50 | RockAuto | - | 📋 | | Standard Ignition US-83 |
+| Ignition starter switch | 1 | $50 | RockAuto | SKP SKUS105 | 🛒 | $6.01 | Ordered 2026-01-24 |
+| Ignition lock cylinder | 1 | $10 | RockAuto | WELLS 4H1019 | 🛒 | $7.59 | Ordered 2026-01-24 |
 | Steering column repair connector | 1 | $15 | Auto parts | - | 📋 | | **IF NEEDED** if melted |
 
-**Ignition System Subtotal:** $50-65
+**Ignition System Subtotal:** $60-75 estimated | $13.60 actual
 
 ### 2.3 Engine Tune-Up
 
@@ -299,31 +300,34 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Transfer case output seals | 2 | $15 | Auto parts | - | 📋 | | Front and rear |
+| Transfer case output seal (rear) | 1 | $8 | RockAuto | TIMKEN 4370N | 🛒 | $6.01 | Ordered 2026-01-24 |
+| Transfer case output seal (front) | 1 | $12 | RockAuto | TIMKEN 710046 | 🛒 | $11.94 | Ordered 2026-01-24 |
 | Transfer case gasket | 1 | $25 | RockAuto | - | 📋 | | **IF CASE LEAK** |
 | ATF Dexron III | 2 qt | $20 | Auto parts | - | 📋 | | NP231 or NP207 fluid |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📋 | | For sealing |
 
-**Transfer Case Service Subtotal:** $40-70
+**Transfer Case Service Subtotal:** $55-75 estimated | $17.95 actual
 
 ### 2.9 Differential Service
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
+| Differential pinion seal (rear) | 1 | $8 | RockAuto | DANA 43085 | 🛒 | $5.13 | Ordered 2026-01-24 |
+| Differential pinion seal (front) | 1 | $16 | RockAuto | TIMKEN 5778 | 🛒 | $15.91 | Ordered 2026-01-24 |
 | Gear oil 80W-90 GL-5 | 4 qt | $40 | Auto parts | - | 📋 | | Front and rear diffs |
 | Diff cover gaskets | 2 | $20 | Auto parts | - | 📋 | | Front and rear |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📋 | | For extra sealing |
 
-**Differential Service Subtotal:** $70
+**Differential Service Subtotal:** $94 estimated | $21.04 actual
 
 ### 2.10 U-Joints
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Rear driveshaft U-joints | 2 | $50 | Auto parts | - | 📋 | | **IF NEEDED** - Spicer 5-260X |
+| Rear driveshaft U-joints | 2 | $50 | RockAuto | DANA 5153X | 🛒 | $26.76 | Ordered 2026-01-24 |
 | Front driveshaft U-joints | 2 | $50 | Auto parts | - | 📋 | | **IF NEEDED** - may be included with new shaft |
 
-**U-Joint Subtotal:** $50-100
+**U-Joint Subtotal:** $50-100 estimated | $26.76 actual
 
 ### 2.11 Miscellaneous Fluids & Supplies
 
@@ -538,7 +542,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 |-------|-------------|--------------|--------------|--------------|----------|
 | **Phase 0** | Planning & Assessment | $87 | $87 | $_____ | $_____ |
 | **Phase 1** | Safety & Structural | $1,200 | $1,800 | $_____ | $_____ |
-| **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $_____ | $_____ |
+| **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $112.30 | $_____ |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $_____ | $_____ |
 | **Phase 4** | Cab & Interior | $320 | $460 | $_____ | $_____ |
 | **Phase 5** | Final Prep & Testing | $293 | $308 | $_____ | $_____ |
@@ -616,8 +620,8 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 - Switches and electrical
 - Seats
 - Engine parts (same 2.5L and 4.0L engines)
-- Transmission (AX5, AX15)
-- Transfer case (NP231, NP207)
+- Transmission (AX5)
+- Transfer case (NP207)
 - Front axle (Dana 30)
 - Suspension components (similar/same)
 
@@ -676,7 +680,7 @@ Use this section to track orders and arrivals:
 
 | Order Date | Vendor | Items | Order # | Est. Arrival | Status | Received Date |
 |------------|--------|-------|---------|--------------|--------|---------------|
-| _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
+| 2026-01-24 | RockAuto | 7 parts (U-joints, seals, ignition) | 335187809 | TBD | 🛒 | _____ |
 | _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
 | _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
 
