@@ -4,7 +4,7 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Spend:** $297.46 (update as purchases made)
+**Current Spend:** $344.61 (update as purchases made)
 
 ## Document Relationship
 
@@ -37,12 +37,12 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Engine degreaser | 1 gal | $15 | Auto parts | - | 📋 | | Gunk engine cleaner |
-| UV dye for oil | 3 bottles | $12 | AutoZone | 374CS | 🛒 | $23.97 | Auto Pro |
-| UV flashlight | 1 | $15 | AutoZone | UV-1 | 🛒 | $18.99 | A/C Pro |
+| UV dye for oil | 3 bottles | $12 | AutoZone | 374CS | 🛒 | $23.97 | Auto Pro, Order #210627708473 |
+| UV flashlight | 1 | $15 | AutoZone | UV-1 | 🛒 | $18.99 | A/C Pro, Order #210627708473 |
 | Wire brushes | Set | $20 | Harbor Freight | - | 📋 | | For rust cleaning |
 | Rust converter | 1 qt | $25 | Auto parts | - | 📋 | | POR-15 or Rustoleum |
 
-**Phase 0 Subtotal:** $87 estimated
+**Phase 0 Subtotal:** $87 estimated | $47.15 actual (incl. tax)
 
 ---
 
@@ -540,7 +540,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Phase | Description | Min Estimate | Max Estimate | Actual Spend | Variance |
 |-------|-------------|--------------|--------------|--------------|----------|
-| **Phase 0** | Planning & Assessment | $87 | $87 | $_____ | $_____ |
+| **Phase 0** | Planning & Assessment | $87 | $87 | $47.15 | $_____ |
 | **Phase 1** | Safety & Structural | $1,200 | $1,800 | $185.16 | $_____ |
 | **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $112.30 | $_____ |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $_____ | $_____ |
@@ -681,8 +681,8 @@ Use this section to track orders and arrivals:
 | Order Date | Vendor | Items | Order # | Est. Arrival | Status | Received Date |
 |------------|--------|-------|---------|--------------|--------|---------------|
 | 2026-01-24 | RockAuto | 7 parts (U-joints, seals, ignition) | 335187809 | TBD | 🛒 | _____ |
+| 2026-01-24 | AutoZone | UV dye (3), UV flashlight | 210627708473 | 2026-01-26 | 🛒 | _____ |
 | 2026-01-25 | Replacement | Front driveshaft | FedEx 398086396523 | TBD | 🛒 | _____ |
-| _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
 
 ---
 
