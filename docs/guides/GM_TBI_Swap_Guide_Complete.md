@@ -4,7 +4,7 @@
 **Document Version:** 2.0  
 **Last Updated:** January 2026  
 **Project:** "Mad Maxine" Daily Driver Rebuild  
-**VIN:** 1JTHL6571GT042524  
+**VIN:** 1JTHL6571GT042543  
 **Companion Document:** Phase_A_Renix_Harness_Cleanup_Guide.md
 
 ---

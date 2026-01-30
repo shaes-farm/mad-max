@@ -30,11 +30,11 @@ This Brief is part of a modular documentation system:
 | Attribute | Value |
 |-----------|-------|
 | **Name** | "Mad Maxine" |
-| **VIN** | 1JTHL6571GT042524 |
+| **VIN** | 1JTHL6571GT042543 |
 | Year | 1986 (confirmed: "G" = 1986) |
 | Make/Model | Jeep Comanche (MJ) |
 | Assembly Plant | Toledo, Ohio ("T") |
-| Production Sequence | 042524 |
+| Production Sequence | 042543 |
 | Drivetrain | 4x4 Part-time (confirmed: "7" = 4x4) |
 | Engine | 2.5L AMC I4 (150 CID) — **Renix TBI Fuel Injection** |
 | Transmission | AX5 5-Speed Manual (confirmed: "6" = manual) |
@@ -46,8 +46,8 @@ This Brief is part of a modular documentation system:
 
 ### VIN Decode Verification
 ```
-1JTHL6571GT042524
-│││││││││││└────── Production sequence: 042524
+1JTHL6571GT042543
+│││││││││││└────── Production sequence: 042543
 ││││││││││└─────── Assembly plant: T = Toledo
 │││││││││└──────── Model year: G = 1986
 ││││││││└───────── Check digit: 1 (valid)

@@ -3,7 +3,7 @@
 ## Vehicle Identity
 - **Name:** Mad Maxine
 - **Year/Make/Model:** 1986 Jeep Comanche MJ
-- **VIN:** 1JTHL6571GT042524
+- **VIN:** 1JTHL6571GT042543
 - **Current Status:** Non-operational "basket case" - full restoration required
 
 *For complete vehicle specifications, see Jeep_Comanche_Project_Brief.md*
