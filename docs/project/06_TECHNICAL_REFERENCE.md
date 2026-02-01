@@ -3,7 +3,7 @@
 ## Document Purpose
 This document contains **all technical specifications, torque values, fluid capacities, part numbers, and reference information** for the 1986 Jeep Comanche. This is the single authoritative source for technical data. Keep this handy during all work sessions.
 
-**VIN:** 1JTHL6571GT042524  
+**VIN:** 1JTHL6571GT042543  
 **Year:** 1986  
 **Engine:** 2.5L AMC I4 (Renix TBI)  
 **Transmission:** AX5 5-Speed Manual  

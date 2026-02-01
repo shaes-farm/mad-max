@@ -4,7 +4,9 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Spend:** $_______ (update as purchases made)
+**Current Parts Spend:** $720.49 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
+**Tools Spend:** $95.80 (tracked in TOOLS_INVENTORY.md)  
+**Total Spend:** $816.29
 
 ## Document Relationship
 
@@ -37,12 +39,12 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Engine degreaser | 1 gal | $15 | Auto parts | - | 📋 | | Gunk engine cleaner |
-| UV dye for oil | 3 bottles | $12 | AutoZone | 374CS | 🛒 | $23.97 | Auto Pro |
-| UV flashlight | 1 | $15 | AutoZone | UV-1 | 🛒 | $18.99 | A/C Pro |
-| Wire brushes | Set | $20 | Harbor Freight | - | 📋 | | For rust cleaning |
+| UV dye for oil | 3 bottles | $12 | AutoZone | 374CS | 🛒 | $23.97 | Auto Pro, Order #210627708473 |
 | Rust converter | 1 qt | $25 | Auto parts | - | 📋 | | POR-15 or Rustoleum |
 
-**Phase 0 Subtotal:** $87 estimated
+**Phase 0 Subtotal:** $52 estimated | $23.97 actual
+
+**Note:** Tools have been moved to TOOLS_INVENTORY.md document for separate tracking.
 
 ---
 
@@ -76,9 +78,10 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Door hinges (upper/lower) | 1 set | $80 | RockAuto | - | 📋 | | **IF NEEDED** after inspection |
 | Complete door assembly | 1 | $100 | Junkyard | - | 📋 | | **IF NEEDED** if door shell damaged |
 | Welding rod/wire | 5 lb | $30 | Welding supply | - | 📋 | | For repairs |
-| Welding class | 1 | $150 | Community college | - | 📋 | | **HIGHLY RECOMMENDED** |
 
-**Door Repair Subtotal:** $30-360 (depending on damage severity)
+**Door Repair Subtotal:** $30-210 (depending on damage severity)
+
+**Note:** Welding class moved to TOOLS_INVENTORY.md as future training/equipment investment.
 
 **Sourcing Notes:**
 - Inspect first before ordering
@@ -106,10 +109,10 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Front driveshaft (used) | 1 | $100 | Junkyard | - | 📋 | | XJ Cherokee front often fits |
+| Front driveshaft (new) | 1 | $100 | Parts Geek | Replacement 409-419 | 🛒 | $185.16 | Ordered 2026-01-25 |
 | Front U-joints | 2 | $50 | Auto parts | - | 📋 | | Spicer 5-260X or equivalent |
 
-**Driveshaft Subtotal:** $150 (IF INSPECTION SHOWS UNSAFE)
+**Driveshaft Subtotal:** $150 estimated | $185.16 actual
 
 **Sourcing Notes:**
 - XJ Cherokee front driveshaft often interchanges (verify length)
@@ -122,27 +125,39 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | **Front brakes:** | | | | | | | |
-| Brake pads (front) | 1 set | $40 | RockAuto | - | 📋 | | Ceramic or semi-metallic |
+| Brake pads (front) | 1 set | $40 | RockAuto | CENTRIC 10602030 | 🛒 | $26.99 | Ordered 2026-01-30 |
 | Brake rotors (front) | 2 | $80 | RockAuto | - | 📋 | | **IF NEEDED** - measure first |
 | Caliper rebuild kit | 2 | $30 | RockAuto | - | 📋 | | **IF NEEDED** |
 | Brake calipers (remanufactured) | 2 | $120 | RockAuto | - | 📋 | | **IF NEEDED** if seized |
 | Front brake hoses | 2 | $30 | Auto parts | - | 📋 | | **IF NEEDED** if cracked |
 | **Rear brakes:** | | | | | | | |
-| Brake shoes (rear) | 1 set | $40 | RockAuto | - | 📋 | | |
+| Brake shoes (rear) | 1 set | $40 | RockAuto | RAYBESTOS 481PG | 🛒 | $34.89 | Ordered 2026-01-30 |
 | Brake drums (rear) | 2 | $90 | RockAuto | - | 📋 | | **IF NEEDED** - measure first |
-| Wheel cylinders (rear) | 2 | $40 | RockAuto | - | 📋 | | **IF NEEDED** if leaking |
-| Brake hardware kit (rear) | 1 set | $20 | RockAuto | - | 📋 | | Springs, clips |
+| Wheel cylinder (rear left) | 1 | $20 | RockAuto | RAYBESTOS WC17507 | 🛒 | $7.27 | Ordered 2026-01-30 |
+| Wheel cylinder (rear right) | 1 | $20 | RockAuto | RAYBESTOS WC17508 | 🛒 | $7.28 | Ordered 2026-01-30 |
+| Brake hardware kit (rear) | 1 set | $20 | RockAuto | RAYBESTOS H7149 | 🛒 | $5.19 | Ordered 2026-01-30 |
+| Drum brake self adjuster kit (left) | 1 | $15 | RockAuto | RAYBESTOS H2514 | 🛒 | $7.54 | Ordered 2026-01-30 |
+| Drum brake self adjuster kit (right) | 1 | $15 | RockAuto | RAYBESTOS H2515 | 🛒 | $10.83 | Ordered 2026-01-30 |
 | **System components:** | | | | | | | |
 | Brake fluid (DOT 3/4) | 2 qt | $15 | Auto parts | - | 📋 | | For flush |
-| Master cylinder | 1 | $60 | RockAuto | - | 📋 | | **IF NEEDED** if leaking |
+| Brake lubricant | 1 | $5 | RockAuto | PERMATEX 85188 | 🛒 | $2.02 | Ordered 2026-01-30 |
+| Master cylinder | 1 | $60 | RockAuto | CENTRIC 13163031 | 🛒 | $51.79 | Ordered 2026-01-30 |
+| Power brake booster check valve | 1 | $8 | RockAuto | DORMAN 80189 | 🛒 | $3.82 | Ordered 2026-01-30 |
+| Brake pedal pad | 2 | $10 | RockAuto | FAIRCHILD D4108 | 🛒 | $5.86 | Ordered 2026-01-30 |
 | Brake lines (steel, pre-bent) | Kit | $80 | RockAuto/Inline Tube | - | 📋 | | **IF NEEDED** if rusted |
 | Brake line fitting assortment | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
 | **Parking brake:** | | | | | | | |
-| Parking brake cables | Set | $60 | RockAuto | - | 📋 | | Front and rear |
-| Parking brake hardware | 1 | $30 | RockAuto | - | 📋 | | Springs, clips |
+| Parking brake cable (front) | 1 | $30 | RockAuto | RAYBESTOS BC93549 | 🛒 | $21.79 | Ordered 2026-01-26 |
+| Parking brake cable (rear) | 1 | $30 | RockAuto | RAYBESTOS BC93550 | 🛒 | $24.79 | Ordered 2026-01-26 |
+| Parking brake strut spring | 2 | $5 | RockAuto | RAYBESTOS H1338 | 🛒 | $3.80 | Ordered 2026-01-26 |
 | Parking brake lever assembly | 1 | $40 | Junkyard | - | 📋 | | **IF MISSING** |
+| **Wheels & Hardware:** | | | | | | | |
+| Lug nuts | 20 | $25 | RockAuto | DORMAN 611154 | 🛒 | $22.20 | Ordered 2026-01-30 |
+| Lug studs (front) | 10 | $10 | RockAuto | DORMAN 610364 | 🛒 | $4.70 | Ordered 2026-01-30 |
+| Lug studs (rear, longer) | 5 | $5 | RockAuto | DORMAN 610256 | 🛒 | $2.60 | Ordered 2026-01-30 |
+| Lug studs (rear, alt part #) | 5 | $5 | RockAuto | DORMAN 610256 (981881) | 🛒 | $2.60 | Ordered 2026-01-30 |
 
-**Brake System Subtotal:** $200-650 (depending on condition)
+**Brake System Subtotal:** $200-650 estimated | $245.96 actual
 
 **Sourcing Notes:**
 - Assess condition in Phase 0 before ordering
@@ -154,15 +169,17 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Tie rod ends (inner/outer) | 1 set | $80 | RockAoto | - | 📋 | | Moog preferred |
+| Tie rod ends (inner/outer) | 1 set | $80 | RockAuto | - | 📋 | | Moog preferred |
 | Drag link | 1 | $60 | RockAuto | - | 📋 | | **IF NEEDED** |
 | Center link | 1 | $50 | RockAuto | - | 📋 | | **IF NEEDED** |
 | Ball joints (upper) | 2 | $60 | RockAuto | - | 📋 | | **IF NEEDED** - test first |
 | Ball joints (lower) | 2 | $60 | RockAuto | - | 📋 | | **IF NEEDED** - test first |
+| Control arm bushing kit (upper) | 2 | $20 | RockAuto | MOOG K3128 | 🛒 | $18.24 | Ordered 2026-01-26, Qty 2 total |
+| Control arm bushing kit (lower) | 2 | $28 | RockAuto | MOOG K3131 | 🛒 | $26.44 | Ordered 2026-01-26, Qty 2 total |
 | Power steering hoses | 2 | $40 | Auto parts | - | 📋 | | **IF NEEDED** if leaking |
 | Power steering fluid | 1 qt | $10 | Auto parts | - | 📋 | | Top-off or flush |
 
-**Steering Subtotal:** $80-360 (depending on wear)
+**Steering Subtotal:** $128-408 estimated | $44.68 actual
 
 **Sourcing Notes:**
 - Moog "Problem Solver" series preferred for quality
@@ -178,9 +195,10 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | POR-15 top coat (black) | 1 qt | $45 | Amazon | - | 📋 | | Over chassis paint |
 | Fluid Film (5 gal) | 1 | $120 | Amazon | - | 📋 | | Annual undercoating |
 | Cavity wax (aerosol) | 4 cans | $40 | Auto parts | - | 📋 | | Inside frame rails |
-| Brushes/rollers | Set | $20 | Hardware store | - | 📋 | | For POR-15 application |
 
-**Rust Prevention Subtotal:** $310
+**Rust Prevention Subtotal:** $290
+
+**Note:** Brushes/rollers moved to TOOLS_INVENTORY.md.
 
 **Sourcing Notes:**
 - POR-15 is expensive but very durable
@@ -200,9 +218,17 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 **Weatherproofing Subtotal:** $100-150
 
+### 1.9 Hood & Exterior
+
+| Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
+|------|-----|-----------|--------|-------|--------|-------------|-------|
+| Hood release cable | 1 | $25 | RockAuto | DORMAN 912008 | 🛒 | $24.79 | Ordered 2026-01-26, fits 1992 MJ |
+
+**Hood & Exterior Subtotal:** $25 estimated | $24.79 actual
+
 ---
 
-**PHASE 1 TOTAL:** $1,200-1,800
+**PHASE 1 TOTAL:** $1,180-1,760 estimated | $340.11 actual
 
 ---
 
@@ -212,48 +238,52 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Oil pressure sending unit | 1 | $25 | Auto parts | - | 📋 | | Standard Motor Products PS308 |
-| Valve cover gasket | 1 | $15 | Auto parts | - | 📋 | | Felpro or OEM |
+| Oil pressure sending unit | 1 | $25 | RockAuto | STANDARD MOTOR PRODUCTS PS155T | 🛒 | $11.35 | Ordered 2026-01-30 |
+| Valve cover gasket | 2 | $15 | RockAuto | FEL-PRO VS50245R | 🛒 | $4.00 | Ordered 2026-01-30, Qty 2 |
+| Oil filter adapter gasket | 1 | $5 | RockAuto | FEL-PRO 70301 | 🛒 | $0.65 | Ordered 2026-01-30 |
 | RTV silicone gasket maker | 1 tube | $10 | Auto parts | - | 📋 | | Per FSM for valve cover |
 | Rear main seal | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
 | Oil pan gasket | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
 | Front crankshaft seal | 1 | $15 | Auto parts | - | 📋 | | **IF NEEDED** |
-| Distributor O-ring | 1 | $10 | Auto parts | - | 📋 | | **IF NEEDED** |
+| Distributor O-ring | 1 | $10 | RockAuto | MAHLE/CLEVITE 72219 | 🛒 | $0.86 | Ordered 2026-01-30 |
+| Thermostat housing seal | 1 | $5 | RockAuto | MAHLE/CLEVITE 72217 | 🛒 | $0.50 | Ordered 2026-01-30 |
 | Engine oil (10W-30 or 10W-40) | 5 qt | $25 | Auto parts | - | 📋 | | For changes during repair |
 | Oil filter | 2 | $12 | Auto parts | - | 📋 | | Wix 51515 or equivalent |
 
-**Oil Leak Repairs Subtotal:** $55-152
+**Oil Leak Repairs Subtotal:** $55-152 estimated | $17.36 actual
 
 ### 2.2 Ignition System
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Ignition switch | 1 | $50 | RockAuto | - | 📋 | | Standard Ignition US-83 |
+| Ignition starter switch | 1 | $50 | RockAuto | SKP SKUS105 | 🛒 | $6.01 | Ordered 2026-01-24 |
+| Ignition lock cylinder | 1 | $10 | RockAuto | WELLS 4H1019 | 🛒 | $7.59 | Ordered 2026-01-24 |
 | Steering column repair connector | 1 | $15 | Auto parts | - | 📋 | | **IF NEEDED** if melted |
 
-**Ignition System Subtotal:** $50-65
+**Ignition System Subtotal:** $60-75 estimated | $13.60 actual
 
 ### 2.3 Engine Tune-Up
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Spark plugs | 4 | $15 | Auto parts | - | 📋 | | Champion RC12YC (copper) |
-| Spark plug wires | 1 set | $35 | Auto parts | - | 📋 | | **IF NEEDED** - test resistance first |
-| Distributor cap | 1 | $20 | Auto parts | - | 📋 | | |
-| Distributor rotor | 1 | $10 | Auto parts | - | 📋 | | |
+| Spark plugs | 4 | $15 | RockAuto | NGK 7252 | 🛒 | $8.28 | Ordered 2026-01-30 |
+| Spark plug wires | 1 set | $35 | RockAuto | NGK 53292 | 🛒 | $15.15 | Ordered 2026-01-30 |
+| Distributor cap & rotor | 1 | $20 | RockAuto | WELLS 3D1016A | 🛒 | $10.26 | Ordered 2026-01-30 |
+| Throttle body gasket | 1 | $5 | RockAuto | FEL-PRO 60747 | 🛒 | $1.39 | Ordered 2026-01-30 |
 | Air filter | 1 | $20 | Auto parts | - | 📋 | | |
-| Fuel filter | 1 | $15 | Auto parts | - | 📋 | | In-line filter |
-| PCV valve | 1 | $8 | Auto parts | - | 📋 | | |
+| Fuel filter | 1 | $15 | RockAuto | WIX 33486 | 🛒 | $12.44 | Ordered 2026-01-30 |
+| PCV valve | 1 | $8 | RockAuto | STANDARD MOTOR PRODUCTS V207 | 🛒 | $3.57 | Ordered 2026-01-30 |
+| PCV grommet | 1 | $5 | RockAuto | DORMAN 42059 | 🛒 | $2.38 | Ordered 2026-01-30 |
 
-**Tune-Up Subtotal:** $88-123
+**Tune-Up Subtotal:** $88-123 estimated | $53.47 actual
 
 ### 2.4 Cooling System
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Thermostat (195°F) | 1 | $15 | Auto parts | - | 📋 | | OEM temp rating |
-| Thermostat gasket | 1 | $5 | Auto parts | - | 📋 | | |
-| Antifreeze (50/50) | 2 gal | $30 | Auto parts | - | 📋 | | Pre-mixed for winter |
+| Thermostat (195°F) | 1 | $15 | RockAuto | MOTORAD 200195 | 🛒 | $3.72 | Ordered 2026-01-30 |
+| Thermostat housing gasket | 1 | $5 | RockAuto | FEL-PRO 35024 | 🛒 | $0.86 | Ordered 2026-01-30 |
+| Antifreeze (concentrate) | 3 gal | $45 | Home Depot | 1000045487 | 📦 | $40.44 | Prestone 10yr/300k mi |
 | Radiator cap | 1 | $15 | Auto parts | - | 📋 | | **IF NOT HOLDING PRESSURE** |
 | Upper radiator hose | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
 | Lower radiator hose | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
@@ -261,19 +291,19 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Radiator (2-row) | 1 | $180 | RockAuto | - | 📋 | | **DEFER TO SPRING** if not leaking |
 | Water pump | 1 | $85 | RockAuto | - | 📋 | | **DEFER TO SPRING** if not leaking |
 
-**Cooling System Subtotal:** $50-390 (defer radiator/water pump if not needed now)
+**Cooling System Subtotal:** $65-405 estimated | $45.02 actual
 
 ### 2.5 Renix Sensors
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Coolant temperature sensor (CTS) | 1 | $25 | Auto parts | - | 📋 | | **LIKELY NEEDED** for rough idle |
+| Coolant temperature sensor (CTS) | 1 | $30 | RockAuto | STANDARD MOTOR PRODUCTS TX28 | 🛒 | $28.89 | Ordered 2026-01-30 |
 | Throttle position sensor (TPS) | 1 | $35 | Auto parts | - | 📋 | | **IF NEEDED** - test first |
 | Oxygen sensor | 1 | $40 | Auto parts | - | 📋 | | **IF NEEDED** - test first |
 | Throttle body cleaner | 1 can | $10 | Auto parts | - | 📋 | | For IAC and TB cleaning |
 | Electrical contact cleaner | 1 can | $8 | Auto parts | - | 📋 | | For grounds and connectors |
 
-**Sensor Service Subtotal:** $18-118
+**Sensor Service Subtotal:** $18-118 estimated | $28.89 actual
 
 ### 2.6 Battery & Charging
 
@@ -282,9 +312,9 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Battery (Group 34) | 1 | $150 | Auto parts | - | 📋 | | **IF LOAD TEST FAILS** |
 | Battery terminal kit | 1 | $12 | Auto parts | - | 📋 | | Cleaner and anti-corrosion |
 | Battery hold-down | 1 | $15 | Auto parts | - | 📋 | | **IF MISSING** |
-| Serpentine/V-belt | 1 | $20 | Auto parts | - | 📋 | | **IF CRACKED** |
+| Serpentine/V-belt | 1 | $20 | RockAuto | GATES 7430 | 🛒 | $12.17 | Ordered 2026-01-30 |
 
-**Battery & Charging Subtotal:** $12-197
+**Battery & Charging Subtotal:** $12-197 estimated | $12.17 actual
 
 ### 2.7 Transmission Service
 
@@ -299,31 +329,36 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Transfer case output seals | 2 | $15 | Auto parts | - | 📋 | | Front and rear |
+| Transfer case output seal (rear) | 1 | $8 | RockAuto | TIMKEN 4370N | 🛒 | $6.01 | Ordered 2026-01-24 |
+| Transfer case output seal (front) | 1 | $12 | RockAuto | TIMKEN 710046 | 🛒 | $11.94 | Ordered 2026-01-24 |
+| Transfer case input shaft seal | 1 | $8 | RockAuto | SKF 19255 | 🛒 | $5.93 | Ordered 2026-01-26 |
 | Transfer case gasket | 1 | $25 | RockAuto | - | 📋 | | **IF CASE LEAK** |
-| ATF Dexron III | 2 qt | $20 | Auto parts | - | 📋 | | NP231 or NP207 fluid |
+| ATF Dexron III | 2 qt | $20 | Auto parts | - | 📋 | | NP207 fluid |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📋 | | For sealing |
 
-**Transfer Case Service Subtotal:** $40-70
+**Transfer Case Service Subtotal:** $63-83 estimated | $23.88 actual
 
 ### 2.9 Differential Service
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
+| Differential pinion seal (rear) | 1 | $8 | RockAuto | DANA 43085 | 🛒 | $5.13 | Ordered 2026-01-24 |
+| Differential pinion seal (front) | 1 | $16 | RockAuto | TIMKEN 5778 | 🛒 | $15.91 | Ordered 2026-01-24 |
 | Gear oil 80W-90 GL-5 | 4 qt | $40 | Auto parts | - | 📋 | | Front and rear diffs |
-| Diff cover gaskets | 2 | $20 | Auto parts | - | 📋 | | Front and rear |
+| Diff cover gasket (front Dana 30) | 2 | $10 | RockAuto | FEL-PRO RDS55019 | 🛒 | $8.10 | Ordered 2026-01-26, Qty 2 total |
+| Diff cover gasket (rear Dana 35) | 2 | $10 | RockAuto | FEL-PRO RDS13089 | 🛒 | $7.86 | Ordered 2026-01-26, Qty 2 total |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📋 | | For extra sealing |
 
-**Differential Service Subtotal:** $70
+**Differential Service Subtotal:** $94 estimated | $37.00 actual
 
 ### 2.10 U-Joints
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Rear driveshaft U-joints | 2 | $50 | Auto parts | - | 📋 | | **IF NEEDED** - Spicer 5-260X |
+| Rear driveshaft U-joints | 2 | $50 | RockAuto | DANA 5153X | 🛒 | $26.76 | Ordered 2026-01-24, Qty 2 total |
 | Front driveshaft U-joints | 2 | $50 | Auto parts | - | 📋 | | **IF NEEDED** - may be included with new shaft |
 
-**U-Joint Subtotal:** $50-100
+**U-Joint Subtotal:** $50-100 estimated | $26.76 actual
 
 ### 2.11 Miscellaneous Fluids & Supplies
 
@@ -331,14 +366,38 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Degreaser | 1 gal | $15 | Auto parts | - | 📋 | | For cleaning |
 | Shop rags | 1 box | $20 | Auto parts | - | 📋 | | |
-| Oil drain pan | 1 | $15 | Harbor Freight | - | 📋 | | **IF NEEDED** |
+| Drain container (16 qt) | 1 | $15 | Home Depot | 1001862948 | 📦 | $13.98 | FloTool Super Duty |
 | Funnel set | 1 | $10 | Auto parts | - | 📋 | | **IF NEEDED** |
+| RTV Ultra Black gasket maker | 1 | $10 | Home Depot | 1002752778 | 📦 | $8.48 | Permatex, max oil resistance |
+| RTV High-Temp Red gasket maker | 1 | $10 | Home Depot | 1010441793 | 📦 | $7.98 | Permatex |
+| Threadlocker Orange (high strength) | 1 | $12 | Home Depot | 1006099406 | 📦 | $10.98 | Permatex, removable |
+| Threadlocker Blue (medium strength) | 1 | $8 | Home Depot | 1002752779 | 📦 | $6.48 | Permatex gel |
+| Windshield washer fluid (-20F) | 1 gal | $5 | Home Depot | 1002339399 | 📦 | $3.68 | All season |
 
-**Miscellaneous Subtotal:** $20-60
+**Miscellaneous Subtotal:** $65-105 estimated | $51.58 actual
+
+### 2.12 Engine & Transmission Mounts
+
+| Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
+|------|-----|-----------|--------|-------|--------|-------------|-------|
+| Transmission mount | 1 | $15 | RockAuto | ANCHOR 2858 | 🛒 | $14.44 | Ordered 2026-01-26 |
+| Motor mount (left) | 1 | $10 | RockAuto | ANCHOR 2569 | 🛒 | $7.66 | Ordered 2026-01-26 |
+| Motor mount (right) | 1 | $10 | RockAuto | ANCHOR 2571 | 🛒 | $7.83 | Ordered 2026-01-26 |
+
+**Engine & Transmission Mounts Subtotal:** $35 estimated | $29.93 actual
+
+### 2.13 Clutch System
+
+| Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
+|------|-----|-----------|--------|-------|--------|-------------|-------|
+| Clutch master cylinder | 1 | $20 | RockAuto | LUK LMC203 | 🛒 | $16.32 | Ordered 2026-01-30 |
+| Clutch slave cylinder | 1 | $15 | RockAuto | LUK LSC174 | 🛒 | $10.24 | Ordered 2026-01-30 |
+
+**Clutch System Subtotal:** $35 estimated | $26.56 actual
 
 ---
 
-**PHASE 2 TOTAL:** $483-1,385 (depending on condition assessments)
+**PHASE 2 TOTAL:** $518-1,420 estimated | $356.41 actual
 
 ---
 
@@ -536,17 +595,20 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Phase | Description | Min Estimate | Max Estimate | Actual Spend | Variance |
 |-------|-------------|--------------|--------------|--------------|----------|
-| **Phase 0** | Planning & Assessment | $87 | $87 | $_____ | $_____ |
-| **Phase 1** | Safety & Structural | $1,200 | $1,800 | $_____ | $_____ |
-| **Phase 2** | Drivetrain Reliability | $483 | $1,385 | $_____ | $_____ |
-| **Phase 3** | Electrical Systems | $276 | $1,221 | $_____ | $_____ |
-| **Phase 4** | Cab & Interior | $320 | $460 | $_____ | $_____ |
-| **Phase 5** | Final Prep & Testing | $293 | $308 | $_____ | $_____ |
-| **TOTAL** | | **$2,659** | **$5,261** | **$_____** | **$_____** |
+| **Phase 0** | Planning & Assessment | $52 | $52 | $23.97 | -$28.03 |
+| **Phase 1** | Safety & Structural | $1,180 | $1,760 | $340.11 | Savings |
+| **Phase 2** | Drivetrain Reliability | $518 | $1,420 | $356.41 | Savings |
+| **Phase 3** | Electrical Systems | $276 | $1,221 | $0.00 | TBD |
+| **Phase 4** | Cab & Interior | $320 | $460 | $0.00 | TBD |
+| **Phase 5** | Final Prep & Testing | $293 | $308 | $0.00 | TBD |
+| **TOTAL** | | **$2,639** | **$5,221** | **$720.49** | **On Track** |
 
 **Target Budget:** $3,000 - $5,000  
 **Contingency (20%):** $600 - $1,000  
-**Total with Contingency:** $3,600 - $6,000
+**Total with Contingency:** $3,600 - $6,000  
+**Remaining Budget:** $2,279.51 - $4,279.51
+
+**Note:** Tool purchases ($95.80) tracked separately in TOOLS_INVENTORY.md and not included in parts budget.
 
 ---
 
@@ -616,8 +678,8 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 - Switches and electrical
 - Seats
 - Engine parts (same 2.5L and 4.0L engines)
-- Transmission (AX5, AX15)
-- Transfer case (NP231, NP207)
+- Transmission (AX5)
+- Transfer case (NP207)
 - Front axle (Dana 30)
 - Suspension components (similar/same)
 
@@ -676,9 +738,13 @@ Use this section to track orders and arrivals:
 
 | Order Date | Vendor | Items | Order # | Est. Arrival | Status | Received Date |
 |------------|--------|-------|---------|--------------|--------|---------------|
-| _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
-| _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
-| _____ | _____ | _____ | _____ | _____ | 📋 | _____ |
+| 2026-01-15 | Home Depot | 6 items (coolant, RTV, threadlockers, washer fluid) | WH20875375 | 2026-01-15 | 📦 | 2026-01-15 |
+| 2026-01-21 | Home Depot | Jack stands (tool), antifreeze (2), drain container | WH21384422 | 2026-01-27 | 📦 | 2026-01-30 |
+| 2026-01-24 | RockAuto | 7 parts (U-joints, seals, ignition) | 335187809 | TBD | 🛒 | _____ |
+| 2026-01-24 | AutoZone | UV dye (3), UV flashlight (tool) | 210627708473 | 2026-01-26 | 📦 | 2026-01-28 |
+| 2026-01-24 | Parts Geek | Front driveshaft | 31-883336 | TBD | 📦 | 2026-01-29 |
+| 2026-01-26 | RockAuto | 12 parts (mounts, seals, bushings, cables) | 335297769 | TBD | 🛒 | _____ |
+| 2026-01-30 | RockAuto | 42 parts (brake system, tune-up, cooling, clutch, + 3 tools) | 335576040 | TBD | 🛒 | _____ |
 
 ---
 
@@ -695,5 +761,6 @@ Track when parts are installed:
 ---
 
 **Document Status:** Active Parts Tracker  
-**Last Updated:** January 2026  
-**Next Review:** Update after each purchase and at end of each phase
+**Last Updated:** February 1, 2026  
+**Next Review:** Update after each purchase and at end of each phase  
+**Related Documents:** TOOLS_INVENTORY.md (for tool tracking)
