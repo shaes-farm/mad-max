@@ -31,17 +31,17 @@ This Brief is part of a modular documentation system:
 |-----------|-------|
 | **Name** | "Mad Maxine" |
 | **VIN** | 1JTHL6571GT042543 |
-| Year | 1986 (confirmed: "G" = 1986) |
-| Make/Model | Jeep Comanche (MJ) |
-| Assembly Plant | Toledo, Ohio ("T") |
+| Year | 1986 |
+| Make/Model | Jeep Comanche X (4WD) 7 Ft. Box |
+| Assembly Plant | Toledo, Ohio |
 | Production Sequence | 042543 |
-| Drivetrain | 4x4 Part-time (confirmed: "7" = 4x4) |
+| Drivetrain | 4x4 Part-time |
 | Engine | 2.5L AMC I4 (150 CID) — **Renix TBI Fuel Injection** |
-| Transmission | AX5 5-Speed Manual (confirmed: "6" = manual) |
-| Transfer Case | NP207 (identified from ID tag) |
+| Transmission | AX5 5-Speed Manual |
+| Transfer Case | NP207 |
 | Front Axle | Dana 30 |
 | Rear Axle | Dana 35 |
-| Interior | High-back bucket seats ("H") |
+| Interior | High-back bucket seats |
 | Current Mileage | ~118,000 (odometer non-functional) |
 
 ### VIN Decode Verification
@@ -51,13 +51,64 @@ This Brief is part of a modular documentation system:
 ││││││││││└─────── Assembly plant: T = Toledo
 │││││││││└──────── Model year: G = 1986
 ││││││││└───────── Check digit: 1 (valid)
-│││││││└────────── Drivetrain: 7 = 4x4
-││││││└─────────── Model: 5 = Comanche (MJ)
-│││││└──────────── Transmission: 6 = Manual
-││││└───────────── Engine: L = 2.5L I4 (AMC 150)
-│││└────────────── Interior: H = High-back buckets
+│││││││└────────── Model: 7 = Comanche X (STD Payload)
+│││││││
+│││││└┴─────────── Line: 65 = Comanche Truck (4WD) 7 FT Box
+││││└───────────── Transmission: L = 5 Speed Manual PT Trans. Case
+│││└────────────── Engine: H = 2.46L I4 (AMC 150)
 └┴┴─────────────── Manufacturer: 1JT = Jeep Truck (AMC)
 ```
+
+### Factory Build Sheet
+
+**Build Date:** 9/9/85  
+**Body Model:** JM62  
+
+| Code | Factory Option |
+| ---- | -------------- |
+| *ZZ | TRIM STYLE ZZ - PLASTIC BUCKET SEAT |
+| -ZZ | N/A |
+| AGR | Appearance Group |
+| AGY | Seating Group |
+| AJY | Popular Equipment Package |
+| AWJ | Visibility Group |
+| BAC | 75 AMP ALTERNATOR |
+| BCQ | Battery - Maintenance Free |
+| CGW | N/A |
+| CKA | CARPETS - CLASS I SHORT PILE 8 - 12 OZ |
+| CLE | FLOOR MATS |
+| CUF | FULL LENGTH FRONT CONSOLE |
+| DDQ | Transmission - 5-Speed Manual |
+| EPD | ENGINE - 2.5L I4 TBI GAS |
+| GAC | ALL WINDOWS - TINTED GLASS |
+| GEC | Window - Left Side, Front, Sliding |
+| GFD | SLIDING RR WINDOW |
+| GTZ | MIRRORS - MANUAL REMOTE |
+| HAA | AIR CONDITIONING - FRONT |
+| HCC | HEATER W/UPR LEVEL VENTIL - TYPE II |
+| JAY | Instrument Cluster w/Tach |
+| JFH | TACHOMETER - MECH |
+| JGB | Clock - Digital |
+| JHA | WINDSHIELD WIPERS - DELUXE |
+| JJA | CIGAR LIGHTER - FRT COMP |
+| LAP | FUEL ECONOMY SHIFT INDICATOR LIGHT |
+| LDA | UNDERHOOD COMPT LAMP |
+| LMA | HALOGEN HEADLAMPS |
+| LNJ | DUAL ROAD LAMPS |
+| MBJ | Bumper - Front, Black |
+| MCA | FRONT BUMPER GUARDS |
+| MCB | N/A |
+| MDA | FRT LICENSE PLATE ATTACH REQUIRED |
+| MWB | SPORT BAR |
+| NAA | ESA W/CATALYST (EXC CALIF SYSTEM) |
+| NFA | TANK - 23 GAL FUEL |
+| NHM | AUTO SPEED CONTROL |
+| NMB | ENGINE COOLING - STANDARD DUTY |
+| RAF | RADIO - AM/FM/MTR |
+| SBA | POWER STEERING |
+| SCG | LEATHER STRG WHEEL - EURO/SPORT TYPE |
+| SUA | TILT STEERING COLUMN |
+| WJM | Wheels - 15 x 7.0 Chrome  |
 
 ### Fuel System Clarification
 **Owner-verified:** This vehicle has **Renix throttle body fuel injection (TBI)**, not a carburetor. This makes it an **early-production Renix fuel-injected 1986**, as TBI was phased in during late 1986 production before becoming standard in 1987. Most 1986 2.5L engines were carbureted (Carter BBD).

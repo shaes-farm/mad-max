@@ -70,10 +70,10 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0-50 (latch assembly if needed)
 
 **Task 0.2: Vehicle Photography**
-- [ ] Exterior (all angles, 3/4 views)
-- [ ] Underside (entire frame, suspension)
-- [ ] Engine bay (overview and detail shots)
-- [ ] Interior (dash, floor, doors, seats)
+- [x] Exterior (all angles, 3/4 views)
+- [x] Underside (entire frame, suspension)
+- [x] Engine bay (overview and detail shots)
+- [x] Interior (dash, floor, doors, seats)
 - [ ] All known problem areas with close-ups
 - [ ] VIN plate and ID tags
 - **DIY:** Yes
@@ -117,7 +117,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $30-50 (degreaser, UV dye, UV light if needed)
 
 **Task 0.6: Transfer Case Identification & Leak Assessment**
-- [ ] Locate ID tag on transfer case (NP207 or NP231)
+- [x] Locate ID tag on transfer case (NP207)
 - [ ] Clean area around leak to identify source
 - [ ] Check fluid level (may be low from leak)
 - [ ] Inspect output seals, input seal, case gasket, speedometer drive
@@ -127,12 +127,12 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0
 
 **Task 0.7: Front Driveshaft Safety Inspection** ⚠️ CRITICAL SAFETY
-- [ ] Photograph welds from all angles
-- [ ] Check for cracks in welds or parent metal
-- [ ] Test for straightness (rotate and observe runout)
-- [ ] Check U-joint condition
-- [ ] **DECISION POINT:** Have mobile mechanic inspect if any concerns
-- [ ] Plan for replacement if welds are questionable
+- [x] Photograph welds from all angles
+- [x] Check for cracks in welds or parent metal
+- [x] Test for straightness (rotate and observe runout)
+- [x] Check U-joint condition
+- [x] **DECISION POINT:** Have mobile mechanic inspect if any concerns
+- [x] Plan for replacement if welds are questionable
 - **DIY:** Visual inspection
 - **Professional:** Mobile mechanic assessment recommended
 - **Est. Time:** 1 hour (plus mobile mechanic time)
