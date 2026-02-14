@@ -40,4 +40,3 @@ Closes [Github Issue #NNN](https://github.com/shaes-farm/mad-max/issues/NNN)
 
 ## Additional Notes
 <!-- Add any other context about the PR here -->
-
