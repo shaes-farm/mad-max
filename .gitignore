@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Generated images
+web/images/thumbnails/
+web/images/webp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
