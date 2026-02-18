@@ -4,9 +4,9 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Parts Spend:** $1,487.02 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
+**Current Parts Spend:** $1,622.34 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
 **Tools Spend:** $95.80 (tracked in TOOLS_INVENTORY.md)  
-**Total Spend:** $1,582.82
+**Total Spend:** $1,718.14
 
 ## Document Relationship
 
@@ -181,10 +181,11 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Sway bar bushing | 1 | $10 | RockAuto | MOOG K3170 | 📦 | $4.59 | Ordered 2026-02-17 |
 | Power steering hoses | 2 | $40 | Auto parts | - | 📋 | | **IF NEEDED** if leaking |
 | Power steering fluid | 1 qt | $10 | Auto parts | - | 📋 | | Top-off or flush |
+| Crown Automotive Shock Isolators | 2 | $20 | Quadratec | 56020-100 | 📦 | $16.78 | Ordered 2026-02-06 |
 | Rough Country N3 Steering Stabilizer | 1 | $40 | Quadratec | RC 16211-1700 | 📦 | $39.95 | Ordered 2026-02-06 |
 | Rough Country 3" Lift Kit w/ Add-A-Leaf & N3 Shocks | 1 | $350 | Rough Country | 16211-0260 | 📦 | $349.95 | Ordered 2026-02-03 |
 
-**Steering & Suspension Subtotal:** $128-408 estimated | $62.77 actual
+**Steering & Suspension Subtotal:** $553-823 estimated | $469.45 actual
 
 **Sourcing Notes:**
 - Moog "Problem Solver" series preferred for quality
@@ -192,7 +193,6 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 - Ball joints may require press (mobile mechanic $100-150 labor)
 - Complete lift kit includes new springs and N3 shocks
 - Will require alignment after installation
-
 
 ### 1.7 Rust Prevention & Undercoating
 
@@ -232,14 +232,14 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Hood release cable | 1 | $25 | RockAuto | DORMAN 912008 | 📦 | $24.79 | Ordered 2026-01-26, fits 1992 MJ |
-| Headlamp door / bezel (left) | 1 | $12 | RockAuto | TECHPRO CH2512108 | 📦 | $10.02 | Ordered 2026-02-17 |
-| Headlamp door / bezel (right) | 1 | $12 | RockAuto | TECHPRO CH2513108 | 📦 | $10.02 | Ordered 2026-02-17 |
+| Headlamp bezel (left) | 1 | $12 | RockAuto | TECHPRO CH2512108 | 📦 | $10.02 | Ordered 2026-02-17 |
+| Headlamp bezel (right) | 1 | $12 | RockAuto | TECHPRO CH2513108 | 📦 | $10.02 | Ordered 2026-02-17 |
 
 **Hood & Exterior Subtotal:** $25 estimated | $44.83 actual
 
 ---
 
-**PHASE 1 TOTAL:** $1,180-1,760 estimated | $652.66 actual
+**PHASE 1 TOTAL:** $1,608-2,185 estimated | $1,219.82 actual
 
 ---
 
@@ -611,18 +611,17 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Phase | Description | Min Estimate | Max Estimate | Actual Spend | Variance |
 |-------|-------------|--------------|--------------|--------------|----------|
 | **Phase 0** | Planning & Assessment | $52 | $52 | $23.97 | -$28.03 |
-| **Phase 1** | Safety & Structural | $1,180 | $1,760 | $652.66 | Savings |
+| **Phase 1** | Safety & Structural | $1,608 | $2,185 | $1,219.82 | Savings |
 | **Phase 2** | Drivetrain Reliability | $518 | $1,420 | $395.33 | Savings |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $0.00 | TBD |
 | **Phase 4** | Cab & Interior | $320 | $460 | $0.00 | TBD |
 | **Phase 5** | Final Prep & Testing | $293 | $308 | $0.00 | TBD |
-| **Phase 6** | Future Upgrades / Modifications | $416 | $416 | $415.06 | -$0.94 |
-| **TOTAL** | | **$3,055** | **$5,637** | **$1,487.02** | **On Track** |
+| **TOTAL** | | **$3,067** | **$5,646** | **$1,622.34** | **On Track** |
 
 **Target Budget:** $3,000 - $5,000  
 **Contingency (20%):** $600 - $1,000  
 **Total with Contingency:** $3,600 - $6,000  
-**Remaining Budget:** $1,512.98 - $3,512.98
+**Remaining Budget:** $1,377.66 - $3,377.66
 
 **Note:** Tool purchases ($95.80) tracked separately in TOOLS_INVENTORY.md and not included in parts budget.
 
