@@ -4,9 +4,9 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Parts Spend:** $720.49 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
+**Current Parts Spend:** $982.01 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
 **Tools Spend:** $95.80 (tracked in TOOLS_INVENTORY.md)  
-**Total Spend:** $816.29
+**Total Spend:** $1,077.81
 
 ## Document Relationship
 
@@ -142,6 +142,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Brake lubricant | 1 | $5 | RockAuto | PERMATEX 85188 | 📦 | $2.02 | Ordered 2026-01-30 |
 | Master cylinder | 1 | $60 | RockAuto | CENTRIC 13163031 | 📦 | $51.79 | Ordered 2026-01-30 |
 | Power brake booster check valve | 1 | $8 | RockAuto | DORMAN 80189 | 📦 | $3.82 | Ordered 2026-01-30 |
+| Power brake booster | 1 | $60 | RockAuto | SKP SK5474040 | 📦 | $59.79 | Ordered 2026-02-17 |
 | Brake pedal pad | 2 | $10 | RockAuto | FAIRCHILD D4108 | 📦 | $5.86 | Ordered 2026-01-30 |
 | Brake lines (steel, pre-bent) | Kit | $80 | RockAuto/Inline Tube | - | 📋 | | **IF NEEDED** if rusted |
 | Brake line fitting assortment | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
@@ -156,7 +157,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Lug studs (rear, longer) | 5 | $5 | RockAuto | DORMAN 610256 | 📦 | $2.60 | Ordered 2026-01-30 |
 | Lug studs (rear, alt part #) | 5 | $5 | RockAuto | DORMAN 610256 (981881) | 📦 | $2.60 | Ordered 2026-01-30 |
 
-**Brake System Subtotal:** $200-650 estimated | $245.96 actual
+**Brake System Subtotal:** $200-650 estimated | $305.75 actual
 
 **Sourcing Notes:**
 - Assess condition in Phase 0 before ordering
@@ -175,10 +176,12 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Ball joints (lower) | 2 | $60 | RockAuto | - | 📋 | | **IF NEEDED** - test first |
 | Control arm bushing kit (upper) | 2 | $20 | RockAuto | MOOG K3128 | 📦 | $18.24 | Ordered 2026-01-26, Qty 2 total |
 | Control arm bushing kit (lower) | 2 | $28 | RockAuto | MOOG K3131 | 📦 | $26.44 | Ordered 2026-01-26, Qty 2 total |
+| Sway bar link | 2 | $15 | RockAuto | MOOG K3150 | 📦 | $13.50 | Ordered 2026-02-17, Qty 2 |
+| Sway bar bushing | 1 | $10 | RockAuto | MOOG K3170 | 📦 | $4.59 | Ordered 2026-02-17 |
 | Power steering hoses | 2 | $40 | Auto parts | - | 📋 | | **IF NEEDED** if leaking |
 | Power steering fluid | 1 qt | $10 | Auto parts | - | 📋 | | Top-off or flush |
 
-**Steering Subtotal:** $128-408 estimated | $44.68 actual
+**Steering Subtotal:** $128-408 estimated | $62.77 actual
 
 **Sourcing Notes:**
 - Moog "Problem Solver" series preferred for quality
@@ -209,25 +212,28 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| Door seals (weatherstrip) | 2 sets | $50 | RockAuto | - | 📋 | | Driver and passenger |
+| Door seals (weatherstrip) | 1 | $120 | RockAuto | PRECISION DK611084 | 📦 | $115.79 | Ordered 2026-02-17 |
+| Cowl seal | 1 | $10 | RockAuto | PRECISION CS611084 | 📦 | $8.89 | Ordered 2026-02-17 |
 | Windshield gasket | 1 | $40 | RockAuto | - | 📋 | | **IF NEEDED** if leaking |
 | Rear window seal | 1 | $25 | RockAuto | - | 📋 | | **IF NEEDED** |
 | Seam sealer | 2 tubes | $20 | Auto parts | - | 📋 | | Body seam sealing |
 | Firewall grommets | Assorted | $15 | Auto parts | - | 📋 | | Wire/hose penetrations |
 
-**Weatherproofing Subtotal:** $100-150
+**Weatherproofing Subtotal:** $100-150 estimated | $124.68 actual
 
 ### 1.9 Hood & Exterior
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Hood release cable | 1 | $25 | RockAuto | DORMAN 912008 | 📦 | $24.79 | Ordered 2026-01-26, fits 1992 MJ |
+| Headlamp door / bezel (left) | 1 | $12 | RockAuto | TECHPRO CH2512108 | 📦 | $10.02 | Ordered 2026-02-17 |
+| Headlamp door / bezel (right) | 1 | $12 | RockAuto | TECHPRO CH2513108 | 📦 | $10.02 | Ordered 2026-02-17 |
 
-**Hood & Exterior Subtotal:** $25 estimated | $24.79 actual
+**Hood & Exterior Subtotal:** $25 estimated | $44.83 actual
 
 ---
 
-**PHASE 1 TOTAL:** $1,180-1,760 estimated | $340.11 actual
+**PHASE 1 TOTAL:** $1,180-1,760 estimated | $562.71 actual
 
 ---
 
@@ -272,9 +278,9 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Air filter | 1 | $20 | Auto parts | - | 📋 | | |
 | Fuel filter | 1 | $15 | RockAuto | WIX 33486 | 📦 | $12.44 | Ordered 2026-01-30 |
 | PCV valve | 1 | $8 | RockAuto | STANDARD MOTOR PRODUCTS V207 | 📦 | $3.57 | Ordered 2026-01-30 |
-| PCV grommet | 1 | $5 | RockAuto | DORMAN 42059 | 📦 | $2.38 | Ordered 2026-01-30 |
+| PCV grommet | 2 | $5 | RockAuto | DORMAN 42059 | 📦 | $3.87 | Qty 1 @ $2.38 (2026-01-30), Qty 1 @ $1.49 (2026-02-17) |
 
-**Tune-Up Subtotal:** $88-123 estimated | $53.47 actual
+**Tune-Up Subtotal:** $88-123 estimated | $54.96 actual
 
 ### 2.4 Cooling System
 
@@ -312,8 +318,9 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Battery terminal kit | 1 | $12 | Auto parts | - | 📋 | | Cleaner and anti-corrosion |
 | Battery hold-down | 1 | $15 | Auto parts | - | 📋 | | **IF MISSING** |
 | Serpentine/V-belt | 1 | $20 | RockAuto | GATES 7430 | 📦 | $12.17 | Ordered 2026-01-30 |
+| Belt | 1 | $20 | RockAuto | GATES K060820 | 📦 | $20.79 | Ordered 2026-02-17 |
 
-**Battery & Charging Subtotal:** $12-197 estimated | $12.17 actual
+**Battery & Charging Subtotal:** $12-197 estimated | $32.96 actual
 
 ### 2.7 Transmission Service
 
@@ -372,8 +379,11 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Threadlocker Orange (high strength) | 1 | $12 | Home Depot | 1006099406 | 📦 | $10.98 | Permatex, removable |
 | Threadlocker Blue (medium strength) | 1 | $8 | Home Depot | 1002752779 | 📦 | $6.48 | Permatex gel |
 | Windshield washer fluid (-20F) | 1 gal | $5 | Home Depot | 1002339399 | 📦 | $3.68 | All season |
+| Hose clamps (< 1") | 10 | $10 | RockAuto | DORMAN 590024 | 📦 | $8.60 | Ordered 2026-02-17 |
+| Vacuum hose (3/16") | 6 ft | $5 | RockAuto | GATES 27039 | 📦 | $4.68 | Ordered 2026-02-17, Qty 6 |
+| Vacuum hose (1/8") | 6 ft | $4 | RockAuto | GATES 27037 | 📦 | $3.36 | Ordered 2026-02-17, Qty 6 |
 
-**Miscellaneous Subtotal:** $65-105 estimated | $51.58 actual
+**Miscellaneous Subtotal:** $65-105 estimated | $68.22 actual
 
 ### 2.12 Engine & Transmission Mounts
 
@@ -744,6 +754,7 @@ Use this section to track orders and arrivals:
 | 2026-01-24 | Parts Geek | Front driveshaft | 31-883336 | TBD | 📦 | 2026-01-29 |
 | 2026-01-26 | RockAuto | 12 parts (mounts, seals, bushings, cables) | 335297769 | TBD | 📦 | 2026-02-02 |
 | 2026-01-30 | RockAuto | 42 parts (brake system, tune-up, cooling, clutch, + 3 tools) | 335576040 | TBD | 🛒 | _____ |
+| 2026-02-17 | RockAuto | 11 items (brake booster, suspension, seals, hoses, clamps, exterior) | 337239841 | TBD | 🛒 | _____ |
 
 ---
 
@@ -760,6 +771,6 @@ Track when parts are installed:
 ---
 
 **Document Status:** Active Parts Tracker  
-**Last Updated:** February 1, 2026  
+**Last Updated:** February 17, 2026  
 **Next Review:** Update after each purchase and at end of each phase  
 **Related Documents:** TOOLS_INVENTORY.md (for tool tracking)
