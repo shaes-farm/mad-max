@@ -4,9 +4,9 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Parts Spend:** $982.01 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
+**Current Parts Spend:** $1,487.02 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
 **Tools Spend:** $95.80 (tracked in TOOLS_INVENTORY.md)  
-**Total Spend:** $1,077.81
+**Total Spend:** $1,582.82
 
 ## Document Relationship
 
@@ -146,6 +146,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Brake pedal pad | 2 | $10 | RockAuto | FAIRCHILD D4108 | 📦 | $5.86 | Ordered 2026-01-30 |
 | Brake lines (steel, pre-bent) | Kit | $80 | RockAuto/Inline Tube | - | 📋 | | **IF NEEDED** if rusted |
 | Brake line fitting assortment | 1 | $20 | Auto parts | - | 📋 | | **IF NEEDED** |
+| Brake hoses (stainless steel, front & rear) | 1 kit | $90 | Quadratec | RC 16211-5212 | 📦 | $89.95 | Ordered 2026-02-06, 4-6" lift |
 | **Parking brake:** | | | | | | | |
 | Parking brake cable (front) | 1 | $30 | RockAuto | RAYBESTOS BC93549 | 📦 | $21.79 | Ordered 2026-01-26 |
 | Parking brake cable (rear) | 1 | $30 | RockAuto | RAYBESTOS BC93550 | 📦 | $24.79 | Ordered 2026-01-26 |
@@ -157,7 +158,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Lug studs (rear, longer) | 5 | $5 | RockAuto | DORMAN 610256 | 📦 | $2.60 | Ordered 2026-01-30 |
 | Lug studs (rear, alt part #) | 5 | $5 | RockAuto | DORMAN 610256 (981881) | 📦 | $2.60 | Ordered 2026-01-30 |
 
-**Brake System Subtotal:** $200-650 estimated | $305.75 actual
+**Brake System Subtotal:** $200-650 estimated | $395.70 actual
 
 **Sourcing Notes:**
 - Assess condition in Phase 0 before ordering
@@ -165,7 +166,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 - Centric rotors/drums good quality
 - Consider stainless steel brake lines for rust resistance (+$40)
 
-### 1.6 Steering System
+### 1.6 Steering & Suspension System
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
@@ -180,13 +181,18 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Sway bar bushing | 1 | $10 | RockAuto | MOOG K3170 | 📦 | $4.59 | Ordered 2026-02-17 |
 | Power steering hoses | 2 | $40 | Auto parts | - | 📋 | | **IF NEEDED** if leaking |
 | Power steering fluid | 1 qt | $10 | Auto parts | - | 📋 | | Top-off or flush |
+| Rough Country N3 Steering Stabilizer | 1 | $40 | Quadratec | RC 16211-1700 | 📦 | $39.95 | Ordered 2026-02-06 |
+| Rough Country 3" Lift Kit w/ Add-A-Leaf & N3 Shocks | 1 | $350 | Rough Country | 16211-0260 | 📦 | $349.95 | Ordered 2026-02-03 |
 
-**Steering Subtotal:** $128-408 estimated | $62.77 actual
+**Steering & Suspension Subtotal:** $128-408 estimated | $62.77 actual
 
 **Sourcing Notes:**
 - Moog "Problem Solver" series preferred for quality
 - Test all components in Phase 0 before ordering
 - Ball joints may require press (mobile mechanic $100-150 labor)
+- Complete lift kit includes new springs and N3 shocks
+- Will require alignment after installation
+
 
 ### 1.7 Rust Prevention & Undercoating
 
@@ -233,7 +239,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 ---
 
-**PHASE 1 TOTAL:** $1,180-1,760 estimated | $562.71 actual
+**PHASE 1 TOTAL:** $1,180-1,760 estimated | $652.66 actual
 
 ---
 
@@ -406,7 +412,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 ---
 
-**PHASE 2 TOTAL:** $518-1,420 estimated | $356.41 actual
+**PHASE 2 TOTAL:** $518-1,420 estimated | $395.33 actual
 
 ---
 
@@ -605,17 +611,18 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Phase | Description | Min Estimate | Max Estimate | Actual Spend | Variance |
 |-------|-------------|--------------|--------------|--------------|----------|
 | **Phase 0** | Planning & Assessment | $52 | $52 | $23.97 | -$28.03 |
-| **Phase 1** | Safety & Structural | $1,180 | $1,760 | $340.11 | Savings |
-| **Phase 2** | Drivetrain Reliability | $518 | $1,420 | $356.41 | Savings |
+| **Phase 1** | Safety & Structural | $1,180 | $1,760 | $652.66 | Savings |
+| **Phase 2** | Drivetrain Reliability | $518 | $1,420 | $395.33 | Savings |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $0.00 | TBD |
 | **Phase 4** | Cab & Interior | $320 | $460 | $0.00 | TBD |
 | **Phase 5** | Final Prep & Testing | $293 | $308 | $0.00 | TBD |
-| **TOTAL** | | **$2,639** | **$5,221** | **$720.49** | **On Track** |
+| **Phase 6** | Future Upgrades / Modifications | $416 | $416 | $415.06 | -$0.94 |
+| **TOTAL** | | **$3,055** | **$5,637** | **$1,487.02** | **On Track** |
 
 **Target Budget:** $3,000 - $5,000  
 **Contingency (20%):** $600 - $1,000  
 **Total with Contingency:** $3,600 - $6,000  
-**Remaining Budget:** $2,279.51 - $4,279.51
+**Remaining Budget:** $1,512.98 - $3,512.98
 
 **Note:** Tool purchases ($95.80) tracked separately in TOOLS_INVENTORY.md and not included in parts budget.
 
@@ -754,6 +761,8 @@ Use this section to track orders and arrivals:
 | 2026-01-24 | Parts Geek | Front driveshaft | 31-883336 | TBD | 📦 | 2026-01-29 |
 | 2026-01-26 | RockAuto | 12 parts (mounts, seals, bushings, cables) | 335297769 | TBD | 📦 | 2026-02-02 |
 | 2026-01-30 | RockAuto | 42 parts (brake system, tune-up, cooling, clutch, + 3 tools) | 335576040 | TBD | 🛒 | _____ |
+| 2026-02-03 | Quadratec | 3" Rough Country Lift Kit w/ Add-A-Leaf & N3 Shocks | 001623919 | 2026-02-08 | 📦 | 2026-02-08 |
+| 2026-02-06 | Quadratec | Brake lines, N3 stabilizer, shock isolators, D-ring bushings | 001625101 | 2026-02-12 | 📦 | 2026-02-12 |
 | 2026-02-17 | RockAuto | 11 items (brake booster, suspension, seals, hoses, clamps, exterior) | 337239841 | TBD | 🛒 | _____ |
 
 ---
