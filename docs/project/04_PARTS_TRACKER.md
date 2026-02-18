@@ -138,7 +138,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Drum brake self adjuster kit (left) | 1 | $15 | RockAuto | RAYBESTOS H2514 | 📦 | $7.54 | Ordered 2026-01-30 |
 | Drum brake self adjuster kit (right) | 1 | $15 | RockAuto | RAYBESTOS H2515 | 📦 | $10.83 | Ordered 2026-01-30 |
 | **System components:** | | | | | | | |
-| Brake fluid (DOT 3/4) | 2 qt | $15 | Auto parts | - | 🛒 | | For flush |
+| Brake fluid (DOT 3/4) | 3 qt | $15 | Auto parts | $33 | 📦 | | For flush |
 | Brake lubricant | 1 | $5 | RockAuto | PERMATEX 85188 | 📦 | $2.02 | Ordered 2026-01-30 |
 | Master cylinder | 1 | $60 | RockAuto | CENTRIC 13163031 | 📦 | $51.79 | Ordered 2026-01-30 |
 | Power brake booster check valve | 1 | $8 | RockAuto | DORMAN 80189 | 📦 | $3.82 | Ordered 2026-01-30 |
@@ -151,8 +151,8 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Parking brake strut spring | 2 | $5 | RockAuto | RAYBESTOS H1338 | 📦 | $3.80 | Ordered 2026-01-26 |
 | Parking brake lever assembly | 1 | $40 | Junkyard | - | 📋 | | **IF MISSING** |
 | **Wheels & Hardware:** | | | | | | | |
-| Lug nuts | 20 | $25 | RockAuto | DORMAN 611154 | 🛒 | $22.20 | Ordered 2026-01-30 |
-| Lug studs (front) | 10 | $10 | RockAuto | DORMAN 610364 | ⚠️ | $4.70 | Missing 9 of 10 |
+| Lug nuts | 20 | $25 | RockAuto | DORMAN 611154 | 📦 | $22.20 | Ordered 2026-01-30 |
+| Lug studs (front) | 10 | $10 | RockAuto | DORMAN 610364 | 📦 | $4.70 | Missing 9 of 10 |
 | Lug studs (rear, longer) | 5 | $5 | RockAuto | DORMAN 610256 | 📦 | $2.60 | Ordered 2026-01-30 |
 | Lug studs (rear, alt part #) | 5 | $5 | RockAuto | DORMAN 610256 (981881) | 📦 | $2.60 | Ordered 2026-01-30 |
 
@@ -319,7 +319,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
-| ATF Dexron III | 3 qt | $25 | Auto parts | - | 🛒 | | AX5 transmission fluid |
+| ATF Dexron III | 4 qt | $25 | Auto parts | - | 📦 | $20.24 | AX5 transmission fluid |
 | Transmission drain plug gasket | 1 | $5 | Auto parts | - | 📋 | | Copper crush washer |
 
 **Transmission Service Subtotal:** $30
@@ -332,7 +332,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Transfer case output seal (front) | 1 | $12 | RockAuto | TIMKEN 710046 | 📦 | $11.94 | Ordered 2026-01-24 |
 | Transfer case input shaft seal | 1 | $8 | RockAuto | SKF 19255 | 📦 | $5.93 | Ordered 2026-01-26 |
 | Transfer case gasket | 1 | $25 | RockAuto | - | 📋 | | **IF CASE LEAK** |
-| ATF Dexron III | 2 qt | $20 | Auto parts | - | 🛒 | | NP207 fluid |
+| ATF Dexron III | 4 qt | $20 | Auto parts | - | 📦 | $20.24 | NP207 fluid |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📦 | | For sealing |
 
 **Transfer Case Service Subtotal:** $63-83 estimated | $23.88 actual
@@ -343,7 +343,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Differential pinion seal (rear) | 1 | $8 | RockAuto | DANA 43085 | 📦 | $5.13 | Ordered 2026-01-24 |
 | Differential pinion seal (front) | 1 | $16 | RockAuto | TIMKEN 5778 | 📦 | $15.91 | Ordered 2026-01-24 |
-| Gear oil 80W-90 GL-5 | 4 qt | $40 | Auto parts | - | 📋 | | Front and rear diffs |
+| Gear oil 80W-90 GL-5 | 4 qt | $40 | Auto parts | - | 🛒 | | Front and rear diffs |
 | Diff cover gasket (front Dana 30) | 2 | $10 | RockAuto | FEL-PRO RDS55019 | 📦 | $8.10 | Ordered 2026-01-26, Qty 2 total |
 | Diff cover gasket (rear Dana 35) | 2 | $10 | RockAuto | FEL-PRO RDS13089 | 📦 | $7.86 | Ordered 2026-01-26, Qty 2 total |
 | RTV gasket maker | 1 tube | $10 | Auto parts | - | 📦 | | For extra sealing |
