@@ -63,7 +63,7 @@ This document tracks **what is** (current condition). Other documents track **wh
 - [x] **Rocker panels - passenger:** ✅ Condition: **Solid** Rust: **Minor Surface**
 - [x] **Cab corners - driver:** ✅ Condition: **Solid** Rust: **Minor Surface**
 - [x] **Cab corners - passenger:** ✅ Condition: **Solid** Rust: **Minor Surface**
-- [x] **Firewall:** ⚠️ Condition: **80-90% Solid** Rust: **Driver's side near floorpan**
+- [x] **Firewall:** ⚠️ Condition: **80-90% Solid?** Rust: **Driver's side near floorpan**
 - [x] **A-pillars:** ✅ Condition: **Solid** Rust: **Minor Surface**
 - [x] **B-pillars:** ✅ Condition: **Solid** Rust: **Minor Surface**
 - [ ] **Windshield frame:** ❓ Condition: **TBD** Rust: **TBD**
@@ -131,9 +131,9 @@ This document tracks **what is** (current condition). Other documents track **wh
 - [ ] **Smoke from exhaust:** ❓ Color/amount: _______________
 
 ### External Condition
-- [x] **Oil leaks - valve cover:** ❌ KNOWN: Leaking despite "new" gasket
-- [x] **Oil leaks - oil pressure sender:** ❌ KNOWN: Confirmed leak
-- [x] **Oil leaks - major spray passenger side:** ❌ KNOWN: Significant spray in engine bay
+- [x] **Oil leaks - valve cover:** ❌ Leaking despite "new" gasket
+- [x] **Oil leaks - oil pressure sender:** ❌ Confirmed leak
+- [x] **Oil leaks - major spray passenger side:** ❌ Significant spray in engine bay
 - [ ] **Oil leaks - rear main seal:** ❓ Check at bellhousing: _______________
 - [ ] **Oil leaks - oil pan:** ❓ Condition: _______________
 - [ ] **Coolant leaks:** ❓ Any visible: _______________
@@ -154,7 +154,7 @@ This document tracks **what is** (current condition). Other documents track **wh
 - [ ] **Thermostat operation:** ❓ Opens at 195°F: _______________
 - [ ] **Coolant condition:** ❓ Color: _______________ Contamination: _______________
 - [ ] **Coolant level:** ❓ Full/low: _______________
-- [ ] **Overflow tank:** ❓ Present/condition: _______________
+- [x] **Overflow tank:** ❓ Present/condition: ❌ Cap cracked
 
 **Notes:**
 
@@ -172,7 +172,7 @@ This document tracks **what is** (current condition). Other documents track **wh
 - [ ] **Fuel pump:** ❓ Operation/noise: _______________
 
 ### Ignition System
-- [x] **Won't shut off with key:** ❌ KNOWN: Engine continues running after key to OFF
+- [x] **Won't shut off with key:** ❌ Engine continues running after key to OFF
 - [ ] **Ignition switch:** ❓ Likely failed - TEST: _______________
 - [ ] **Distributor cap:** ❓ Cracks/carbon: _______________
 - [ ] **Distributor rotor:** ❓ Condition: _______________
