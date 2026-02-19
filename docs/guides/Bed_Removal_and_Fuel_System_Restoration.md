@@ -3,7 +3,7 @@
 ## 1986 Jeep Comanche MJ — Comprehensive Procedure
 
 **Document Version:** 1.0  
-**Vehicle:** 1986 Jeep Comanche MJ (VIN: 1JTHL6571GT042524)  
+**Vehicle:** 1986 Jeep Comanche MJ (VIN: 1JTHL6571GT042543)  
 **Project:** "Mad Maxine" Daily Driver Restoration  
 **Scope:** Bed removal, fuel tank inspection/restoration, fuel line replacement, brake cable replacement, wiring harness disconnect/relocation  
 **Timeline:** 3-4 weekends, 20-30 hours total  
