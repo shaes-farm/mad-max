@@ -121,7 +121,7 @@ This is why vacuum system integrity is as important as the ground network rebuil
 
 | Item | Size | Quantity | Source | Est. Cost |
 |------|------|----------|--------|-----------|
-| **PCV valve or metered orifice** | AMC 2.5L specific | 1 | NAPA, RockAuto | $5–12 |
+| **Oil separator / CCV metered fitting** | Mopar #53002466 | 1 | Mopar parts supplier | $10–12 |
 | **Valve cover grommets** | AMC 2.5L | 2 | RockAuto | $4–8 |
 | **Breather filter element** (air cleaner side) | Universal | 1 | AutoZone | $3–5 |
 
@@ -589,6 +589,10 @@ PORTED VACUUM (Throttle Body — above throttle plate)
 - A PCV valve (some configurations)
 
 **If you removed the orifice fitting during teardown, reinstall it now.** If the old one is damaged or missing, replace with a new PCV valve or equivalent metered fitting for the AMC 2.5L.
+
+**Factory Part:** Mopar #53002466 — Oil Separator / PCV Filter. This is the correct OEM fitting for the 1986 2.5L AMC. It fits Cherokee, Comanche, and Wrangler applications. Available from Mopar parts suppliers, typically ~$10–12.
+
+**Known condition on this vehicle:** The original fitting was found broken with the vacuum hose clamped directly onto it and electrical tape wrapped around the nipple — a failed field repair that was almost certainly leaking vacuum into the crankcase circuit. Replacement part (Mopar #53002466) has been ordered.
 
 **What happens without the restriction:** Full manifold vacuum (15–20 inHg at idle) pulls directly on the crankcase. This creates excessive crankcase vacuum that draws oil past valve seals and piston rings. Symptoms appear weeks later — oil consumption, blue exhaust smoke, fouled plugs, oil on spark plug threads. It's an easy mistake that creates a hard-to-diagnose problem.
 
