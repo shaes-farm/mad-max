@@ -4,9 +4,9 @@
 This document tracks all parts needed for the restoration, organized by phase. Use this to plan purchases, track orders, and monitor spending. Update status as parts are ordered, received, and installed.
 
 **Budget Target:** $3,000 - $5,000  
-**Current Parts Spend:** $1,622.34 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
+**Current Parts Spend:** $1,750.94 (excludes tools tracked separately in TOOLS_INVENTORY.md)  
 **Tools Spend:** $95.80 (tracked in TOOLS_INVENTORY.md)  
-**Total Spend:** $1,718.14
+**Total Spend:** $1,846.74
 
 ## Document Relationship
 
@@ -150,6 +150,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | **Parking brake:** | | | | | | | |
 | Parking brake cable (front) | 1 | $30 | RockAuto | RAYBESTOS BC93549 | 📦 | $21.79 | Ordered 2026-01-26 |
 | Parking brake cable (rear) | 1 | $30 | RockAuto | RAYBESTOS BC93550 | 📦 | $24.79 | Ordered 2026-01-26 |
+| Parking brake cable (rear, re-order) | 1 | $30 | RockAuto | RAYBESTOS BC93550 | 🛒 | $24.79 | Ordered 2026-02-21, Order #337591052 |
 | Parking brake strut spring | 2 | $5 | RockAuto | RAYBESTOS H1338 | 📦 | $3.80 | Ordered 2026-01-26 |
 | Parking brake lever assembly | 1 | $40 | Junkyard | - | 📋 | | **IF MISSING** |
 | **Wheels & Hardware:** | | | | | | | |
@@ -158,7 +159,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Lug studs (rear, longer) | 5 | $5 | RockAuto | DORMAN 610256 | 📦 | $2.60 | Ordered 2026-01-30 |
 | Lug studs (rear, alt part #) | 5 | $5 | RockAuto | DORMAN 610256 (981881) | 📦 | $2.60 | Ordered 2026-01-30 |
 
-**Brake System Subtotal:** $200-650 estimated | $395.70 actual
+**Brake System Subtotal:** $200-650 estimated | $420.49 actual
 
 **Sourcing Notes:**
 - Assess condition in Phase 0 before ordering
@@ -184,8 +185,10 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Crown Automotive Shock Isolators | 2 | $20 | Quadratec | 56020-100 | 📦 | $16.78 | Ordered 2026-02-06 |
 | Rough Country N3 Steering Stabilizer | 1 | $40 | Quadratec | RC 16211-1700 | 📦 | $39.95 | Ordered 2026-02-06 |
 | Rough Country 3" Lift Kit w/ Add-A-Leaf & N3 Shocks | 1 | $350 | Rough Country | 16211-0260 | 📦 | $349.95 | Ordered 2026-02-03 |
+| Control arm (lower, driver side) | 1 | $25 | RockAuto | DORMAN 520-337 | 🛒 | $21.79 | Ordered 2026-02-21, Order #337591052 |
+| Control arm (lower, passenger side) | 1 | $25 | RockAuto | DORMAN 520-337 | 🛒 | $21.79 | Ordered 2026-02-21, Order #337591052 |
 
-**Steering & Suspension Subtotal:** $553-823 estimated | $469.45 actual
+**Steering & Suspension Subtotal:** $553-823 estimated | $513.03 actual
 
 **Sourcing Notes:**
 - Moog "Problem Solver" series preferred for quality
@@ -239,7 +242,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 ---
 
-**PHASE 1 TOTAL:** $1,608-2,185 estimated | $1,219.82 actual
+**PHASE 1 TOTAL:** $1,608-2,185 estimated | $1,288.19 actual
 
 ---
 
@@ -269,9 +272,10 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Ignition starter switch | 1 | $50 | RockAuto | SKP SKUS105 | 📦 | $6.01 | Ordered 2026-01-24 |
 | Ignition lock cylinder | 1 | $10 | RockAuto | WELLS 4H1019 | 📦 | $7.59 | Ordered 2026-01-24 |
+| Starter motor control relay | 1 | $20 | RockAuto | STANDARD MOTOR PRODUCTS SR105T | 🛒 | $15.00 | Ordered 2026-02-21, Order #337591052 |
 | Steering column repair connector | 1 | $15 | Auto parts | - | 📋 | | **IF NEEDED** if melted |
 
-**Ignition System Subtotal:** $60-75 estimated | $13.60 actual
+**Ignition System Subtotal:** $60-75 estimated | $28.60 actual
 
 ### 2.3 Engine Tune-Up
 
@@ -309,12 +313,14 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Item | Qty | Est. Cost | Source | Part# | Status | Actual Cost | Notes |
 |------|-----|-----------|--------|-------|--------|-------------|-------|
 | Coolant temperature sensor (CTS) | 1 | $30 | RockAuto | STANDARD MOTOR PRODUCTS TX28 | 📦 | $28.89 | Ordered 2026-01-30 |
+| Crankshaft position sensor (CPS) | 1 | $20 | RockAuto | WALKER PRODUCTS 235-1096 | 🛒 | $15.72 | Ordered 2026-02-21, after $1.75 rebate, Order #337591052 |
+| Manifold pressure (MAP) sensor | 1 | $35 | RockAuto | WALKER PRODUCTS 225-91001 | 🛒 | $29.51 | Ordered 2026-02-21, after $3.28 rebate, Order #337591052 |
 | Throttle position sensor (TPS) | 1 | $35 | Auto parts | - | 📋 | | **IF NEEDED** - test first |
 | Oxygen sensor | 1 | $40 | Auto parts | - | 📋 | | **IF NEEDED** - test first |
 | Throttle body cleaner | 1 can | $10 | Auto parts | - | 📋 | | For IAC and TB cleaning |
 | Electrical contact cleaner | 1 can | $8 | Auto parts | - | 📋 | | For grounds and connectors |
 
-**Sensor Service Subtotal:** $18-118 estimated | $28.89 actual
+**Sensor Service Subtotal:** $18-118 estimated | $74.12 actual
 
 ### 2.6 Battery & Charging
 
@@ -412,7 +418,7 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 
 ---
 
-**PHASE 2 TOTAL:** $518-1,420 estimated | $395.33 actual
+**PHASE 2 TOTAL:** $518-1,420 estimated | $455.56 actual
 
 ---
 
@@ -611,17 +617,17 @@ This document focuses on: What to buy, where to buy it, when to buy it, and trac
 | Phase | Description | Min Estimate | Max Estimate | Actual Spend | Variance |
 |-------|-------------|--------------|--------------|--------------|----------|
 | **Phase 0** | Planning & Assessment | $52 | $52 | $23.97 | -$28.03 |
-| **Phase 1** | Safety & Structural | $1,608 | $2,185 | $1,219.82 | Savings |
-| **Phase 2** | Drivetrain Reliability | $518 | $1,420 | $395.33 | Savings |
+| **Phase 1** | Safety & Structural | $1,608 | $2,185 | $1,288.19 | Savings |
+| **Phase 2** | Drivetrain Reliability | $518 | $1,420 | $455.56 | Savings |
 | **Phase 3** | Electrical Systems | $276 | $1,221 | $0.00 | TBD |
 | **Phase 4** | Cab & Interior | $320 | $460 | $0.00 | TBD |
 | **Phase 5** | Final Prep & Testing | $293 | $308 | $0.00 | TBD |
-| **TOTAL** | | **$3,067** | **$5,646** | **$1,622.34** | **On Track** |
+| **TOTAL** | | **$3,067** | **$5,646** | **$1,750.94** | **On Track** |
 
 **Target Budget:** $3,000 - $5,000  
 **Contingency (20%):** $600 - $1,000  
 **Total with Contingency:** $3,600 - $6,000  
-**Remaining Budget:** $1,377.66 - $3,377.66
+**Remaining Budget:** $1,249.06 - $3,249.06
 
 **Note:** Tool purchases ($95.80) tracked separately in TOOLS_INVENTORY.md and not included in parts budget.
 
@@ -763,6 +769,7 @@ Use this section to track orders and arrivals:
 | 2026-02-03 | Quadratec | 3" Rough Country Lift Kit w/ Add-A-Leaf & N3 Shocks | 001623919 | 2026-02-08 | 📦 | 2026-02-08 |
 | 2026-02-06 | Quadratec | Brake lines, N3 stabilizer, shock isolators, D-ring bushings | 001625101 | 2026-02-12 | 📦 | 2026-02-12 |
 | 2026-02-17 | RockAuto | 11 items (brake booster, suspension, seals, hoses, clamps, exterior) | 337239841 | TBD | 🛒 | _____ |
+| 2026-02-21 | RockAuto | 5 items (control arms x2, parking brake cable, starter relay, CPS, MAP sensor) | 337591052 | TBD | 🛒 | _____ |
 
 ---
 
@@ -779,6 +786,6 @@ Track when parts are installed:
 ---
 
 **Document Status:** Active Parts Tracker  
-**Last Updated:** February 17, 2026  
+**Last Updated:** February 21, 2026  
 **Next Review:** Update after each purchase and at end of each phase  
 **Related Documents:** TOOLS_INVENTORY.md (for tool tracking)

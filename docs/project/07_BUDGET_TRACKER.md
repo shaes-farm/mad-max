@@ -5,10 +5,10 @@ This document tracks all financial aspects of the restoration project. Monitor s
 
 **Budget Target:** $3,000 - $5,000  
 **Budget with 20% Contingency:** $3,600 - $6,000  
-**Current Parts Spend:** $808.15  
-**Current Tax & Shipping:** $244.20  
-**Total Parts Budget Spend:** $1,052.35  
-**Remaining Budget:** $1,947.65 - $3,947.65
+**Current Parts Spend:** $936.75  
+**Current Tax & Shipping:** $285.74  
+**Total Parts Budget Spend:** $1,222.49  
+**Remaining Budget:** $1,777.51 - $3,777.51
 
 **Note:** Tool purchases ($109.78) are tracked separately in [TOOLS_INVENTORY.md](TOOLS_INVENTORY.md) and not included in parts budget.
 
@@ -31,15 +31,15 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 | Phase | Budgeted Min | Budgeted Max | Actual Spend | Variance | % of Budget | Status |
 |-------|--------------|--------------|--------------|----------|-------------|--------|
 | **Phase 0** | $52 | $52 | $40.93 | +$11.07 | 79% | 🟢 |
-| **Phase 1** | $1,180 | $1,760 | $495.24 | +$684.76 | 42% | 🟢 |
-| **Phase 2** | $518 | $1,420 | $265.12 | +$252.88 | 51% | 🟢 |
+| **Phase 1** | $1,180 | $1,760 | $563.61 | +$616.39 | 48% | 🟢 |
+| **Phase 2** | $518 | $1,420 | $325.35 | +$192.65 | 63% | 🟢 |
 | **Phase 3** | $276 | $1,221 | $0.00 | - | 0% | 🟢 |
 | **Phase 4** | $320 | $460 | $5.86 | +$314.14 | 2% | 🟢 |
 | **Phase 5** | $293 | $308 | $0.00 | - | 0% | 🟢 |
-| **TOTAL** | **$2,639** | **$5,221** | **$808.15** | **+$1,830.85** | **31%** | 🟢 |
+| **TOTAL** | **$2,639** | **$5,221** | **$936.75** | **+$1,702.25** | **36%** | 🟢 |
 
-**Tax & Shipping:** $244.20 (30% of parts cost - combined orders reduce this percentage)  
-**Grand Total with Tax/Shipping:** $1,052.35
+**Tax & Shipping:** $285.74 (30% of parts cost - combined orders reduce this percentage)  
+**Grand Total with Tax/Shipping:** $1,222.49
 
 **Status Key:**
 - 🟢 Under budget
@@ -54,10 +54,10 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 
 | Category | Budgeted | Actual | Variance | % of Total |
 |----------|----------|--------|----------|------------|
-| **Safety & Structural** | $1,180-1,760 | $495.24 | +$684.76 | 61% |
+| **Safety & Structural** | $1,180-1,760 | $563.61 | +$616.39 | 61% |
 | Exhaust system | $360-445 | $0.00 | - | |
-| Brakes | $200-650 | $210.44 | -$10.44 | |
-| Steering | $80-360 | $44.68 | +$35.32 | |
+| Brakes | $200-650 | $235.23 | -$35.23 | |
+| Steering | $80-360 | $88.26 | -$8.26 | |
 | Door repair | $30-210 | $0.00 | - | |
 | Floor pan repair | $85-305 | $0.00 | - | |
 | Driveshaft | $150 | $164.95 | -$14.95 | |
@@ -66,12 +66,12 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 | Body/Exterior | $25-100 | $24.79 | +$0.21 | |
 | Wheels/Hardware | $0 | $32.10 | -$32.10 | |
 | | | | | |
-| **Drivetrain** | $518-1,420 | $265.12 | +$252.88 | 33% |
+| **Drivetrain** | $518-1,420 | $325.35 | +$192.65 | 35% |
 | Engine repairs | $55-152 | $38.01 | +$16.99 | |
-| Ignition system | $50-65 | $50.29 | -$0.29 | |
+| Ignition system | $50-65 | $65.29 | -$15.29 | |
 | Tune-up | $88-123 | $52.08 | +$35.92 | |
 | Cooling system | $65-405 | $91.57 | -$26.57 | |
-| Sensors | $18-118 | $40.24 | -$22.24 | |
+| Sensors | $18-118 | $85.47 | -$67.47 | |
 | Battery/charging | $12-197 | $12.17 | -$0.17 | |
 | Transmission | $30 | $0.00 | - | |
 | Transfer case | $63-83 | $23.88 | +$39.12 | |
@@ -112,12 +112,12 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 | Antifreeze (for assessment) | | $13.48 | | |
 | Washer fluid | | $3.68 | | |
 | | | | | |
-| **Tax & Shipping** | $150-300 | $244.20 | -$94.20 | 30% |
+| **Tax & Shipping** | $150-300 | $285.74 | -$135.74 | 23% |
 | (Detailed by order below) | | | | |
 | | | | | |
 | **Contingency (Unplanned)** | $600-1,000 | $0.00 | - | 0% |
 | | | | | |
-| **GRAND TOTAL** | **$2,639-5,221** | **$1,052.35** | **+$1,586.65** | **100%** |
+| **GRAND TOTAL** | **$2,639-5,221** | **$1,222.49** | **+$1,416.51** | **100%** |
 
 **Note:** Tool purchases ($109.78) tracked separately in [TOOLS_INVENTORY.md](TOOLS_INVENTORY.md) and excluded from this budget.
 
@@ -164,10 +164,10 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 ## PHASE 1: SAFETY & STRUCTURAL
 
 **Budget:** $1,200 - $1,800  
-**Actual Spend (Parts):** $495.24  
-**Tax/Shipping:** $123.61  
-**Total with Tax/Shipping:** $618.85  
-**Variance:** +$581.15 to +$1,181.15 (under budget)
+**Actual Spend (Parts):** $563.61  
+**Tax/Shipping:** $145.69  
+**Total with Tax/Shipping:** $709.30  
+**Variance:** +$490.70 to +$1,090.70 (under budget)
 
 ### Detailed Expenses
 
@@ -192,15 +192,20 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 | 2026-01-26 | Brake shoes (rear) | RockAuto | 1 | $34.89 | $34.89 | Brakes | 335576040 |
 | 2026-01-26 | Lug nut (qty 20) | RockAuto | 1 | $20.50 | $20.50 | Wheels | 335576040 |
 | 2026-01-26 | Wheel stud (qty 20) | RockAuto | 1 | $11.20 | $11.20 | Wheels | 335576040 |
-| | | | | **Parts Subtotal:** | **$495.24** | | |
+| 2026-02-21 | Control arm (lower, driver) | RockAuto | 1 | $21.79 | $21.79 | Steering | 337591052 |
+| 2026-02-21 | Control arm (lower, passenger) | RockAuto | 1 | $21.79 | $21.79 | Steering | 337591052 |
+| 2026-02-21 | Parking brake cable (rear, re-order) | RockAuto | 1 | $24.79 | $24.79 | Brakes | 337591052 |
+| | | | | **Parts Subtotal:** | **$563.61** | | |
 | | | | | **Tax (Parts Geek):** | **$20.21** | | 31-883336 |
 | | | | | **Tax (RockAuto 335297769):** | **$10.08** | | 335297769 |
 | | | | | **Tax (RockAuto 335576040):** | **$15.58** | | 335576040 |
+| | | | | **Tax (RockAuto 337591052, P1 portion):** | **$8.27** | | 337591052 |
 | | | | | **Shipping (Parts Geek):** | **$4.12** | | 31-883336 |
 | | | | | **Shipping (RockAuto 335297769):** | **$17.49** | | 335297769 |
 | | | | | **Shipping (RockAuto 335576040):** | **$56.13** | | 335576040 |
-| | | | | **Tax/Shipping Total:** | **$123.61** | | |
-| | | | | **PHASE 1 GRAND TOTAL:** | **$618.85** | | |
+| | | | | **Shipping (RockAuto 337591052, P1 portion):** | **$13.81** | | 337591052 |
+| | | | | **Tax/Shipping Total:** | **$145.69** | | |
+| | | | | **PHASE 1 GRAND TOTAL:** | **$709.30** | | |
 
 **Phase 1 Notes:**
 - Driveshaft ordered new from Parts Geek (Replacement brand) instead of used junkyard — safety decision
@@ -224,10 +229,10 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 ## PHASE 2: DRIVETRAIN RELIABILITY
 
 **Budget:** $483 - $1,385  
-**Actual Spend (Parts):** $265.12  
-**Tax/Shipping:** $75.84  
-**Total with Tax/Shipping:** $340.96  
-**Variance:** +$142.04 to +$1,044.04 (under budget)
+**Actual Spend (Parts):** $325.35  
+**Tax/Shipping:** $137.77  
+**Total with Tax/Shipping:** $463.12  
+**Variance:** +$19.88 to +$921.88 (under budget)
 
 ### Detailed Expenses
 
@@ -270,17 +275,22 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 | 2026-01-15 | Threadlocker Orange | Home Depot | 1 | $10.98 | $10.98 | Supplies | WH20875375 |
 | 2026-01-15 | Threadlocker Blue | Home Depot | 1 | $6.48 | $6.48 | Supplies | WH20875375 |
 | 2025-01-02 | Washer Fluid 1 gal | Home Depot | 1 | $3.48 | $3.48 | Supplies | WH21384422 |
-| | | | | **Parts Subtotal:** | **$265.12** | | |
+| 2026-02-21 | Starter motor control relay | RockAuto | 1 | $15.00 | $15.00 | Ignition | 337591052 |
+| 2026-02-21 | Crankshaft position sensor (CPS) | RockAuto | 1 | $15.72 | $15.72 | Sensors | 337591052 |
+| 2026-02-21 | Manifold pressure (MAP) sensor | RockAuto | 1 | $29.51 | $29.51 | Sensors | 337591052 |
+| | | | | **Parts Subtotal:** | **$325.35** | | |
 | | | | | **Tax (RockAuto 335187809):** | **$9.97** | | 335187809 |
 | | | | | **Tax (RockAuto 335297769):** | **$10.07** | | 335297769 |
 | | | | | **Tax (RockAuto 335576040):** | **$26.35** | | 335576040 |
 | | | | | **Tax (Home Depot WH20875375):** | **$4.85** | | WH20875375 |
 | | | | | **Tax (Home Depot WH21384422):** | **$4.80** | | WH21384422 |
+| | | | | **Tax (RockAuto 337591052, P2 portion):** | **$7.29** | | 337591052 |
 | | | | | **Shipping (RockAuto 335187809):** | **$22.98** | | 335187809 |
 | | | | | **Shipping (RockAuto 335297769):** | **$17.48** | | 335297769 |
 | | | | | **Shipping (RockAuto 335576040):** | **$21.81** | | 335576040 |
-| | | | | **Tax/Shipping Total:** | **$118.31** | | |
-| | | | | **PHASE 2 GRAND TOTAL:** | **$383.43** | | |
+| | | | | **Shipping (RockAuto 337591052, P2 portion):** | **$12.17** | | 337591052 |
+| | | | | **Tax/Shipping Total:** | **$137.77** | | |
+| | | | | **PHASE 2 GRAND TOTAL:** | **$463.12** | | |
 
 **Phase 2 Notes:**
 - Complete tune-up kit: spark plugs, wires, distributor cap, PCV valve
@@ -453,12 +463,12 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 ### Overall Project
 
 **Total Budgeted:** $2,639-5,221 (parts only, excluding tools)  
-**Total Actual Parts Spend:** $1,052.35  
+**Total Actual Parts Spend:** $1,222.49  
 **Total Tools (Separate):** $109.78  
-**Overall Variance:** +$1,586.65 to +$4,168.65 under budget (20-40% of budget spent)
+**Overall Variance:** +$1,416.51 to +$3,998.51 under budget (23-47% of budget spent)
 
 **Budget Status:**
-- 🟢 Under budget by $1,586.65 minimum (20% of max budget spent on parts)
+- 🟢 Under budget by $1,416.51 minimum (23% of max budget spent on parts)
 - Four phases started: 0 (complete ✅), 1 (active 🔄), 2 (active 🔄), 4 (partial 🔄)
 - Two phases not started: 3, 5
 - Major expenses still ahead: exhaust system, wiring harness, paint/prep, possible professional labor
@@ -478,16 +488,16 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 
 | Category | Amount | % of Total | Notes |
 |----------|--------|------------|-------|
-| Parts - Safety/Structural | $495.24 | 61% | Driveshaft, complete brake system, steering, wheels |
-| Parts - Drivetrain | $265.12 | 33% | Seals, mounts, ignition, tune-up, cooling, clutch |
+| Parts - Safety/Structural | $563.61 | 61% | Driveshaft, complete brake system, steering, wheels |
+| Parts - Drivetrain | $325.35 | 35% | Seals, mounts, ignition, tune-up, cooling, clutch, sensors |
 | Parts - Electrical | $0.00 | 0% | Not started |
 | Parts - Interior | $5.86 | 1% | Brake pedal pads |
 | Parts - Final Prep | $0.00 | 0% | Not started |
 | Professional Labor | $0.00 | 0% | None required yet |
 | Supplies & Consumables | $41.93 | 5% | UV dye, antifreeze, washer fluid, RTV, threadlocker |
-| Tax & Shipping | $244.20 | 30% | All vendors combined |
+| Tax & Shipping | $285.74 | 23% | All vendors combined |
 | Contingency (Unplanned) | $0.00 | 0% | None yet |
-| **TOTAL (Parts Only)** | **$1,052.35** | **100%** | |
+| **TOTAL (Parts Only)** | **$1,222.49** | **100%** | |
 
 **Notes:**
 - Tool purchases ($109.78) tracked separately in [TOOLS_INVENTORY.md](TOOLS_INVENTORY.md) and excluded from this budget
@@ -509,8 +519,8 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 
 | Component | Amount |
 |-----------|--------|
-| Parts & Supplies | $808.15 |
-| Tax & Shipping | $244.20 |
+| Parts & Supplies | $936.75 |
+| Tax & Shipping | $285.74 |
 | Professional Labor Paid | $0.00 |
 | DIY Labor Value (@$75/hr) | $_____ |
 | Tools Purchased (residual value) | $109.78 |
@@ -523,9 +533,9 @@ This document focuses on: Spending by phase, vendor analysis, budget variance, v
 **Value Added:** $_____
 
 **Return on Investment:**
-- Cash invested in parts: $1,052.35 (to date)
+- Cash invested in parts: $1,222.49 (to date)
 - Cash invested in tools: $109.78 (reusable across fleet)
-- Total cash invested: $1,162.13
+- Total cash invested: $1,332.27
 - Value added: $_____
 - ROI: ____%
 
@@ -537,7 +547,7 @@ Track spending by vendor for future reference:
 
 | Vendor | Parts Cost | Tax | Shipping | Total Spent | # Orders | Would Use Again? | Notes |
 |--------|-----------|-----|----------|-------------|----------|------------------|-------|
-| RockAuto | $661.69 | $61.97 | $120.23 | $843.89 | 3 | ✅ | Best prices, wide selection; large orders split shipping |
+| RockAuto | $790.29 | $77.53 | $146.21 | $1,014.03 | 4 | ✅ | Best prices, wide selection; large orders split shipping |
 | Home Depot | $59.55 | $9.65 | $0.00 | $69.20 | 2 | ✅ | Local pickup, good for tools/supplies |
 | Parts Geek | $164.95 | $16.09 | $4.12 | $185.16 | 1 | ✅ | New driveshaft, free ship >$99; $4.12 service charge |
 | AutoZone | $23.97 | $4.19 | $0.00 | $28.16 | 1 | ✅ | Local pickup, same-day availability |
@@ -545,23 +555,23 @@ Track spending by vendor for future reference:
 | Amazon | $0.00 | - | - | $0.00 | 0 | TBD | |
 | Harbor Freight | $0.00 | - | - | $0.00 | 0 | TBD | Budget tools |
 | Local Junkyard | $0.00 | - | - | $0.00 | 0 | TBD | Not yet visited |
-| **TOTAL (Tools Excluded)** | **$910.16** | **$91.90** | **$124.35** | **$1,052.35** | **7** | | |
+| **TOTAL (Tools Excluded)** | **$1,038.76** | **$107.46** | **$150.33** | **$1,222.49** | **8** | | |
 
 **Note:** Tool purchases ($109.78) tracked separately in [TOOLS_INVENTORY.md](TOOLS_INVENTORY.md)
 
 **Vendor Performance Notes:**
-- **RockAuto:** Best prices and selection. Three orders: #335187809 ($70.17 parts, $22.98 ship), #335297769 ($120.91 parts, $34.97 ship, split P1/P2), #335576040 ($470.61 parts, $77.94 ship, split P1/P2/P4). Shipping significant but offset by lowest part prices.
+- **RockAuto:** Best prices and selection. Four orders: #335187809 ($70.17 parts, $22.98 ship), #335297769 ($120.91 parts, $34.97 ship, split P1/P2), #335576040 ($470.61 parts, $77.94 ship, split P1/P2/P4), #337591052 ($128.60 parts, $25.98 ship, split P1/P2). Shipping significant but offset by lowest part prices.
 - **Parts Geek:** Competitive on complete assemblies. Order #31-883336 ($164.95 driveshaft). $4.12 service charge (not tax). Free shipping over $99.
 - **Home Depot:** Local pickup, no shipping. Two orders: WH20875375 ($42.91 supplies, $4.85 tax), WH21384422 ($17.16 coolant/washer, $4.80 tax).
 - **AutoZone:** Premium pricing but same-day. Order #210627708473 ($23.97 UV dye).
 
 **Tax & Shipping Breakdown:**
-- Total parts cost: $808.15
+- Total parts cost: $936.75
 - Tools cost (separate): $109.78
-- Total tax on parts: $91.90 (11.4% avg effective rate)
-- Total shipping: $124.35 (15.4% of parts cost)
-- Combined tax/shipping: $216.25 (26.8% of parts cost)
-- Grand total with tools: $1,162.13
+- Total tax on parts: $107.46 (11.5% avg effective rate)
+- Total shipping: $150.33 (16.1% of parts cost)
+- Combined tax/shipping: $257.79 (27.5% of parts cost)
+- Grand total with tools: $1,332.27
 
 **Optimization Opportunities:**
 - RockAuto split-shipments expensive; combine future orders when possible
@@ -578,12 +588,12 @@ Track spending by month to monitor cash flow:
 |-------|----------|-------|----------|-------|------------|-------|
 | January 2026 | 0, 1, 2 | $492.85 | $124.45 | $617.30 | $617.30 | Assessment + Phase 1/2 parts ordering |
 | January 2026 | 0, 1, 2, 4 | $808.15 | $244.20 | $1,052.35 | $109.78 | Assessment, brake system, drivetrain, tune-up |
-| February 2026 | 1, 2 | $_____ | $_____ | $_____ | $_____ | |
+| February 2026 | 1, 2 | $128.60 | $41.54 | $170.14 | $1,222.49 | Control arms, sensors, starter relay, parking brake cable |
 | March 2026 | 1, 2 | $_____ | $_____ | $_____ | $_____ | |
 | April 2026 | 3 | $_____ | $_____ | $_____ | $_____ | |
 | May 2026 | 4 | $_____ | $_____ | $_____ | $_____ | |
 | June 2026 | 5 | $_____ | $_____ | $_____ | $_____ | |
-| **Total** | | **$808.15** | **$244.20** | **$1,052.35** | **$109.78** | |
+| **Total** | | **$936.75** | **$285.74** | **$1,222.49** | **$109.78** | |
 
 **Cash Flow Notes:**
 - January front-loaded with assessment supplies and three major RockAuto orders
@@ -640,7 +650,7 @@ If this vehicle is used for business/farm purposes, some expenses may be deducti
 
 | Date | Item | Amount | Category | Deductible? | Notes |
 |------|------|--------|----------|-------------|-------|
-| Jan 2026 | Parts restoration | $1,052.35 | Capital improvement | TBD | Farm use vehicle - consult CPA |
+| Jan-Feb 2026 | Parts restoration | $1,222.49 | Capital improvement | TBD | Farm use vehicle - consult CPA |
 | Jan 2026 | Tools (separate) | $109.78 | Tools/Equipment | TBD | Reusable across fleet |
 
 **Note:** Consult with tax professional for guidance on deductibility. Farm vehicles used for livestock management may qualify for Section 179 deduction or farm business expense deductions.
@@ -653,7 +663,7 @@ For insurance purposes, document restoration value:
 
 **Receipts Organized:** YES (digitally + physical copies)  
 **Photos of Work:** IN PROGRESS (documenting on ComancheClub forum)  
-**Total Investment Documented:** $1,162.13 (parts + tools to date)  
+**Total Investment Documented:** $1,332.27 (parts + tools to date)  
 **Estimated Current Value:** $_____ (pre-restoration + parts added)  
 **Insurance Notified of Improvements:** NO  
 **Date Insurance Updated:** _____
@@ -671,12 +681,12 @@ For insurance purposes, document restoration value:
 | Metric | Amount |
 |--------|--------|
 | **Original Budget Target** | $3,000-5,000 (parts only) |
-| **Total Parts & Supplies** | $808.15 |
-| **Total Tax & Shipping** | $244.20 |
+| **Total Parts & Supplies** | $936.75 |
+| **Total Tax & Shipping** | $285.74 |
 | **Total Professional Labor** | $0.00 |
 | **Total Tools Purchased (Separate)** | $109.78 |
-| **Total Parts Project Cost** | $1,052.35 |
-| **Total with Tools** | $1,162.13 |
+| **Total Parts Project Cost** | $1,222.49 |
+| **Total with Tools** | $1,332.27 |
 | | |
 | **Budget Variance (Parts)** | +$1,947.65 to +$3,947.65 remaining |
 | **Budget Status** | 🟢 Under Budget (20-40% spent) |
@@ -723,5 +733,5 @@ For insurance purposes, document restoration value:
 
 **Document Status:** Active Budget Tracker  
 **Created:** January 2026  
-**Last Updated:** January 27, 2026  
+**Last Updated:** February 21, 2026  
 **Project Complete:** _____
