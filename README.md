@@ -17,26 +17,26 @@ care — not a show truck. Cosmetics are irrelevant; mechanical integrity is eve
 
 | Document                                                              | Purpose                                                   |
 | --------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Project Charter](docs/project/01_PROJECT_CHARTER.md)                | Vision, decision framework, success criteria, constraints |
+| [Project Charter](docs/project/01_PROJECT_CHARTER.md)                 | Vision, decision framework, success criteria, constraints |
 | [Current State Inventory](docs/project/02_CURRENT_STATE_INVENTORY.md) | Detailed inspection results by system                     |
 | [Master Restoration Plan](docs/project/03_MASTER_RESTORATION_PLAN.md) | Phased task list — the primary roadmap                    |
-| [Parts Tracker](docs/project/04_PARTS_TRACKER.md)                    | Parts needed, sourced, ordered, and installed by phase    |
-| [Work Log](docs/project/05_WORK_LOG.md)                              | Chronological journal of every work session               |
-| [Technical Reference](docs/project/06_TECHNICAL_REFERENCE.md)        | Specs, torque values, fluid capacities, troubleshooting   |
-| [Budget Tracker](docs/project/07_BUDGET_TRACKER.md)                  | Spend vs. estimate by phase                               |
-| [Tools Inventory](docs/project/TOOLS_INVENTORY.md)                   | Tools acquired for the project                            |
+| [Parts Tracker](docs/project/04_PARTS_TRACKER.md)                     | Parts needed, sourced, ordered, and installed by phase    |
+| [Work Log](docs/project/05_WORK_LOG.md)                               | Chronological journal of every work session               |
+| [Technical Reference](docs/project/06_TECHNICAL_REFERENCE.md)         | Specs, torque values, fluid capacities, troubleshooting   |
+| [Budget Tracker](docs/project/07_BUDGET_TRACKER.md)                   | Spend vs. estimate by phase                               |
+| [Tools Inventory](docs/project/TOOLS_INVENTORY.md)                    | Tools acquired for the project                            |
 
 ### Repair Guides
 
 Detailed step-by-step procedures written specifically for this vehicle.
 
-| Guide                                                                                          | Description                                                          |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Phase A: Renix Harness Cleanup](docs/guides/Phase_A_Renix_Harness_Cleanup_Guide.md)          | Full Renix wiring inspection, cleaning, and stabilization procedure  |
-| [Phase A Supplement: Vacuum System](docs/guides/Phase_A_Supplement_Vacuum_System_Refresh.md)  | Vacuum hose inspection and replacement for the 2.5L Renix            |
-| [Brake System Refresh](docs/guides/Brake_System_Refresh_Guide.md)                             | Front disc / rear drum refresh for MJ/XJ (1986–1990)                |
-| [Bed Removal & Fuel System](docs/guides/Bed_Removal_and_Fuel_System_Restoration.md)           | Bed pull procedure and in-tank fuel system restoration               |
-| [GM TBI Swap Guide](docs/guides/GM_TBI_Swap_Guide_Complete.md)                                | Contingency plan: replacing the Renix system with a GM TBI setup     |
+| Guide                                                                                        | Description                                                         |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Phase A: Renix Harness Cleanup](docs/guides/Phase_A_Renix_Harness_Cleanup_Guide.md)         | Full Renix wiring inspection, cleaning, and stabilization procedure |
+| [Phase A Supplement: Vacuum System](docs/guides/Phase_A_Supplement_Vacuum_System_Refresh.md) | Vacuum hose inspection and replacement for the 2.5L Renix           |
+| [Brake System Refresh](docs/guides/Brake_System_Refresh_Guide.md)                            | Front disc / rear drum refresh for MJ/XJ (1986–1990)                |
+| [Bed Removal & Fuel System](docs/guides/Bed_Removal_and_Fuel_System_Restoration.md)          | Bed pull procedure and in-tank fuel system restoration              |
+| [GM TBI Swap Guide](docs/guides/GM_TBI_Swap_Guide_Complete.md)                               | Contingency plan: replacing the Renix system with a GM TBI setup    |
 
 ### Purchase Records
 
