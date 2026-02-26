@@ -29,10 +29,10 @@
 - Reliable in extreme weather conditions
 
 ### Aesthetic Theme: "Appalachian Camouflage"
-- **Exterior:** Black spray paint (HVLP sprayer application)
-- **Style:** "Mad Max" rough-and-ready aesthetic - embrace the battle-worn look
+- **Exterior:** Black roll-on bed liner and black spray paint (HVLP sprayer application)
+- **Style:** "Mad Max" rough-and-ready aesthetic - embrace the battle-worn look, too much body damage
 - **Philosophy:** Function over form - working truck, not show truck
-- **Interior:** Military-spartan styling - tidy, functional, no luxury
+- **Interior:** Military-spartan styling - tidy, functional, no luxury, interface and feedback only
 
 ---
 
@@ -46,7 +46,7 @@
 ### Budget
 - **Target Range:** $3,000 - $5,000
 - **Philosophy:** Cost-conscious but willing to spend appropriately for safety/reliability
-- **Flexibility:** Undefined ceiling for true safety-critical items
+- **Flexibility:** Ceiling for true safety-critical items is less than a new or well maintained used vehicle
 
 ### Owner Capabilities
 - **Background:** Engineer (software 35+ years, electrical hobby background)
