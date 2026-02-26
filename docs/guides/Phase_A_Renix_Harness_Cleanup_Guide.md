@@ -14,6 +14,7 @@
 This guide provides a complete step-by-step procedure for cleaning up and stabilizing the Renix engine management harness on a 1986 Jeep Comanche. The goal is to eliminate unreliable wiring, remove emissions dead weight, and establish a solid foundation for long-term reliability.
 
 **What this covers:**
+
 - Engine management system (Systems 1-3 from Renix Harness Simplification Map)
 - Ground network rebuilding
 - Sensor circuit verification
@@ -21,6 +22,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 - Emissions system removal
 
 **What this does NOT cover:**
+
 - Body wiring and accessories (Phase B)
 - Interior harness work
 - Lighting circuits
@@ -31,6 +33,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 ## Safety & Legal Disclaimers
 
 ⚠️ **SAFETY WARNING:**
+
 - Disconnect battery before ANY wiring work
 - Use proper eye protection when working under vehicle
 - Work in well-ventilated area
@@ -38,12 +41,14 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 - Never work alone on vehicle supported by jack only
 
 ⚠️ **LEGAL NOTICE:**
+
 - Emissions equipment removal may violate local/state/federal laws
 - This document is for off-road use only
 - User assumes all legal responsibility
 - Check local regulations before modifying emissions systems
 
 ⚠️ **ELECTRICAL SAFETY:**
+
 - Never bypass safety systems (brakes, steering, seatbelts)
 - Always use proper gauge wire for amperage
 - Always use proper crimps and heat shrink
@@ -55,6 +60,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 ## Required Skills & Knowledge
 
 **Minimum Requirements:**
+
 - Basic automotive mechanical knowledge
 - Ability to use multimeter (voltage, resistance, continuity)
 - Understanding of DC electrical circuits
@@ -62,6 +68,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 - Basic soldering skills (or willingness to learn)
 
 **Helpful But Not Required:**
+
 - Previous wiring harness work
 - Experience with Renix systems
 - Ability to diagnose electrical faults
@@ -74,40 +81,40 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 
 ### Essential Tools (Must Have)
 
-| Tool | Purpose | Approx. Cost |
-|------|---------|--------------|
-| **Digital multimeter** | Voltage, resistance, continuity testing | $20-50 |
-| **Ratcheting wire crimper** | Proper terminal crimps | $25-40 |
-| **Wire stripper** (automatic preferred) | Clean wire stripping | $15-25 |
-| **Heat gun** | Heat shrink application | $15-30 |
-| **Soldering iron** (temp control) | Permanent connections | $30-50 |
-| **Socket set** (metric & SAE) | Removing connectors, grounds | $50-100 |
-| **Wrench set** (metric & SAE) | Ground installation, sensor work | $30-60 |
-| **Diagonal cutters** | Wire cutting | $10-20 |
-| **Needle nose pliers** | Terminal work, tight spaces | $10-20 |
-| **Wire brush** (steel & brass) | Cleaning grounds | $5-15 |
-| **Label maker OR masking tape & marker** | Circuit identification | $15-30 |
+| Tool                                     | Purpose                                 | Approx. Cost |
+| ---------------------------------------- | --------------------------------------- | ------------ |
+| **Digital multimeter**                   | Voltage, resistance, continuity testing | $20-50       |
+| **Ratcheting wire crimper**              | Proper terminal crimps                  | $25-40       |
+| **Wire stripper** (automatic preferred)  | Clean wire stripping                    | $15-25       |
+| **Heat gun**                             | Heat shrink application                 | $15-30       |
+| **Soldering iron** (temp control)        | Permanent connections                   | $30-50       |
+| **Socket set** (metric & SAE)            | Removing connectors, grounds            | $50-100      |
+| **Wrench set** (metric & SAE)            | Ground installation, sensor work        | $30-60       |
+| **Diagonal cutters**                     | Wire cutting                            | $10-20       |
+| **Needle nose pliers**                   | Terminal work, tight spaces             | $10-20       |
+| **Wire brush** (steel & brass)           | Cleaning grounds                        | $5-15        |
+| **Label maker OR masking tape & marker** | Circuit identification                  | $15-30       |
 
 ### Recommended Tools (Highly Beneficial)
 
-| Tool | Purpose | Approx. Cost |
-|------|---------|--------------|
-| **ECM pin removal tool kit** | Safe de-pinning of connectors | $15-20 |
-| **Terminal release tool set** | Removing pins from connectors | $10-15 |
-| **Helping hands/PCB holder** | Soldering assistance | $10-20 |
-| **Wire loom pliers** | Installing split loom cleanly | $15-25 |
-| **Battery post cleaning tool** | Ground point preparation | $5-10 |
-| **Thread chaser set** (metric) | Cleaning ground stud threads | $20-40 |
+| Tool                           | Purpose                       | Approx. Cost |
+| ------------------------------ | ----------------------------- | ------------ |
+| **ECM pin removal tool kit**   | Safe de-pinning of connectors | $15-20       |
+| **Terminal release tool set**  | Removing pins from connectors | $10-15       |
+| **Helping hands/PCB holder**   | Soldering assistance          | $10-20       |
+| **Wire loom pliers**           | Installing split loom cleanly | $15-25       |
+| **Battery post cleaning tool** | Ground point preparation      | $5-10        |
+| **Thread chaser set** (metric) | Cleaning ground stud threads  | $20-40       |
 
 ### Optional Tools (Nice to Have)
 
-| Tool | Purpose |
-|------|---------|
-| **Test light** | Quick circuit testing |
-| **Circuit tester** | Power probe style |
-| **Inspection mirror** | Viewing tight areas |
-| **Borescope camera** | Inspecting hidden areas |
-| **Wire identification tone kit** | Tracing unknown wires |
+| Tool                             | Purpose                 |
+| -------------------------------- | ----------------------- |
+| **Test light**                   | Quick circuit testing   |
+| **Circuit tester**               | Power probe style       |
+| **Inspection mirror**            | Viewing tight areas     |
+| **Borescope camera**             | Inspecting hidden areas |
+| **Wire identification tone kit** | Tracing unknown wires   |
 
 ---
 
@@ -115,22 +122,23 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 
 ### Wire & Connectors
 
-| Item | Specification | Quantity | Source | Est. Cost |
-|------|---------------|----------|--------|-----------|
-| **Primary wire** | 18 AWG, GXL or TXL | 100 ft | Del City, Amazon | $30-40 |
-| **Primary wire** | 16 AWG, GXL or TXL | 50 ft | Del City, Amazon | $20-30 |
-| **Ground wire** | 10 AWG, marine grade | 25 ft | AutoZone, Amazon | $15-25 |
-| **Ground cable** | 4 AWG, copper | 10 ft | Battery store | $30-40 |
-| **Heat shrink tubing kit** | Adhesive-lined, assorted | 1 kit | Amazon | $15-20 |
-| **Weatherpack connectors** | 1, 2, 3, 4 pin sets | Assortment | Del City, Amazon | $30-50 |
-| **Ring terminals** | 10-12 AWG, heat shrink | 20 pack | Amazon | $10-15 |
-| **Butt connectors** | Heat shrink, assorted | 50 pack | Amazon | $10-15 |
-| **Split loom** | 1/4", 3/8", 1/2" | 25 ft ea | Amazon | $20-30 |
-| **Electrical tape** | 3M Super 33+ | 2 rolls | Local auto parts | $10-15 |
-| **Liquid electrical tape** | Sealant/protectant | 1 bottle | Amazon | $8-12 |
-| **Solder** | 60/40 rosin core | 1 roll | Hardware store | $10-15 |
+| Item                       | Specification            | Quantity   | Source           | Est. Cost |
+| -------------------------- | ------------------------ | ---------- | ---------------- | --------- |
+| **Primary wire**           | 18 AWG, GXL or TXL       | 100 ft     | Del City, Amazon | $30-40    |
+| **Primary wire**           | 16 AWG, GXL or TXL       | 50 ft      | Del City, Amazon | $20-30    |
+| **Ground wire**            | 10 AWG, marine grade     | 25 ft      | AutoZone, Amazon | $15-25    |
+| **Ground cable**           | 4 AWG, copper            | 10 ft      | Battery store    | $30-40    |
+| **Heat shrink tubing kit** | Adhesive-lined, assorted | 1 kit      | Amazon           | $15-20    |
+| **Weatherpack connectors** | 1, 2, 3, 4 pin sets      | Assortment | Del City, Amazon | $30-50    |
+| **Ring terminals**         | 10-12 AWG, heat shrink   | 20 pack    | Amazon           | $10-15    |
+| **Butt connectors**        | Heat shrink, assorted    | 50 pack    | Amazon           | $10-15    |
+| **Split loom**             | 1/4", 3/8", 1/2"         | 25 ft ea   | Amazon           | $20-30    |
+| **Electrical tape**        | 3M Super 33+             | 2 rolls    | Local auto parts | $10-15    |
+| **Liquid electrical tape** | Sealant/protectant       | 1 bottle   | Amazon           | $8-12     |
+| **Solder**                 | 60/40 rosin core         | 1 roll     | Hardware store   | $10-15    |
 
 **Wire Color Recommendations:**
+
 - **Red** – Constant 12V power
 - **Yellow** – Switched 12V power
 - **Black** – Ground
@@ -142,29 +150,29 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 
 ### Replacement Parts (As Needed)
 
-| Item | Notes | Source | Est. Cost |
-|------|-------|--------|-----------|
-| **CPS (Crank Position Sensor)** | Common failure; good to have spare | RockAuto | $25-50 |
-| **Ignition switch** | Likely cause of run-on issue | RockAuto, NAPA | $30-60 |
-| **MAP sensor** | Mopar/ACDelco only | RockAuto | $40-80 |
-| **CTS (Coolant Temp Sensor)** | ECU sensor, not gauge sender | RockAuto | $15-30 |
-| **TPS (Throttle Position Sensor)** | Manual transmission specific | RockAuto | $30-50 |
-| **IAC motor** | Idle Air Control | RockAuto | $40-70 |
-| **O2 sensor** | Single-wire type | RockAuto | $20-40 |
-| **ECM ground repair kit** | Custom pins for ECM connector | ComancheClub.com | $15-30 |
-| **Stainless hardware kit** | Ground studs, bolts, washers | Fastenal, Amazon | $15-30 |
+| Item                               | Notes                              | Source           | Est. Cost |
+| ---------------------------------- | ---------------------------------- | ---------------- | --------- |
+| **CPS (Crank Position Sensor)**    | Common failure; good to have spare | RockAuto         | $25-50    |
+| **Ignition switch**                | Likely cause of run-on issue       | RockAuto, NAPA   | $30-60    |
+| **MAP sensor**                     | Mopar/ACDelco only                 | RockAuto         | $40-80    |
+| **CTS (Coolant Temp Sensor)**      | ECU sensor, not gauge sender       | RockAuto         | $15-30    |
+| **TPS (Throttle Position Sensor)** | Manual transmission specific       | RockAuto         | $30-50    |
+| **IAC motor**                      | Idle Air Control                   | RockAuto         | $40-70    |
+| **O2 sensor**                      | Single-wire type                   | RockAuto         | $20-40    |
+| **ECM ground repair kit**          | Custom pins for ECM connector      | ComancheClub.com | $15-30    |
+| **Stainless hardware kit**         | Ground studs, bolts, washers       | Fastenal, Amazon | $15-30    |
 
 ### Consumables
 
-| Item | Purpose | Est. Cost |
-|------|---------|-----------|
-| **Contact cleaner** | Connector cleaning | $8-12 |
-| **Dielectric grease** | Connector protection | $5-10 |
-| **CRC 2-26** | Corrosion prevention | $8-12 |
-| **WD-40** | Initial cleaning | $5-8 |
-| **Degreaser** | Engine compartment cleaning | $8-15 |
-| **Shop towels** | General cleanup | $10-15 |
-| **Zip ties** | Assorted sizes | $10-15 |
+| Item                  | Purpose                     | Est. Cost |
+| --------------------- | --------------------------- | --------- |
+| **Contact cleaner**   | Connector cleaning          | $8-12     |
+| **Dielectric grease** | Connector protection        | $5-10     |
+| **CRC 2-26**          | Corrosion prevention        | $8-12     |
+| **WD-40**             | Initial cleaning            | $5-8      |
+| **Degreaser**         | Engine compartment cleaning | $8-15     |
+| **Shop towels**       | General cleanup             | $10-15    |
+| **Zip ties**          | Assorted sizes              | $10-15    |
 
 **Total Estimated Materials Cost:** $400-650 (assuming you need most replacement sensors)
 
@@ -262,28 +270,29 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 1. **Battery negative to engine block:**
    - [ ] Negative multimeter lead on battery negative terminal
    - [ ] Positive lead on clean metal of engine block
-   - [ ] Record resistance: _______ Ω
+   - [ ] Record resistance: **\_\_\_** Ω
    - [ ] **Target: <0.1Ω**
 
 2. **Engine block to firewall:**
    - [ ] Negative lead on engine block
    - [ ] Positive lead on firewall (clean metal, paint removed)
-   - [ ] Record resistance: _______ Ω
+   - [ ] Record resistance: **\_\_\_** Ω
    - [ ] **Target: <0.1Ω**
 
 3. **Battery negative to intake manifold:**
    - [ ] Negative lead on battery negative terminal
    - [ ] Positive lead on intake manifold ground stud (if present)
-   - [ ] Record resistance: _______ Ω
+   - [ ] Record resistance: **\_\_\_** Ω
    - [ ] **Target: <0.5Ω**
 
 4. **Battery negative to body:**
    - [ ] Negative lead on battery negative terminal
    - [ ] Positive lead on body/frame (clean metal)
-   - [ ] Record resistance: _______ Ω
+   - [ ] Record resistance: **\_\_\_** Ω
    - [ ] **Target: <0.5Ω**
 
 **Analysis:**
+
 - Resistance >0.5Ω indicates poor ground connection
 - Resistance >1.0Ω indicates severe ground problem
 - Document which grounds need immediate attention
@@ -301,7 +310,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
    - [ ] Identify RUN/START power pin (consult FSM or Renix documentation)
    - [ ] Negative lead on battery negative terminal
    - [ ] Positive lead on RUN/START pin at ECM connector
-   - [ ] Record voltage: _______ V
+   - [ ] Record voltage: **\_\_\_** V
    - [ ] **Target: 0V (no voltage present)**
 
 2. **If voltage is present with key OFF:**
@@ -311,6 +320,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
    - [ ] Look for aftermarket wiring tapped into ignition circuit
 
 **Analysis:**
+
 - Any voltage (>0.5V) with key OFF = backfeed present
 - This is a CRITICAL finding – must be resolved
 
@@ -323,22 +333,22 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 **Procedure:**
 
 1. **Key ON, engine not running:**
-   
+
    **MAP Sensor (on firewall):**
    - [ ] Locate 3-wire connector
-   - [ ] Measure signal wire to ground: _______ V (should be ~4-5V)
-   - [ ] Measure 5V reference to ground: _______ V (should be 5.0V ±0.2V)
-   - [ ] Measure ground pin to battery negative: _______ V (should be <0.1V)
+   - [ ] Measure signal wire to ground: **\_\_\_** V (should be ~4-5V)
+   - [ ] Measure 5V reference to ground: **\_\_\_** V (should be 5.0V ±0.2V)
+   - [ ] Measure ground pin to battery negative: **\_\_\_** V (should be <0.1V)
 
    **TPS (on throttle body):**
    - [ ] Locate 3-wire connector
-   - [ ] Measure signal wire to ground: _______ V (should be ~0.5-1.0V at idle)
-   - [ ] Measure 5V reference to ground: _______ V (should be 5.0V ±0.2V)
-   - [ ] Measure ground pin to battery negative: _______ V (should be <0.1V)
+   - [ ] Measure signal wire to ground: **\_\_\_** V (should be ~0.5-1.0V at idle)
+   - [ ] Measure 5V reference to ground: **\_\_\_** V (should be 5.0V ±0.2V)
+   - [ ] Measure ground pin to battery negative: **\_\_\_** V (should be <0.1V)
 
    **CTS (coolant temp sensor):**
    - [ ] Locate 2-wire connector
-   - [ ] Measure voltage across connector: _______ V (varies with temp)
+   - [ ] Measure voltage across connector: **\_\_\_** V (varies with temp)
    - [ ] Cold engine: ~3-4V typical
    - [ ] Hot engine: ~0.5-1.5V typical
 
@@ -348,6 +358,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
    - No signal voltage
 
 **Analysis:**
+
 - Missing 5V reference = ECM problem or wiring break
 - Poor grounds = cleaning needed
 - All sensors should have clean 5V and ground
@@ -361,18 +372,19 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 **Procedure:**
 
 1. **Coil positive terminal:**
-   - [ ] Key OFF: Measure voltage to ground: _______ V (should be 12V+)
-   - [ ] Key ON: Measure voltage to ground: _______ V (should be 12V+)
-   - [ ] Key START: Measure voltage to ground: _______ V (should be 12V+)
+   - [ ] Key OFF: Measure voltage to ground: **\_\_\_** V (should be 12V+)
+   - [ ] Key ON: Measure voltage to ground: **\_\_\_** V (should be 12V+)
+   - [ ] Key START: Measure voltage to ground: **\_\_\_** V (should be 12V+)
    - [ ] **Coil should have constant 12V in all key positions**
 
 2. **Coil negative terminal:**
    - [ ] Key ON, engine not running
-   - [ ] Measure voltage to ground: _______ V
+   - [ ] Measure voltage to ground: **\_\_\_** V
    - [ ] Should pulse (difficult to measure with basic multimeter)
    - [ ] Use test light instead: should blink when cranking
 
 **Analysis:**
+
 - No power at coil positive = ignition circuit problem
 - Constant voltage at coil negative = no trigger signal from ECM/module
 
@@ -391,11 +403,12 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 
 2. **Fuel pump relay testing:**
    - [ ] Locate fuel pump relay (usually near ECM or in engine bay)
-   - [ ] Check for 12V at power input: _______ V
+   - [ ] Check for 12V at power input: **\_\_\_** V
    - [ ] Check for ground at control side (from ECM)
    - [ ] Verify relay clicks when key turned ON
 
 **Analysis:**
+
 - Pump runs briefly at key-on = normal operation
 - No pump sound + relay clicks = pump/wiring problem
 - No relay click = ECM or relay problem
@@ -510,6 +523,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 **This is a major step:** Take your time. Label everything.
 
 **Equipment Needed:**
+
 - Masking tape and permanent marker
 - Zip ties (to temporarily bundle separated circuits)
 - Camera
@@ -523,7 +537,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
    - [ ] Identify which circuits enter cab vs. stay in engine bay
 
 2. **Temporary labeling system:**
-   
+
    Use this prefix system:
    - **EM-** = Engine Management (keep)
    - **ACC-** = Accessory (will be relocated in Phase B)
@@ -616,6 +630,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 **Goal:** Clean metal-to-metal contact with zero corrosion.
 
 **Equipment:**
+
 - Wire brush (steel for heavy rust, brass for aluminum)
 - Sandpaper (80-120 grit)
 - Contact cleaner
@@ -654,6 +669,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 **Goal:** Heavy gauge, direct grounds with minimum resistance.
 
 **Materials:**
+
 - 4 AWG copper cable: Battery negative to engine block (2-3 ft)
 - 4 AWG copper cable: Engine block to firewall (2-3 ft)
 - 10 AWG copper cable: Intake manifold to battery negative (4-5 ft)
@@ -700,9 +716,9 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 **Procedure:**
 
 1. **Resistance verification:**
-   - [ ] Battery negative to engine block: _______ Ω (**Target: <0.05Ω**)
-   - [ ] Engine block to firewall: _______ Ω (**Target: <0.05Ω**)
-   - [ ] Battery negative to intake manifold ground: _______ Ω (**Target: <0.1Ω**)
+   - [ ] Battery negative to engine block: **\_\_\_** Ω (**Target: <0.05Ω**)
+   - [ ] Engine block to firewall: **\_\_\_** Ω (**Target: <0.05Ω**)
+   - [ ] Battery negative to intake manifold ground: **\_\_\_** Ω (**Target: <0.1Ω**)
 
 2. **If resistance is too high:**
    - [ ] Check terminal connections – tighten
@@ -723,6 +739,7 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 **CRITICAL WARNING:** ECM connectors are fragile. Use proper pin removal tools. Forcing pins will break connector.
 
 **Equipment Needed:**
+
 - ECM pin removal tool kit
 - Contact cleaner
 - Dielectric grease
@@ -740,11 +757,11 @@ This guide provides a complete step-by-step procedure for cleaning up and stabil
 
 2. **Create pin inventory spreadsheet:**
 
-| Pin # | Circuit Name | Wire Color | Keep/Remove | Notes |
-|-------|--------------|------------|-------------|-------|
-| 1 | CPS Signal | Blue | KEEP | |
-| 2 | EGR Control | Purple | REMOVE | Emissions delete |
-| ... | ... | ... | ... | ... |
+| Pin # | Circuit Name | Wire Color | Keep/Remove | Notes            |
+| ----- | ------------ | ---------- | ----------- | ---------------- |
+| 1     | CPS Signal   | Blue       | KEEP        |                  |
+| 2     | EGR Control  | Purple     | REMOVE      | Emissions delete |
+| ...   | ...          | ...        | ...         | ...              |
 
 Fill this out for every pin before removal.
 
@@ -851,7 +868,7 @@ For EACH circuit that remains connected to ECM:
 1. **CPS (Crank Position Sensor):**
    - [ ] ECM pin to CPS connector pin A: Continuity? Y / N
    - [ ] ECM pin to CPS connector pin B: Continuity? Y / N
-   - [ ] Resistance measured: _______ Ω (should be ~150-300Ω for sensor itself)
+   - [ ] Resistance measured: **\_\_\_** Ω (should be ~150-300Ω for sensor itself)
 
 2. **MAP Sensor:**
    - [ ] ECM pin (5V ref) to MAP connector: Continuity? Y / N
@@ -956,6 +973,7 @@ For EACH circuit that remains connected to ECM:
 - [ ] Photograph "after" state of engine bay
 
 **Test:**
+
 - [ ] Start engine (if ready)
 - [ ] Check for vacuum leaks (listen for hissing)
 - [ ] Verify no exhaust leaks at blocked EGR port
@@ -977,20 +995,21 @@ For EACH circuit that remains connected to ECM:
 1. **Disconnect ECM connector** (to protect ECM during testing)
 
 2. **Key in OFF position:**
-   - [ ] Measure voltage at ignition switch RUN output: _______ V
+   - [ ] Measure voltage at ignition switch RUN output: **\_\_\_** V
    - [ ] Should be 0V
    - [ ] If >0.5V, switch is failed
 
 3. **Key in RUN position:**
-   - [ ] Measure voltage at ignition switch RUN output: _______ V
+   - [ ] Measure voltage at ignition switch RUN output: **\_\_\_** V
    - [ ] Should be 12V+
 
 4. **Key in START position:**
-   - [ ] Measure voltage at ignition switch RUN output: _______ V
-   - [ ] Measure voltage at ignition switch START output: _______ V
+   - [ ] Measure voltage at ignition switch RUN output: **\_\_\_** V
+   - [ ] Measure voltage at ignition switch START output: **\_\_\_** V
    - [ ] Both should be 12V+
 
 **Diagnosis:**
+
 - Voltage in OFF position = REPLACE SWITCH IMMEDIATELY
 - No voltage in RUN position = REPLACE SWITCH
 - No voltage in START position = REPLACE SWITCH
@@ -1000,10 +1019,12 @@ For EACH circuit that remains connected to ECM:
 #### Phase 2: Ignition Switch Replacement
 
 **Parts Needed:**
+
 - New ignition switch (part # varies – verify for 1986 Comanche)
 - May need to replace lock cylinder or just switch assembly
 
 **Tools:**
+
 - Steering wheel puller (if accessing lock cylinder)
 - Screwdrivers
 - Wire connectors
@@ -1060,7 +1081,7 @@ For EACH circuit that remains connected to ECM:
 
 1. **With new switch installed:**
    - [ ] Key OFF
-   - [ ] Measure voltage at ECM RUN/START pin: _______ V
+   - [ ] Measure voltage at ECM RUN/START pin: **\_\_\_** V
    - [ ] Should be 0V
 
 2. **Reconnect ECM connector**
@@ -1085,23 +1106,27 @@ For EACH circuit that remains connected to ECM:
 **Most Critical Sensor – Engine Won't Run Without It**
 
 **Visual Inspection:**
+
 - [ ] Check connector for corrosion
 - [ ] Check wire routing – should not touch hot exhaust
 - [ ] Check for physical damage to sensor body
 
 **Resistance Test:**
+
 - [ ] Disconnect CPS connector
-- [ ] Measure resistance across sensor pins: _______ Ω
+- [ ] Measure resistance across sensor pins: **\_\_\_** Ω
 - [ ] **Specification: 150-300Ω (typical – verify for your engine)**
 - [ ] If out of spec or open circuit: REPLACE
 
 **Notes:**
+
 - CPS failure is VERY common on Renix
 - Symptoms: no start, intermittent stalling, hard starting
 - Keep a spare in the truck
 - Part cost: $25-50
 
 **Action:**
+
 - [ ] Pass – sensor within spec
 - [ ] Fail – order replacement, install before first start
 
@@ -1112,26 +1137,31 @@ For EACH circuit that remains connected to ECM:
 **Second Most Critical – Engine Runs Poorly Without It**
 
 **Visual Inspection:**
+
 - [ ] Check vacuum line for cracks, holes
 - [ ] Verify vacuum line has no kinks
 - [ ] Check connector for corrosion
 
 **Voltage Test (Key ON, Engine OFF):**
-- [ ] Backprobe 5V reference pin: _______ V (**Should be 5.0V ±0.2V**)
-- [ ] Backprobe ground pin: _______ V (**Should be <0.1V**)
-- [ ] Backprobe signal pin: _______ V (**Should be 4.0-4.5V at sea level**)
+
+- [ ] Backprobe 5V reference pin: **\_\_\_** V (**Should be 5.0V ±0.2V**)
+- [ ] Backprobe ground pin: **\_\_\_** V (**Should be <0.1V**)
+- [ ] Backprobe signal pin: **\_\_\_** V (**Should be 4.0-4.5V at sea level**)
 
 **Function Test (Engine Running):**
-- [ ] Signal voltage at idle: _______ V (should be 1.5-2.5V)
+
+- [ ] Signal voltage at idle: **\_\_\_** V (should be 1.5-2.5V)
 - [ ] Rev engine – voltage should drop as vacuum increases
 - [ ] Signal should change smoothly, not jump erratically
 
 **Notes:**
+
 - Only use Mopar or ACDelco MAP sensors – aftermarket fail quickly
 - Symptoms: poor idle, hesitation, rough running
 - Part cost: $40-80
 
 **Action:**
+
 - [ ] Pass – sensor signals correctly
 - [ ] Fail – order Mopar/ACDelco replacement
 
@@ -1142,27 +1172,32 @@ For EACH circuit that remains connected to ECM:
 **Critical for Smooth Acceleration**
 
 **Visual Inspection:**
+
 - [ ] Check that TPS is secured to throttle body
 - [ ] Verify connector is fully seated
 
 **Voltage Test (Key ON, Engine OFF):**
-- [ ] 5V reference: _______ V (**Should be 5.0V**)
-- [ ] Ground: _______ V (**Should be <0.1V**)
-- [ ] Signal at closed throttle: _______ V (**Should be 0.5-1.0V**)
-- [ ] Signal at wide open throttle: _______ V (**Should be 4.0-4.5V**)
+
+- [ ] 5V reference: **\_\_\_** V (**Should be 5.0V**)
+- [ ] Ground: **\_\_\_** V (**Should be <0.1V**)
+- [ ] Signal at closed throttle: **\_\_\_** V (**Should be 0.5-1.0V**)
+- [ ] Signal at wide open throttle: **\_\_\_** V (**Should be 4.0-4.5V**)
 
 **Sweep Test:**
+
 - [ ] Slowly open throttle while watching voltmeter
 - [ ] Voltage should increase smoothly with no dead spots
 - [ ] Any jumps, drops, or flat spots = REPLACE
 
 **Notes:**
+
 - Manual and automatic transmissions use different TPS
 - Verify you have manual-specific unit
 - Adjustable on some models – consult FSM for procedure
 - Part cost: $30-50
 
 **Action:**
+
 - [ ] Pass – smooth voltage sweep
 - [ ] Fail – order replacement (verify manual trans spec)
 
@@ -1175,31 +1210,36 @@ For EACH circuit that remains connected to ECM:
 **IMPORTANT:** This is separate from the coolant temp gauge sender. Do not confuse them.
 
 **Visual Inspection:**
+
 - [ ] Usually on thermostat housing
 - [ ] 2-wire connector
 - [ ] Check for coolant leaks around sensor
 - [ ] Check connector for corrosion
 
 **Resistance Test (Engine Cold):**
+
 - [ ] Disconnect sensor
-- [ ] Measure resistance: _______ Ω
+- [ ] Measure resistance: **\_\_\_** Ω
 - [ ] **Cold (70°F): ~3,000Ω typical**
 - [ ] **Warm (200°F): ~300Ω typical**
 - [ ] Consult FSM for exact temp/resistance curve
 
 **Voltage Test (Key ON, Engine OFF):**
+
 - [ ] Backprobe sensor connector (sensor connected)
-- [ ] Voltage across pins (cold engine): _______ V (**Should be 3-4V cold**)
+- [ ] Voltage across pins (cold engine): **\_\_\_** V (**Should be 3-4V cold**)
 - [ ] Start engine and warm up
-- [ ] Voltage (hot engine): _______ V (**Should be 0.5-1.5V hot**)
+- [ ] Voltage (hot engine): **\_\_\_** V (**Should be 0.5-1.5V hot**)
 - [ ] Voltage should decrease smoothly as engine warms
 
 **Notes:**
+
 - Bad CTS causes rough cold idle, poor fuel economy, no start
 - Very common failure on old engines
 - Part cost: $15-30
 
 **Action:**
+
 - [ ] Pass – resistance and voltage correct
 - [ ] Fail – replace before starting engine
 
@@ -1210,20 +1250,24 @@ For EACH circuit that remains connected to ECM:
 **Less Critical But Still Important**
 
 **Visual Inspection:**
+
 - [ ] Usually in intake manifold or air cleaner
 - [ ] 2-wire sensor
 - [ ] Check connector
 
 **Test:**
+
 - [ ] Same resistance test as CTS
 - [ ] Should read ambient air temperature
 - [ ] Resistance should match temperature
 
 **Notes:**
+
 - Often overlooked but affects fuel mixture
 - Cheap sensor, worth replacing if questionable
 
 **Action:**
+
 - [ ] Pass – reads correctly
 - [ ] Fail – replace
 
@@ -1234,31 +1278,37 @@ For EACH circuit that remains connected to ECM:
 **Critical for Idle Quality**
 
 **Visual Inspection:**
+
 - [ ] Mounted on throttle body
 - [ ] Check for carbon buildup around pintle valve
 
 **Resistance Test:**
+
 - [ ] Disconnect IAC
-- [ ] Measure resistance across pins: _______ Ω
+- [ ] Measure resistance across pins: **\_\_\_** Ω
 - [ ] **Typical: 10-20Ω**
 
 **Function Test (Engine Running):**
+
 - [ ] Should be able to hear IAC motor clicking when engine started
 - [ ] Idle speed should stabilize within 10-15 seconds
 - [ ] Disconnecting IAC should cause rough idle or stalling
 
 **Cleaning:**
+
 - [ ] Remove IAC from throttle body
 - [ ] Spray throttle body cleaner on pintle valve
 - [ ] Do NOT soak stepper motor coils
 - [ ] Wipe clean and reinstall
 
 **Notes:**
+
 - Often just needs cleaning
 - Symptoms: high idle, surging, poor idle quality
 - Part cost: $40-70
 
 **Action:**
+
 - [ ] Clean and test
 - [ ] Replace if still problematic
 
@@ -1269,17 +1319,20 @@ For EACH circuit that remains connected to ECM:
 **Important for Fuel Economy & Emissions**
 
 **Visual Inspection:**
+
 - [ ] Single-wire type on 1986
 - [ ] Check that wire isn't damaged (runs to exhaust)
 - [ ] Sensor grounds through exhaust threads
 
 **Voltage Test (Engine at Operating Temp):**
+
 - [ ] Backprobe O2 sensor wire
 - [ ] Voltage should fluctuate 0.1-0.9V
 - [ ] Should switch back and forth several times per second
 - [ ] Steady voltage = dead sensor
 
 **Notes:**
+
 - Single-wire O2 sensors common on 1986
 - Heated O2 sensors came later
 - Sensor works by temperature generated in exhaust
@@ -1287,6 +1340,7 @@ For EACH circuit that remains connected to ECM:
 - Part cost: $20-40
 
 **Action:**
+
 - [ ] Pass – voltage fluctuates
 - [ ] Fail – replace (but not urgent for running)
 
@@ -1301,11 +1355,13 @@ For EACH circuit that remains connected to ECM:
 #### Locate Fuel Pump Relay
 
 **Common Locations:**
+
 - [ ] Under hood, driver side near ECM area
 - [ ] Under dash near ECM
 - [ ] Engine bay fuse/relay panel
 
 **Identify Relay:**
+
 - [ ] Usually standard Bosch-style 4 or 5-pin relay
 - [ ] May be labeled "FUEL PUMP" or have number designation
 
@@ -1335,6 +1391,7 @@ For EACH circuit that remains connected to ECM:
    - [ ] Fuel pump should run entire time
 
 **If relay doesn't click or pump doesn't run:**
+
 - [ ] Check relay itself (swap with known good relay)
 - [ ] Check wiring from ECM to relay control terminal
 - [ ] Check power feed to relay
@@ -1349,6 +1406,7 @@ For EACH circuit that remains connected to ECM:
 #### Phase 1: Wiring Re-Looming
 
 **Materials:**
+
 - Split loom (various sizes)
 - Zip ties
 - Electrical tape
@@ -1379,6 +1437,7 @@ For EACH circuit that remains connected to ECM:
 **Goal:** Prevent chafing, melting, or damage to harness.
 
 **Rules:**
+
 - Keep minimum 3" clearance from exhaust
 - Avoid routing near sharp metal edges
 - Don't zip-tie to anything that moves (belts, pulleys, etc.)
@@ -1440,18 +1499,18 @@ For EACH circuit that remains connected to ECM:
    - [ ] Battery negative to intake manifold: < 0.1Ω
 
 2. **Power distribution:**
-   - [ ] Battery fully charged: _______ V (**Should be 12.6V+**)
-   - [ ] Key OFF, ECM constant power: _______ V (**Should be 12V+**)
-   - [ ] Key OFF, ECM RUN/START: _______ V (**Should be 0V**)
-   - [ ] Key ON, ECM RUN/START: _______ V (**Should be 12V+**)
+   - [ ] Battery fully charged: **\_\_\_** V (**Should be 12.6V+**)
+   - [ ] Key OFF, ECM constant power: **\_\_\_** V (**Should be 12V+**)
+   - [ ] Key OFF, ECM RUN/START: **\_\_\_** V (**Should be 0V**)
+   - [ ] Key ON, ECM RUN/START: **\_\_\_** V (**Should be 12V+**)
 
 3. **Sensor 5V reference:**
-   - [ ] Key ON, MAP 5V pin: _______ V (**5.0V ±0.2V**)
-   - [ ] Key ON, TPS 5V pin: _______ V (**5.0V ±0.2V**)
+   - [ ] Key ON, MAP 5V pin: **\_\_\_** V (**5.0V ±0.2V**)
+   - [ ] Key ON, TPS 5V pin: **\_\_\_** V (**5.0V ±0.2V**)
 
 4. **Sensor grounds:**
-   - [ ] MAP ground pin to battery negative: _______ V (**<0.1V**)
-   - [ ] TPS ground pin to battery negative: _______ V (**<0.1V**)
+   - [ ] MAP ground pin to battery negative: **\_\_\_** V (**<0.1V**)
+   - [ ] TPS ground pin to battery negative: **\_\_\_** V (**<0.1V**)
 
 5. **Fuel pump operation:**
    - [ ] Key ON (do not start)
@@ -1471,6 +1530,7 @@ For EACH circuit that remains connected to ECM:
 **Goal:** Safely start engine and verify operation.
 
 **Safety:**
+
 - [ ] Fire extinguisher nearby
 - [ ] Ensure exhaust system is repaired (no CO intrusion)
 - [ ] Work in well-ventilated area
@@ -1520,11 +1580,12 @@ For EACH circuit that remains connected to ECM:
 #### Idle Quality Check
 
 - [ ] Engine idles without stalling: YES / NO
-- [ ] Idle speed: _______ RPM (**Target: 700-900 RPM warm**)
+- [ ] Idle speed: **\_\_\_** RPM (**Target: 700-900 RPM warm**)
 - [ ] Idle smooth or rough? SMOOTH / ROUGH
 - [ ] Any misfires? YES / NO
 
 **If idle is rough:**
+
 - Could be normal for cold engine
 - MAT/CTS may need to warm up
 - IAC may need to learn idle
@@ -1535,6 +1596,7 @@ For EACH circuit that remains connected to ECM:
 #### Sensor Live Data (if you have scan tool)
 
 If you have a scan tool capable of reading Renix:
+
 - [ ] CTS reading matches actual temp
 - [ ] MAP reading is reasonable (1.5-2.5V at idle)
 - [ ] TPS reading is correct (0.5-1.0V closed throttle)
@@ -1544,7 +1606,7 @@ If you have a scan tool capable of reading Renix:
 
 #### Electrical System Check (Engine Running)
 
-- [ ] Alternator charging: _______ V (**Should be 13.5-14.5V**)
+- [ ] Alternator charging: **\_\_\_** V (**Should be 13.5-14.5V**)
 - [ ] All grounds still tight and secure
 - [ ] No smoke from wiring
 - [ ] No burning smell
@@ -1554,6 +1616,7 @@ If you have a scan tool capable of reading Renix:
 #### Visual Inspection (Engine Running)
 
 **CAREFULLY check for:**
+
 - [ ] Coolant leaks
 - [ ] Oil leaks
 - [ ] Fuel leaks
@@ -1568,6 +1631,7 @@ If you have a scan tool capable of reading Renix:
 ### Checkpoint 3.4: Short Test Drive (if safe)
 
 **Only proceed if:**
+
 - [ ] Idle is stable
 - [ ] No leaks present
 - [ ] Exhaust system is safe
@@ -1601,12 +1665,13 @@ If you have a scan tool capable of reading Renix:
 
 **Create "Post-Start Issues" list:**
 
-| Issue | Severity | Action Needed | Timeline |
-|-------|----------|---------------|----------|
-| Example: Rough cold idle | Moderate | Adjust IAC, check for vacuum leaks | Week 6 |
-| | | | |
+| Issue                    | Severity | Action Needed                      | Timeline |
+| ------------------------ | -------- | ---------------------------------- | -------- |
+| Example: Rough cold idle | Moderate | Adjust IAC, check for vacuum leaks | Week 6   |
+|                          |          |                                    |          |
 
 **Common issues you might find:**
+
 - Rough cold idle (often normal for Renix)
 - Hesitation on acceleration (could be TPS adjustment)
 - High idle (IAC learning or adjustment)
@@ -1745,6 +1810,7 @@ If you have a scan tool capable of reading Renix:
 - [ ] All sensors connected?
 
 **Common Causes:**
+
 1. CPS failure or not connected
 2. No fuel pump operation (relay or wiring)
 3. Ignition switch not providing power
@@ -1766,6 +1832,7 @@ If you have a scan tool capable of reading Renix:
 - [ ] Check for exhaust leaks
 
 **Common Causes:**
+
 1. Vacuum leak at intake
 2. TPS out of adjustment
 3. IAC dirty or faulty
@@ -1784,6 +1851,7 @@ If you have a scan tool capable of reading Renix:
 - [ ] IAC sticking?
 
 **Common Causes:**
+
 1. CPS failure when hot
 2. Bad ignition coil (heat sensitive)
 3. Fuel pump weak
@@ -1805,6 +1873,7 @@ If you have a scan tool capable of reading Renix:
 ### Check Engine Light On
 
 **Actions:**
+
 - [ ] Get codes read (Renix scanner or manual flash code method)
 - [ ] Consult Renix fault code chart
 - [ ] Address specific sensor fault
@@ -1815,25 +1884,25 @@ If you have a scan tool capable of reading Renix:
 
 ### Resistance Values (at 70°F unless noted)
 
-| Sensor | Typical Resistance | Notes |
-|--------|-------------------|-------|
-| CPS | 150-300Ω | Most critical |
-| CTS (cold) | 3,000Ω @ 70°F | Temperature dependent |
-| CTS (hot) | 300Ω @ 200°F | |
-| MAT | Same as CTS | Temperature dependent |
-| IAC | 10-20Ω | Across terminals |
-| O2 | N/A | Tests by voltage output |
+| Sensor     | Typical Resistance | Notes                   |
+| ---------- | ------------------ | ----------------------- |
+| CPS        | 150-300Ω           | Most critical           |
+| CTS (cold) | 3,000Ω @ 70°F      | Temperature dependent   |
+| CTS (hot)  | 300Ω @ 200°F       |                         |
+| MAT        | Same as CTS        | Temperature dependent   |
+| IAC        | 10-20Ω             | Across terminals        |
+| O2         | N/A                | Tests by voltage output |
 
 ### Voltage Values (Key ON, Engine OFF)
 
-| Circuit | Expected Voltage |
-|---------|-----------------|
-| 5V Reference (MAP, TPS) | 5.0V ±0.2V |
-| Sensor Grounds | <0.1V to battery negative |
-| MAP Signal | 4.0-4.5V (sea level) |
-| TPS Signal (closed throttle) | 0.5-1.0V |
-| CTS Signal (cold) | 3-4V |
-| CTS Signal (hot) | 0.5-1.5V |
+| Circuit                      | Expected Voltage          |
+| ---------------------------- | ------------------------- |
+| 5V Reference (MAP, TPS)      | 5.0V ±0.2V                |
+| Sensor Grounds               | <0.1V to battery negative |
+| MAP Signal                   | 4.0-4.5V (sea level)      |
+| TPS Signal (closed throttle) | 0.5-1.0V                  |
+| CTS Signal (cold)            | 3-4V                      |
+| CTS Signal (hot)             | 0.5-1.5V                  |
 
 ---
 
@@ -1841,17 +1910,17 @@ If you have a scan tool capable of reading Renix:
 
 ### Choosing Correct Wire Size
 
-| Circuit Current | Wire Gauge | Application |
-|----------------|------------|-------------|
-| 0-5A | 18 AWG | Sensors, low current |
-| 5-10A | 16 AWG | Small accessories |
-| 10-20A | 14 AWG | Medium loads |
-| 20-30A | 12 AWG | Heavy accessories |
-| 30-50A | 10 AWG | Starter circuit, heavy loads |
-| 50-100A | 8 AWG | Main power feeds |
-| 100-150A | 6 AWG | Battery cables (short runs) |
-| 150-200A | 4 AWG | Battery cables (medium runs) |
-| 200-300A | 2 AWG | Battery cables (long runs) |
+| Circuit Current | Wire Gauge | Application                  |
+| --------------- | ---------- | ---------------------------- |
+| 0-5A            | 18 AWG     | Sensors, low current         |
+| 5-10A           | 16 AWG     | Small accessories            |
+| 10-20A          | 14 AWG     | Medium loads                 |
+| 20-30A          | 12 AWG     | Heavy accessories            |
+| 30-50A          | 10 AWG     | Starter circuit, heavy loads |
+| 50-100A         | 8 AWG      | Main power feeds             |
+| 100-150A        | 6 AWG      | Battery cables (short runs)  |
+| 150-200A        | 4 AWG      | Battery cables (medium runs) |
+| 200-300A        | 2 AWG      | Battery cables (long runs)   |
 
 **Important:** These are for automotive (12V DC) use. Higher amperage requires larger wire.
 
@@ -1862,23 +1931,27 @@ If you have a scan tool capable of reading Renix:
 ### Post-Rebuild Inspection Schedule
 
 **First Week:**
+
 - [ ] Daily visual inspection of harness
 - [ ] Check for new leaks daily
 - [ ] Monitor idle quality and driveability
 - [ ] Check all connections remain tight
 
 **First Month:**
+
 - [ ] Weekly inspection
 - [ ] Retorque ground connections (may settle)
 - [ ] Check harness for chafing or heat damage
 - [ ] Monitor sensor operation
 
 **First 3 Months:**
+
 - [ ] Monthly inspection
 - [ ] Clean any corrosion from connections
 - [ ] Apply fresh dielectric grease if needed
 
 **After 3 Months:**
+
 - [ ] Quarterly inspection
 - [ ] Annual detailed inspection of entire harness
 
@@ -1912,9 +1985,9 @@ If you have a scan tool capable of reading Renix:
 
 ## Document Revision History
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | January 2026 | Initial release |
+| Version | Date         | Changes         |
+| ------- | ------------ | --------------- |
+| 1.0     | January 2026 | Initial release |
 
 ---
 
@@ -1923,12 +1996,14 @@ If you have a scan tool capable of reading Renix:
 This guide compiled by: [Your Name / Username]
 
 Based on:
+
 - Personal experience with 1986 Jeep Comanche VIN 1JTHL6571GT042543
 - Community knowledge from ComancheClub.com
 - Factory Service Manual references
 - Trial and error on "Mad Maxine" daily driver rebuild project
 
 **Special thanks to:**
+
 - ComancheClub.com community
 - Everyone who has documented Renix troubleshooting
 - Original engineers at AMC/Renault who created this system
@@ -1953,4 +2028,4 @@ Good luck with your Renix harness cleanup. May your idle be smooth and your grou
 
 **END OF PHASE A GUIDE**
 
-*For Phase B (Accessory Panel & Body Wiring), see separate guide.*
+_For Phase B (Accessory Panel & Body Wiring), see separate guide._

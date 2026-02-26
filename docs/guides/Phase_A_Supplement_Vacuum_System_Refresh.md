@@ -15,6 +15,7 @@
 This supplement provides a complete vacuum system inspection, documentation, and rebuild procedure for the 2.5L Renix TBI engine. It replaces all existing vacuum hoses with correctly routed, correctly sized new lines and verifies system integrity before returning to the Phase A main workflow.
 
 **What this covers:**
+
 - Component inventory and inspection (what YOUR truck actually has)
 - Complete vacuum system teardown and documentation
 - Branch-by-branch rebuild with verification at each step
@@ -22,6 +23,7 @@ This supplement provides a complete vacuum system inspection, documentation, and
 - CCV (Crankcase Ventilation) system rebuild
 
 **What this does NOT cover:**
+
 - Emissions hardware removal (see Phase A, Checkpoint 2.6)
 - Electrical wiring or harness work (see Phase A main document)
 - Engine mechanical repairs
@@ -52,12 +54,14 @@ Phase A Checkpoint 2.8: Sensor Circuit Testing
 ```
 
 **Prerequisites before starting this procedure:**
+
 - [ ] Phase A Checkpoint 2.6 complete — emissions hardware removed
 - [ ] All unused ECM pins de-pinned (Checkpoint 2.5)
 - [ ] Engine bay cleaned (Checkpoint 2.2)
 - [ ] Ground network rebuilt and verified (Checkpoint 2.4)
 
 **After completing this procedure, return to:**
+
 - Phase A Checkpoint 2.7: Ignition Switch Testing & Replacement
 
 ---
@@ -78,17 +82,17 @@ This is why vacuum system integrity is as important as the ground network rebuil
 
 ## Tools Required
 
-| Tool | Purpose | Notes |
-|------|---------|-------|
-| **Needle nose pliers** | Hose clamp removal, fitting work | Already in Phase A toolkit |
-| **Diagonal cutters** | Cutting old hose | Already in Phase A toolkit |
-| **Utility knife** | Slicing stuck hoses off nipples | Be careful around aluminum |
-| **Small pick set** | Cleaning vacuum ports | Harbor Freight ~$5 |
-| **Spray bottle with soapy water** | Leak testing | Dish soap + water |
-| **Hand vacuum pump** (recommended) | Testing check valves, individual lines | Harbor Freight ~$25 |
-| **Masking tape + marker** | Labeling ports during teardown | Already in Phase A toolkit |
-| **Digital camera / phone** | Documentation at every step | — |
-| **Shop towels / rags** | Plugging open ports temporarily | — |
+| Tool                               | Purpose                                | Notes                      |
+| ---------------------------------- | -------------------------------------- | -------------------------- |
+| **Needle nose pliers**             | Hose clamp removal, fitting work       | Already in Phase A toolkit |
+| **Diagonal cutters**               | Cutting old hose                       | Already in Phase A toolkit |
+| **Utility knife**                  | Slicing stuck hoses off nipples        | Be careful around aluminum |
+| **Small pick set**                 | Cleaning vacuum ports                  | Harbor Freight ~$5         |
+| **Spray bottle with soapy water**  | Leak testing                           | Dish soap + water          |
+| **Hand vacuum pump** (recommended) | Testing check valves, individual lines | Harbor Freight ~$25        |
+| **Masking tape + marker**          | Labeling ports during teardown         | Already in Phase A toolkit |
+| **Digital camera / phone**         | Documentation at every step            | —                          |
+| **Shop towels / rags**             | Plugging open ports temporarily        | —                          |
 
 ---
 
@@ -96,15 +100,16 @@ This is why vacuum system integrity is as important as the ground network rebuil
 
 ### Vacuum Hose
 
-| Item | Size | Quantity | Source | Est. Cost |
-|------|------|----------|--------|-----------|
-| **Silicone vacuum hose** | 5/32" ID | 6 ft | Amazon, RockAuto | $8–12 |
-| **Silicone vacuum hose** | 3/16" ID | 4 ft | Amazon, RockAuto | $8–12 |
-| **Reinforced vacuum hose** | 11/32" ID | 4 ft | NAPA, AutoZone | $10–15 |
-| **Vacuum hose tee** | 5/32" or 3/16" | 2 ea | AutoZone, Amazon | $3–5 |
-| **Vacuum caps** (assorted) | 5/32", 3/16", 1/4" | 10 pack | AutoZone, Amazon | $4–6 |
+| Item                       | Size               | Quantity | Source           | Est. Cost |
+| -------------------------- | ------------------ | -------- | ---------------- | --------- |
+| **Silicone vacuum hose**   | 5/32" ID           | 6 ft     | Amazon, RockAuto | $8–12     |
+| **Silicone vacuum hose**   | 3/16" ID           | 4 ft     | Amazon, RockAuto | $8–12     |
+| **Reinforced vacuum hose** | 11/32" ID          | 4 ft     | NAPA, AutoZone   | $10–15    |
+| **Vacuum hose tee**        | 5/32" or 3/16"     | 2 ea     | AutoZone, Amazon | $3–5      |
+| **Vacuum caps** (assorted) | 5/32", 3/16", 1/4" | 10 pack  | AutoZone, Amazon | $4–6      |
 
 **Hose notes:**
+
 - Silicone hose is preferred — resists heat, doesn't harden with age, lasts decades
 - Fuel-injection rated rubber hose is acceptable but will eventually degrade again
 - **Never use fuel hose** — wall thickness is wrong, connections will leak
@@ -112,26 +117,26 @@ This is why vacuum system integrity is as important as the ground network rebuil
 
 ### Check Valves
 
-| Item | Size | Quantity | Source | Est. Cost |
-|------|------|----------|--------|-----------|
-| **Brake booster check valve** | 11/32" | 1 | NAPA, RockAuto | $8–15 |
-| **HVAC reservoir check valve** (if equipped) | 5/32" or 3/16" | 1 | NAPA, junkyard | $5–10 |
+| Item                                         | Size           | Quantity | Source         | Est. Cost |
+| -------------------------------------------- | -------------- | -------- | -------------- | --------- |
+| **Brake booster check valve**                | 11/32"         | 1        | NAPA, RockAuto | $8–15     |
+| **HVAC reservoir check valve** (if equipped) | 5/32" or 3/16" | 1        | NAPA, junkyard | $5–10     |
 
 ### CCV Components
 
-| Item | Size | Quantity | Source | Est. Cost |
-|------|------|----------|--------|-----------|
-| **Oil separator / CCV metered fitting** | Mopar #53002466 | 1 | Mopar parts supplier | $10–12 |
-| **Valve cover grommets** | AMC 2.5L | 2 | RockAuto | $4–8 |
-| **Breather filter element** (air cleaner side) | Universal | 1 | AutoZone | $3–5 |
+| Item                                           | Size            | Quantity | Source               | Est. Cost |
+| ---------------------------------------------- | --------------- | -------- | -------------------- | --------- |
+| **Oil separator / CCV metered fitting**        | Mopar #53002466 | 1        | Mopar parts supplier | $10–12    |
+| **Valve cover grommets**                       | AMC 2.5L        | 2        | RockAuto             | $4–8      |
+| **Breather filter element** (air cleaner side) | Universal       | 1        | AutoZone             | $3–5      |
 
 ### Plugging Supplies
 
-| Item | Purpose | Source | Est. Cost |
-|------|---------|--------|-----------|
-| **Vacuum caps** (silicone, assorted) | Capping unused ports | Amazon | $4–6 |
-| **Brass vacuum plugs** | Permanent port closure | Fastenal, hardware store | $3–5 |
-| **Small hose clamps** (assorted) | Securing critical connections | AutoZone | $5–8 |
+| Item                                 | Purpose                       | Source                   | Est. Cost |
+| ------------------------------------ | ----------------------------- | ------------------------ | --------- |
+| **Vacuum caps** (silicone, assorted) | Capping unused ports          | Amazon                   | $4–6      |
+| **Brass vacuum plugs**               | Permanent port closure        | Fastenal, hardware store | $3–5      |
+| **Small hose clamps** (assorted)     | Securing critical connections | AutoZone                 | $5–8      |
 
 ### Estimated Total: $60–100
 
@@ -157,25 +162,25 @@ Locate and count every vacuum nipple on the intake manifold and throttle body ba
 
 **Inspection:**
 
-- [ ] Count total vacuum nipples on intake manifold: ____
-- [ ] Count total vacuum nipples on TBI base/adapter: ____
-- [ ] Identify which nipples currently have hoses attached: ____
-- [ ] Identify which nipples are open (no hose, no cap): ____
-- [ ] Identify which nipples are capped/plugged: ____
+- [ ] Count total vacuum nipples on intake manifold: \_\_\_\_
+- [ ] Count total vacuum nipples on TBI base/adapter: \_\_\_\_
+- [ ] Identify which nipples currently have hoses attached: \_\_\_\_
+- [ ] Identify which nipples are open (no hose, no cap): \_\_\_\_
+- [ ] Identify which nipples are capped/plugged: \_\_\_\_
 - [ ] Photograph all vacuum nipples (overview + close-up of each)
 
 **Port identification — label each with masking tape:**
 
-| Port # | Location | Size (est.) | Currently Connected To | Hose Condition |
-|--------|----------|-------------|------------------------|----------------|
-| 1 | ________ | ________ | ________ | ________ |
-| 2 | ________ | ________ | ________ | ________ |
-| 3 | ________ | ________ | ________ | ________ |
-| 4 | ________ | ________ | ________ | ________ |
-| 5 | ________ | ________ | ________ | ________ |
-| 6 | ________ | ________ | ________ | ________ |
-| 7 | ________ | ________ | ________ | ________ |
-| 8 | ________ | ________ | ________ | ________ |
+| Port # | Location     | Size (est.)  | Currently Connected To | Hose Condition |
+| ------ | ------------ | ------------ | ---------------------- | -------------- |
+| 1      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
+| 2      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
+| 3      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
+| 4      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
+| 5      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
+| 6      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
+| 7      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
+| 8      | **\_\_\_\_** | **\_\_\_\_** | **\_\_\_\_**           | **\_\_\_\_**   |
 
 **Add rows as needed. Most 2.5L Renix manifolds have 4–6 vacuum nipples.**
 
@@ -189,8 +194,8 @@ Ported vacuum is available only above the throttle plate — it reads zero at id
 
 - [ ] Locate ported vacuum nipple on throttle body (above throttle plate): Found? Y / N
 - [ ] Hose currently attached? Y / N
-- [ ] If yes, trace hose to: ________________________________________
-- [ ] Nipple condition (cracked, corroded, clean): ____________________
+- [ ] If yes, trace hose to: ******************\_\_\_\_******************
+- [ ] Nipple condition (cracked, corroded, clean): ********\_\_\_\_********
 - [ ] Photograph
 
 **Note:** If your distributor has vacuum advance, it should connect HERE (ported), not to manifold vacuum. This is a common misroute.
@@ -204,11 +209,11 @@ The MAP sensor is typically mounted on the firewall, driver's side.
 **Inspection:**
 
 - [ ] MAP sensor located: Y / N
-- [ ] Location: ________________________________________________
+- [ ] Location: **********************\_\_\_\_**********************
 - [ ] Vacuum hose connected? Y / N
-- [ ] Hose routes to (trace it): ___________________________________
-- [ ] Hose condition (hard, cracked, soft, good): ____________________
-- [ ] Hose length (estimate): ________ inches
+- [ ] Hose routes to (trace it): ****************\_\_\_****************
+- [ ] Hose condition (hard, cracked, soft, good): ********\_\_\_\_********
+- [ ] Hose length (estimate): **\_\_\_\_** inches
 - [ ] Any tees or splices in MAP vacuum line? Y / N
   - If YES — **this is wrong and must be corrected.** MAP gets its own dedicated line.
 - [ ] Any check valve in MAP vacuum line? Y / N
@@ -225,12 +230,12 @@ The brake booster is the large round canister on the driver's side firewall behi
 
 - [ ] Brake booster located: Y / N (should always be present)
 - [ ] Large vacuum hose connected? Y / N
-- [ ] Hose routes from: __________ to booster
-- [ ] Hose condition: ___________________________________________
-- [ ] Hose size (should be 11/32" or 3/8"): ________________________
+- [ ] Hose routes from: ****\_\_**** to booster
+- [ ] Hose condition: ********************\_\_\_********************
+- [ ] Hose size (should be 11/32" or 3/8"): **********\_\_\_\_**********
 - [ ] Check valve present in hose? Y / N
   - [ ] If yes — arrow direction: toward booster / toward manifold / no arrow visible
-  - [ ] Check valve condition: ____________________________________
+  - [ ] Check valve condition: ****************\_\_\_\_****************
 - [ ] Test check valve (if hand pump available):
   - [ ] Vacuum holds when applied toward booster side? Y / N
   - [ ] Vacuum bleeds through toward manifold side? Y / N (should = yes, one-way)
@@ -249,16 +254,18 @@ Not all 1986 2.5L Renix distributors have vacuum advance. You need to check.
   - This is a round metal can (roughly 2–3" diameter) with a vacuum nipple, attached to the side of the distributor body. It has a rod connecting to the breaker plate inside the distributor.
 
 **If YES (vacuum advance present):**
+
 - [ ] Vacuum hose connected? Y / N
-- [ ] Hose routes to (trace it): ___________________________________
+- [ ] Hose routes to (trace it): ****************\_\_\_****************
   - Should connect to PORTED vacuum (throttle body), NOT manifold vacuum
-- [ ] Hose condition: ___________________________________________
+- [ ] Hose condition: ********************\_\_\_********************
 - [ ] Photograph
 
 **If NO (no vacuum advance):**
+
 - [ ] Distributor is electronic advance only — no vacuum connection needed
 - [ ] Skip this branch during rebuild
-- [ ] Note: ___________________________________________________
+- [ ] Note: ************************\_\_\_************************
 
 ---
 
@@ -274,12 +281,12 @@ The CCV system vents crankcase pressure and recirculates blow-by gases. On the A
   - [ ] PCV valve threaded/pressed into grommet
   - [ ] Open grommet with plain hose barb
   - [ ] Open hole (no fitting — **problem**)
-  - [ ] Other: ________________________________________________
+  - [ ] Other: **********************\_\_\_\_**********************
 - [ ] If metered fitting/PCV present — orifice clear? (hold to light): Y / N
 - [ ] Hose connected? Y / N
-- [ ] Hose routes to: ___________________________________________
+- [ ] Hose routes to: ********************\_\_\_********************
   - Should route to intake manifold vacuum
-- [ ] Hose condition: ___________________________________________
+- [ ] Hose condition: ********************\_\_\_********************
 - [ ] Photograph
 
 **Inspection — Front Valve Cover Port:**
@@ -289,9 +296,9 @@ The CCV system vents crankcase pressure and recirculates blow-by gases. On the A
   - [ ] Pressed-in fitting with breather filter
   - [ ] Open grommet with hose to air cleaner
   - [ ] Open hole (no fitting)
-  - [ ] Other: ________________________________________________
+  - [ ] Other: **********************\_\_\_\_**********************
 - [ ] Hose connected? Y / N
-- [ ] Hose routes to: ___________________________________________
+- [ ] Hose routes to: ********************\_\_\_********************
   - Should route to air cleaner housing (fresh air inlet)
 - [ ] Photograph
 
@@ -311,9 +318,10 @@ Vacuum-operated HVAC uses manifold vacuum to actuate blend doors and vent mode d
   - [ ] Unknown — need to inspect behind dash panel
 
 **If vacuum-operated:**
+
 - [ ] Vacuum reservoir (ball or canister) present? Y / N
-  - [ ] Location: _______________________________________________
-  - [ ] Condition: ______________________________________________
+  - [ ] Location: **********************\_\_\_**********************
+  - [ ] Condition: **********************\_\_**********************
 - [ ] Vacuum supply hose from manifold to reservoir: Present? Y / N
 - [ ] Check valve between manifold and reservoir: Present? Y / N
 - [ ] Do HVAC vent modes change correctly when engine is running? Y / N
@@ -321,9 +329,10 @@ Vacuum-operated HVAC uses manifold vacuum to actuate blend doors and vent mode d
 - [ ] Photograph
 
 **If cable-operated:**
+
 - [ ] No vacuum connections needed for HVAC
 - [ ] Skip this branch during rebuild
-- [ ] Note: ___________________________________________________
+- [ ] Note: ************************\_\_\_************************
 
 ---
 
@@ -339,9 +348,9 @@ Some Jeep 4WD systems use vacuum to engage/disengage the front axle disconnect (
   - [ ] Full-time engagement (no disconnect mechanism)
   - [ ] Unknown
 - [ ] Vacuum motor present on front axle? Y / N
-  - [ ] Location: _______________________________________________
+  - [ ] Location: **********************\_\_\_**********************
   - [ ] Vacuum hoses connected? Y / N
-  - [ ] Hoses route to: _________________________________________
+  - [ ] Hoses route to: ********************\_********************
 - [ ] Vacuum switch/solenoid on transfer case? Y / N
 - [ ] Photograph
 
@@ -373,13 +382,13 @@ After 38 years, there may be hoses going to things that shouldn't be there — a
 
 - [ ] Any vacuum hoses going to unidentified components? Y / N
   - If yes, describe each:
-  - Mystery hose 1: From _____________ to _____________ Purpose: _____________
-  - Mystery hose 2: From _____________ to _____________ Purpose: _____________
-  - Mystery hose 3: From _____________ to _____________ Purpose: _____________
+  - Mystery hose 1: From ******\_****** to ******\_****** Purpose: ******\_******
+  - Mystery hose 2: From ******\_****** to ******\_****** Purpose: ******\_******
+  - Mystery hose 3: From ******\_****** to ******\_****** Purpose: ******\_******
 - [ ] Any hoses that dead-end (connected at one end, open at other)? Y / N
-  - These are vacuum leaks. Note location: _________________________________
+  - These are vacuum leaks. Note location: ****************\_****************
 - [ ] Any non-factory vacuum tees or splitters? Y / N
-  - Location and purpose: ______________________________________________
+  - Location and purpose: **********************\_\_**********************
 - [ ] Photograph all mystery hoses and connections
 
 ---
@@ -390,33 +399,33 @@ After completing the inventory, fill in this summary. This becomes your rebuild 
 
 ### Systems Present on This Vehicle
 
-| System | Present? | Vacuum Source | Rebuild? |
-|--------|----------|---------------|----------|
-| MAP Sensor | Y / N | Manifold | YES — always |
-| Brake Booster | Y / N | Manifold | YES — always |
-| CCV (rear valve cover) | Y / N | Manifold | YES — always |
-| CCV (front valve cover) | Y / N | Fresh air (air cleaner) | YES — always |
-| Distributor Vacuum Advance | Y / N | Ported | If present |
-| HVAC Vacuum | Y / N | Manifold (via reservoir) | If present |
-| 4WD Vacuum (CAD) | Y / N | Manifold | Separate scope |
-| Emissions (should be removed) | Y / N | N/A | Should be gone |
+| System                        | Present? | Vacuum Source            | Rebuild?       |
+| ----------------------------- | -------- | ------------------------ | -------------- |
+| MAP Sensor                    | Y / N    | Manifold                 | YES — always   |
+| Brake Booster                 | Y / N    | Manifold                 | YES — always   |
+| CCV (rear valve cover)        | Y / N    | Manifold                 | YES — always   |
+| CCV (front valve cover)       | Y / N    | Fresh air (air cleaner)  | YES — always   |
+| Distributor Vacuum Advance    | Y / N    | Ported                   | If present     |
+| HVAC Vacuum                   | Y / N    | Manifold (via reservoir) | If present     |
+| 4WD Vacuum (CAD)              | Y / N    | Manifold                 | Separate scope |
+| Emissions (should be removed) | Y / N    | N/A                      | Should be gone |
 
 ### Open Vacuum Ports Requiring Caps
 
-| Port Location | Size | Cap/Plug Installed? |
-|---------------|------|---------------------|
-| _____________ | ____ | Y / N |
-| _____________ | ____ | Y / N |
-| _____________ | ____ | Y / N |
-| _____________ | ____ | Y / N |
+| Port Location  | Size     | Cap/Plug Installed? |
+| -------------- | -------- | ------------------- |
+| ******\_****** | \_\_\_\_ | Y / N               |
+| ******\_****** | \_\_\_\_ | Y / N               |
+| ******\_****** | \_\_\_\_ | Y / N               |
+| ******\_****** | \_\_\_\_ | Y / N               |
 
 ### Issues Found During Inventory
 
-| Issue | Severity | Action Required |
-|-------|----------|-----------------|
-| _________________ | _________ | _________________ |
-| _________________ | _________ | _________________ |
-| _________________ | _________ | _________________ |
+| Issue              | Severity   | Action Required    |
+| ------------------ | ---------- | ------------------ |
+| ********\_******** | ****\_**** | ********\_******** |
+| ********\_******** | ****\_**** | ********\_******** |
+| ********\_******** | ****\_**** | ********\_******** |
 
 **☐ CHECKPOINT V1 COMPLETE — Proceed to Section 2 only after all inventory items documented.**
 
@@ -449,7 +458,7 @@ After completing the inventory, fill in this summary. This becomes your rebuild 
    - [ ] Spray each port with carburetor cleaner or brake cleaner
    - [ ] Blow out with compressed air if available
    - [ ] Inspect each nipple for cracks, corrosion, or damage
-   - [ ] Any damaged nipple: note here for repair/replacement: _________________________
+   - [ ] Any damaged nipple: note here for repair/replacement: ************\_************
 
 4. **Cap all open ports temporarily:**
    - [ ] Install vacuum caps on every open nipple
@@ -508,6 +517,7 @@ PORTED VACUUM (Throttle Body — above throttle plate)
 **Routing:** Manifold vacuum nipple → short hose → MAP sensor
 
 **Rules — non-negotiable:**
+
 - Dedicated line — no tees, no splices, no shared connections
 - No check valve — MAP must see real-time vacuum changes
 - Keep hose as short as possible — 6 to 8 inches ideal, 12 inches maximum
@@ -534,7 +544,7 @@ PORTED VACUUM (Throttle Body — above throttle plate)
    - [ ] Listen for hissing at connections — any hiss = leak
 
 **Test result:** MAP stumble test: PASS / FAIL  
-**Notes:** _________________________________________________________________
+**Notes:** ********************************\_********************************
 
 **☐ BRANCH 1 COMPLETE — MAP sensor line installed and verified.**
 
@@ -570,7 +580,7 @@ PORTED VACUUM (Throttle Body — above throttle plate)
 **Test result:** Brake pedal assist: PASS / FAIL  
 **Test result:** Idle stable during braking: PASS / FAIL  
 **Test result:** Residual assist after shutdown: PASS / FAIL  
-**Notes:** _________________________________________________________________
+**Notes:** ********************************\_********************************
 
 **☐ BRANCH 2 COMPLETE — Brake booster line installed and verified.**
 
@@ -585,6 +595,7 @@ PORTED VACUUM (Throttle Body — above throttle plate)
 **Routing:** Rear valve cover port → metered orifice/PCV → hose → intake manifold vacuum
 
 **⚠️ CRITICAL:** The rear port MUST have a flow restriction. This is either:
+
 - A pressed-in metal fitting with a small orifice hole (factory design for many AMC 2.5L applications)
 - A PCV valve (some configurations)
 
@@ -638,7 +649,7 @@ This side is NOT under vacuum. It provides filtered fresh air inlet to the crank
 
 **Test result:** Slight crankcase vacuum at oil cap: PASS / FAIL  
 **Test result:** Idle stable with cap removed: PASS / FAIL  
-**Notes:** _________________________________________________________________
+**Notes:** ********************************\_********************************
 
 **☐ BRANCH 3 COMPLETE — CCV system installed and verified.**
 
@@ -668,7 +679,7 @@ This side is NOT under vacuum. It provides filtered fresh air inlet to the crank
    - [ ] Rev engine to ~2000 RPM and release — engine should return to normal idle smoothly
 
 **Test result:** No idle speed change with line connected: PASS / FAIL  
-**Notes:** _________________________________________________________________
+**Notes:** ********************************\_********************************
 
 **☐ BRANCH 4 COMPLETE (or SKIPPED — no vacuum advance).**
 
@@ -701,7 +712,7 @@ This side is NOT under vacuum. It provides filtered fresh air inlet to the crank
    - [ ] If vents default to defrost: vacuum is not reaching HVAC actuators — check hose, check valve, reservoir
 
 **Test result:** HVAC mode changes correctly: PASS / FAIL  
-**Notes:** _________________________________________________________________
+**Notes:** ********************************\_********************************
 
 **☐ BRANCH 5 COMPLETE (or SKIPPED — cable-operated HVAC).**
 
@@ -738,7 +749,7 @@ This side is NOT under vacuum. It provides filtered fresh air inlet to the crank
 
 4. **Idle quality check:**
    - [ ] Engine idling smoothly? Y / N
-   - [ ] Idle RPM: ________ (typical: 700–900 RPM warm)
+   - [ ] Idle RPM: **\_\_\_\_** (typical: 700–900 RPM warm)
    - [ ] No hunting/surging? Y / N
    - [ ] No hissing audible from engine bay? Y / N
 
@@ -756,16 +767,16 @@ This side is NOT under vacuum. It provides filtered fresh air inlet to the crank
 
 ### Functional Tests
 
-| Test | Procedure | Expected Result | PASS/FAIL |
-|------|-----------|-----------------|-----------|
-| **MAP stumble** | Pull MAP hose briefly at idle | Engine stumbles immediately | _______ |
-| **Brake assist** | Press brake pedal at idle | Firm pedal, idle stays stable | _______ |
-| **Brake vacuum hold** | Shut off engine, wait 30 sec, press brake | 1–2 assisted pumps | _______ |
-| **CCV vacuum** | Remove oil fill cap at idle | Slight suction felt at opening | _______ |
-| **CCV idle** | Remove oil fill cap at idle | Idle changes slightly, not dramatically | _______ |
-| **Distributor** (if equipped) | Connect/disconnect line at idle | No idle speed change | _______ |
-| **HVAC modes** (if equipped) | Switch vent positions | Vents change position | _______ |
-| **Leak check** | Soapy water on all connections | No bubbles anywhere | _______ |
+| Test                          | Procedure                                 | Expected Result                         | PASS/FAIL  |
+| ----------------------------- | ----------------------------------------- | --------------------------------------- | ---------- |
+| **MAP stumble**               | Pull MAP hose briefly at idle             | Engine stumbles immediately             | **\_\_\_** |
+| **Brake assist**              | Press brake pedal at idle                 | Firm pedal, idle stays stable           | **\_\_\_** |
+| **Brake vacuum hold**         | Shut off engine, wait 30 sec, press brake | 1–2 assisted pumps                      | **\_\_\_** |
+| **CCV vacuum**                | Remove oil fill cap at idle               | Slight suction felt at opening          | **\_\_\_** |
+| **CCV idle**                  | Remove oil fill cap at idle               | Idle changes slightly, not dramatically | **\_\_\_** |
+| **Distributor** (if equipped) | Connect/disconnect line at idle           | No idle speed change                    | **\_\_\_** |
+| **HVAC modes** (if equipped)  | Switch vent positions                     | Vents change position                   | **\_\_\_** |
+| **Leak check**                | Soapy water on all connections            | No bubbles anywhere                     | **\_\_\_** |
 
 ### Visual Inspection
 
@@ -789,22 +800,22 @@ This side is NOT under vacuum. It provides filtered fresh air inlet to the crank
 
 Fill this in after rebuild is complete. This becomes your permanent reference.
 
-| Branch | Source Port | Destination | Hose Size | Check Valve? | Hose Length |
-|--------|-----------|-------------|-----------|--------------|-------------|
-| MAP Sensor | ____________ | MAP sensor | 5/32" | No | ______ in |
-| Brake Booster | ____________ | Brake booster | 11/32" | Yes → booster | ______ in |
-| CCV Rear | Rear valve cover | ____________ | 3/16" | No | ______ in |
-| CCV Front | Front valve cover | Air cleaner | 3/16" | No (fresh air) | ______ in |
-| Distributor | Ported vacuum | Distributor | 5/32" | No | ______ in |
-| HVAC | ____________ | Reservoir | 5/32" | Yes → reservoir | ______ in |
+| Branch        | Source Port       | Destination      | Hose Size | Check Valve?    | Hose Length |
+| ------------- | ----------------- | ---------------- | --------- | --------------- | ----------- |
+| MAP Sensor    | ****\_\_\_\_****  | MAP sensor       | 5/32"     | No              | **\_\_** in |
+| Brake Booster | ****\_\_\_\_****  | Brake booster    | 11/32"    | Yes → booster   | **\_\_** in |
+| CCV Rear      | Rear valve cover  | ****\_\_\_\_**** | 3/16"     | No              | **\_\_** in |
+| CCV Front     | Front valve cover | Air cleaner      | 3/16"     | No (fresh air)  | **\_\_** in |
+| Distributor   | Ported vacuum     | Distributor      | 5/32"     | No              | **\_\_** in |
+| HVAC          | ****\_\_\_\_****  | Reservoir        | 5/32"     | Yes → reservoir | **\_\_** in |
 
 **Capped/Plugged Ports:**
 
-| Port Location | Cap Type |
-|---------------|----------|
-| _____________ | ________ |
-| _____________ | ________ |
-| _____________ | ________ |
+| Port Location  | Cap Type     |
+| -------------- | ------------ |
+| ******\_****** | **\_\_\_\_** |
+| ******\_****** | **\_\_\_\_** |
+| ******\_****** | **\_\_\_\_** |
 
 ---
 
@@ -812,16 +823,16 @@ Fill this in after rebuild is complete. This becomes your permanent reference.
 
 Printing this page separately and taping it to the garage wall isn't a bad idea.
 
-| Mistake | Why It's Bad | How to Avoid |
-|---------|-------------|--------------|
-| Tee-ing MAP line into other circuits | Corrupts MAP reading, causes rich running | MAP gets its own dedicated, direct line — always |
-| Check valve in MAP line | MAP can't read real-time vacuum changes | Never install a check valve in the MAP line |
-| Distributor on manifold vacuum | Timing advance at idle, high idle, detonation risk | Use PORTED vacuum (above throttle plate) |
-| CCV rear port without restriction | Excessive crankcase vacuum, oil consumption | Always use metered orifice or PCV valve |
-| Using fuel hose for vacuum lines | Wrong wall thickness, connections leak | Use silicone vacuum hose or FI-rated vacuum hose |
-| Leaving ports open/uncapped | Unmetered vacuum leak = bad MAP signal | Every port: connected or capped. No exceptions. |
-| Routing hose near exhaust | Hose melts, creates delayed leak | Route all vacuum hoses away from exhaust manifold |
-| Installing brake check valve backward | No vacuum reserve for brakes — safety hazard | Arrow always points TOWARD booster |
+| Mistake                               | Why It's Bad                                       | How to Avoid                                      |
+| ------------------------------------- | -------------------------------------------------- | ------------------------------------------------- |
+| Tee-ing MAP line into other circuits  | Corrupts MAP reading, causes rich running          | MAP gets its own dedicated, direct line — always  |
+| Check valve in MAP line               | MAP can't read real-time vacuum changes            | Never install a check valve in the MAP line       |
+| Distributor on manifold vacuum        | Timing advance at idle, high idle, detonation risk | Use PORTED vacuum (above throttle plate)          |
+| CCV rear port without restriction     | Excessive crankcase vacuum, oil consumption        | Always use metered orifice or PCV valve           |
+| Using fuel hose for vacuum lines      | Wrong wall thickness, connections leak             | Use silicone vacuum hose or FI-rated vacuum hose  |
+| Leaving ports open/uncapped           | Unmetered vacuum leak = bad MAP signal             | Every port: connected or capped. No exceptions.   |
+| Routing hose near exhaust             | Hose melts, creates delayed leak                   | Route all vacuum hoses away from exhaust manifold |
+| Installing brake check valve backward | No vacuum reserve for brakes — safety hazard       | Arrow always points TOWARD booster                |
 
 ---
 

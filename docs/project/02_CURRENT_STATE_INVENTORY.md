@@ -1,6 +1,7 @@
 # CURRENT STATE INVENTORY: Mad Maxine
 
 ## Document Purpose
+
 This document serves as the comprehensive condition assessment for the 1986 Jeep Comanche. Use this as a **working inspection checklist** to document the actual state of every system as you inspect the vehicle. Update this document as new issues are discovered throughout the restoration.
 
 **Assessment Date:** 01/24/2026  
@@ -12,12 +13,14 @@ This document serves as the comprehensive condition assessment for the 1986 Jeep
 ## Document Relationship
 
 This inventory is a **working inspection checklist**. As you complete each inspection:
+
 1. Check the box [x]
 2. Fill in the measurement/status
 3. Add photos to `/photos/` directory
 4. Update status symbols as conditions change
 
 **For strategic context and prioritized issues, see:**
+
 - **Jeep_Comanche_Project_Brief.md** - Known issues summary, current project phase, technical reference
 - **01_PROJECT_CHARTER.md** - Project vision, success criteria, decision frameworks
 - **05_WORK_LOG.md** - Detailed history of work performed and lessons learned
@@ -28,19 +31,20 @@ This document tracks **what is** (current condition). Other documents track **wh
 
 ## Assessment Legend
 
-| Symbol | Meaning |
-|--------|---------|
-| ✅ | Working / Good condition |
-| ⚠️ | Functional but needs attention |
-| ❌ | Not working / Failed / Missing |
-| ❓ | Unknown / Not yet tested |
-| 📝 | Notes required |
+| Symbol | Meaning                        |
+| ------ | ------------------------------ |
+| ✅     | Working / Good condition       |
+| ⚠️     | Functional but needs attention |
+| ❌     | Not working / Failed / Missing |
+| ❓     | Unknown / Not yet tested       |
+| 📝     | Notes required                 |
 
 ---
 
 ## 1. FRAME & STRUCTURE
 
 ### Frame Rails
+
 - [x] **Driver side front:** ✅ Condition: **Solid** Rust level: **Surface Only**
 - [x] **Driver side rear:** ✅ Condition: **Solid** Rust level: **Surface Only**
 - [x] **Passenger side front:** ✅ Condition: **Solid** Rust level: **Surface Only**
@@ -59,6 +63,7 @@ This document tracks **what is** (current condition). Other documents track **wh
 - Clean, treat rust, POR-15 coating
 
 ### Unibody/Cab Structure
+
 - [x] **Rocker panels - driver:** ✅ Condition: **Solid** Rust: **Minor Surface**
 - [x] **Rocker panels - passenger:** ✅ Condition: **Solid** Rust: **Minor Surface**
 - [x] **Cab corners - driver:** ✅ Condition: **Solid** Rust: **Minor Surface**
@@ -76,6 +81,7 @@ This document tracks **what is** (current condition). Other documents track **wh
 - Needs deeper inspection of windshield frame behind dash, not currently visible
 
 ### Floor Pans
+
 - [x] **Driver front floor:** ❌ KNOWN: Rust holes present - SIZE: 2-3"
 - [x] **Passenger front floor:** ❌ KNOWN: Rust holes present - SIZE: 2-3"
 - [x] **Transmission tunnel:** ✅ Condition: **Solid** Rust: **Minor Surface**
@@ -122,22 +128,24 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 2. ENGINE (2.5L AMC I4 - Renix TBI)
 
 ### Engine Operation
+
 - [x] **Cold start:** ✅ CONFIRMED: Starts first crank even in freezing temps
 - [x] **Cold idle quality:** ⚠️ KNOWN: Rough idle when cold, smooths when warm
 - [x] **Warm idle:** ✅ KNOWN: Runs smoother when warmed up
-- [ ] **Acceleration:** ❓ Test under load: _______________
-- [ ] **Power delivery:** ❓ Adequate for hills: _______________
-- [ ] **Engine noises:** ❓ Describe: _______________
-- [ ] **Smoke from exhaust:** ❓ Color/amount: _______________
+- [ ] **Acceleration:** ❓ Test under load: ******\_\_\_******
+- [ ] **Power delivery:** ❓ Adequate for hills: ******\_\_\_******
+- [ ] **Engine noises:** ❓ Describe: ******\_\_\_******
+- [ ] **Smoke from exhaust:** ❓ Color/amount: ******\_\_\_******
 
 ### External Condition
+
 - [x] **Oil leaks - valve cover:** ❌ Leaking despite "new" gasket
 - [x] **Oil leaks - oil pressure sender:** ❌ Confirmed leak
 - [x] **Oil leaks - major spray passenger side:** ❌ Significant spray in engine bay
-- [ ] **Oil leaks - rear main seal:** ❓ Check at bellhousing: _______________
-- [ ] **Oil leaks - oil pan:** ❓ Condition: _______________
-- [ ] **Coolant leaks:** ❓ Any visible: _______________
-- [ ] **Fuel leaks:** ❓ Any visible: _______________
+- [ ] **Oil leaks - rear main seal:** ❓ Check at bellhousing: ******\_\_\_******
+- [ ] **Oil leaks - oil pan:** ❓ Condition: ******\_\_\_******
+- [ ] **Coolant leaks:** ❓ Any visible: ******\_\_\_******
+- [ ] **Fuel leaks:** ❓ Any visible: ******\_\_\_******
 
 **Notes:**
 
@@ -145,15 +153,16 @@ This document tracks **what is** (current condition). Other documents track **wh
 - After cleaning, document each leak source with photo and location
 
 ### Cooling System
-- [ ] **Radiator condition:** ❓ Leaks: _______________ Fins: _______________
-- [ ] **Radiator cap:** ❓ Holds pressure: _______________
-- [ ] **Upper radiator hose:** ❓ Cracks/swelling: _______________
-- [ ] **Lower radiator hose:** ❓ Cracks/swelling: _______________
-- [ ] **Heater hoses:** ❓ Condition: _______________
-- [ ] **Water pump:** ❓ Leaks at weep hole: _______________ Bearing play: _______________
-- [ ] **Thermostat operation:** ❓ Opens at 195°F: _______________
-- [ ] **Coolant condition:** ❓ Color: _______________ Contamination: _______________
-- [ ] **Coolant level:** ❓ Full/low: _______________
+
+- [ ] **Radiator condition:** ❓ Leaks: ******\_\_\_****** Fins: ******\_\_\_******
+- [ ] **Radiator cap:** ❓ Holds pressure: ******\_\_\_******
+- [ ] **Upper radiator hose:** ❓ Cracks/swelling: ******\_\_\_******
+- [ ] **Lower radiator hose:** ❓ Cracks/swelling: ******\_\_\_******
+- [ ] **Heater hoses:** ❓ Condition: ******\_\_\_******
+- [ ] **Water pump:** ❓ Leaks at weep hole: ******\_\_\_****** Bearing play: ******\_\_\_******
+- [ ] **Thermostat operation:** ❓ Opens at 195°F: ******\_\_\_******
+- [ ] **Coolant condition:** ❓ Color: ******\_\_\_****** Contamination: ******\_\_\_******
+- [ ] **Coolant level:** ❓ Full/low: ******\_\_\_******
 - [x] **Overflow tank:** ❓ Present/condition: ❌ Cap cracked
 
 **Notes:**
@@ -161,52 +170,57 @@ This document tracks **what is** (current condition). Other documents track **wh
 - Pressure test recommended - document results
 
 ### Fuel System (Renix TBI)
+
 - [x] **Throttle body:** ✅ CONFIRMED: Present (not carbureted)
-- [ ] **Throttle body condition:** ❓ Clean/dirty: _______________
-- [ ] **Idle Air Control (IAC):** ❓ Operation: _______________
-- [ ] **Fuel injector:** ❓ Spray pattern: _______________
-- [ ] **Fuel pressure:** ❓ PSI: _______________ (spec: 14.5 psi)
-- [ ] **Fuel filter:** ❓ Age/condition: _______________
-- [ ] **Fuel lines:** ❓ Leaks/cracks: _______________
+- [ ] **Throttle body condition:** ❓ Clean/dirty: ******\_\_\_******
+- [ ] **Idle Air Control (IAC):** ❓ Operation: ******\_\_\_******
+- [ ] **Fuel injector:** ❓ Spray pattern: ******\_\_\_******
+- [ ] **Fuel pressure:** ❓ PSI: ******\_\_\_****** (spec: 14.5 psi)
+- [ ] **Fuel filter:** ❓ Age/condition: ******\_\_\_******
+- [ ] **Fuel lines:** ❓ Leaks/cracks: ******\_\_\_******
 - [x] **Fuel tank:** ✅ CONFIRMED: Plastic, no leaks or rust evident
-- [ ] **Fuel pump:** ❓ Operation/noise: _______________
+- [ ] **Fuel pump:** ❓ Operation/noise: ******\_\_\_******
 
 ### Ignition System
+
 - [x] **Won't shut off with key:** ❌ Engine continues running after key to OFF
-- [ ] **Ignition switch:** ❓ Likely failed - TEST: _______________
-- [ ] **Distributor cap:** ❓ Cracks/carbon: _______________
-- [ ] **Distributor rotor:** ❓ Condition: _______________
-- [ ] **Spark plug wires:** ❓ Cracks/resistance: _______________
-- [ ] **Spark plugs:** ❓ Condition/gap: _______________
-- [ ] **Coil:** ❓ Output voltage: _______________
-- [ ] **Crankshaft position sensor:** ❓ Operation: _______________
+- [ ] **Ignition switch:** ❓ Likely failed - TEST: ******\_\_\_******
+- [ ] **Distributor cap:** ❓ Cracks/carbon: ******\_\_\_******
+- [ ] **Distributor rotor:** ❓ Condition: ******\_\_\_******
+- [ ] **Spark plug wires:** ❓ Cracks/resistance: ******\_\_\_******
+- [ ] **Spark plugs:** ❓ Condition/gap: ******\_\_\_******
+- [ ] **Coil:** ❓ Output voltage: ******\_\_\_******
+- [ ] **Crankshaft position sensor:** ❓ Operation: ******\_\_\_******
 
 **DIAGNOSIS REQUIRED:** Ignition switch likely culprit for won't-shut-off issue
 
 ### Sensors & ECM
-- [X] **ECM location:** ✅ CONFIRMED: Under dash driver side
-- [ ] **Coolant temp sensor (CTS):** ❓ Reading accurate: _______________
-- [ ] **Throttle position sensor (TPS):** ❓ Voltage range: _______________
-- [ ] **MAP sensor:** ❓ Operation: _______________
-- [ ] **Oxygen sensor:** ❓ Response time: _______________
-- [ ] **Ground connections:** ❓ Clean/tight: _______________
+
+- [x] **ECM location:** ✅ CONFIRMED: Under dash driver side
+- [ ] **Coolant temp sensor (CTS):** ❓ Reading accurate: ******\_\_\_******
+- [ ] **Throttle position sensor (TPS):** ❓ Voltage range: ******\_\_\_******
+- [ ] **MAP sensor:** ❓ Operation: ******\_\_\_******
+- [ ] **Oxygen sensor:** ❓ Response time: ******\_\_\_******
+- [ ] **Ground connections:** ❓ Clean/tight: ******\_\_\_******
 
 **Notes:**
 
 - Renix is ground-sensitive - check all engine bay grounds
 
 ### Belts & Accessories
-- [ ] **Serpentine/V-belt:** ❓ Cracks/wear: _______________ Tension: _______________
-- [ ] **Alternator:** ❓ Output voltage: _______________ (spec: 13.5-14.5V)
+
+- [ ] **Serpentine/V-belt:** ❓ Cracks/wear: ******\_\_\_****** Tension: ******\_\_\_******
+- [ ] **Alternator:** ❓ Output voltage: ******\_\_\_****** (spec: 13.5-14.5V)
 - [x] **Starter:** ✅ CONFIRMED: Starts first crank
-- [ ] **Power steering pump:** ❓ Noise/leaks: _______________
-- [ ] **A/C compressor:** ❓ Present/seized: _______________
+- [ ] **Power steering pump:** ❓ Noise/leaks: ******\_\_\_******
+- [ ] **A/C compressor:** ❓ Present/seized: ******\_\_\_******
 
 ### Exhaust System
+
 - [ ] **Exhaust manifold:** ❓ Inspect for cracks (common 2.5L failure)
 - [x] **Exhaust system:** ❌ KNOWN: "Complete mess, barely hanging on"
-- [ ] **Catalytic converter:** ❓ Present/plugged: _______________
-- [ ] **Muffler:** ❓ Condition: _______________
+- [ ] **Catalytic converter:** ❓ Present/plugged: ******\_\_\_******
+- [ ] **Muffler:** ❓ Condition: ******\_\_\_******
 - [x] **Exhaust smell in cab:** ❌ KNOWN: Strong exhaust fumes entering cabin - CO HAZARD
 
 **⚠️ CRITICAL:** Do not run engine in enclosed space or drive until exhaust repaired
@@ -216,20 +230,22 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 3. TRANSMISSION (AX5 5-Speed Manual)
 
 ### Operation
+
 - [x] **Forward gears 1-5:** ✅ CONFIRMED: Shift smoothly
 - [x] **Reverse:** ⚠️ KNOWN: Sticky/grinding when engaging
-- [ ] **Clutch pedal:** ❓ Free play: _______________ Travel: _______________
-- [ ] **Clutch engagement:** ❓ Point: _______________ Slipping: _______________
-- [ ] **Shift linkage:** ❓ Adjustment: _______________
-- [ ] **Transmission mounts:** ❓ Condition: _______________
+- [ ] **Clutch pedal:** ❓ Free play: ******\_\_\_****** Travel: ******\_\_\_******
+- [ ] **Clutch engagement:** ❓ Point: ******\_\_\_****** Slipping: ******\_\_\_******
+- [ ] **Shift linkage:** ❓ Adjustment: ******\_\_\_******
+- [ ] **Transmission mounts:** ❓ Condition: ******\_\_\_******
 
 ### Condition
-- [ ] **Transmission case:** ❓ Cracks/leaks: _______________
-- [ ] **Input shaft seal:** ❓ Leaking: _______________
-- [ ] **Output shaft seal:** ❓ Leaking: _______________
-- [ ] **Shift tower gasket:** ❓ Leaking: _______________
-- [ ] **Fluid level:** ❓ Full/low: _______________
-- [ ] **Fluid condition:** ❓ Color/smell: _______________
+
+- [ ] **Transmission case:** ❓ Cracks/leaks: ******\_\_\_******
+- [ ] **Input shaft seal:** ❓ Leaking: ******\_\_\_******
+- [ ] **Output shaft seal:** ❓ Leaking: ******\_\_\_******
+- [ ] **Shift tower gasket:** ❓ Leaking: ******\_\_\_******
+- [ ] **Fluid level:** ❓ Full/low: ******\_\_\_******
+- [ ] **Fluid condition:** ❓ Color/smell: ******\_\_\_******
 
 **Notes:**
 
@@ -241,18 +257,20 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 4. TRANSFER CASE
 
 ### Operation
+
 - [x] **2WD mode:** ✅ CONFIRMED: Operates
-- [ ] **4H engagement:** ❓ Smooth/grinds: _______________
-- [ ] **4L engagement:** ❓ Smooth/grinds: _______________
-- [ ] **Shift lever:** ❓ Condition: _______________
+- [ ] **4H engagement:** ❓ Smooth/grinds: ******\_\_\_******
+- [ ] **4L engagement:** ❓ Smooth/grinds: ******\_\_\_******
+- [ ] **Shift lever:** ❓ Condition: ******\_\_\_******
 
 ### Condition
-- [x] **Transfer case type:** ❓ NP207 or NP231: _______________ (check ID tag)
+
+- [x] **Transfer case type:** ❓ NP207 or NP231: ******\_\_\_****** (check ID tag)
 - [x] **Transfer case leak:** ❌ KNOWN: Confirmed leaking
-- [ ] **Leak source:** ❓ Output seal/input seal/case gasket: _______________
-- [ ] **Fluid level:** ❓ Full/low: _______________
-- [ ] **Fluid condition:** ❓ Metal contamination: _______________
-- [ ] **Chain stretch (if NP231):** ❓ Excessive play: _______________
+- [ ] **Leak source:** ❓ Output seal/input seal/case gasket: ******\_\_\_******
+- [ ] **Fluid level:** ❓ Full/low: ******\_\_\_******
+- [ ] **Fluid condition:** ❓ Metal contamination: ******\_\_\_******
+- [ ] **Chain stretch (if NP231):** ❓ Excessive play: ******\_\_\_******
 
 **ACTION REQUIRED:** Service/reseal before extensive 4WD use
 
@@ -261,40 +279,44 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 5. DRIVESHAFTS
 
 ### Front Driveshaft
+
 - [x] **Overall condition:** ❌ KNOWN: "Welded together out of junk parts"
-- [ ] **Weld quality:** ❓ Professional/amateur: _______________
-- [ ] **U-joints:** ❓ Play/noise: _______________
-- [ ] **CV joint (if equipped):** ❓ Boots torn/grease visible: _______________
-- [ ] **Balance:** ❓ Vibration at speed: _______________
+- [ ] **Weld quality:** ❓ Professional/amateur: ******\_\_\_******
+- [ ] **U-joints:** ❓ Play/noise: ******\_\_\_******
+- [ ] **CV joint (if equipped):** ❓ Boots torn/grease visible: ******\_\_\_******
+- [ ] **Balance:** ❓ Vibration at speed: ******\_\_\_******
 
 **⚠️ CRITICAL SAFETY:** Poorly welded driveshaft could fail catastrophically - professional inspection required
 
 ### Rear Driveshaft
-- [ ] **Overall condition:** ❓ Straight/bent: _______________
-- [ ] **U-joints:** ❓ Play/noise: _______________
-- [ ] **Slip yoke:** ❓ Movement/splines worn: _______________
-- [ ] **Balance:** ❓ Vibration: _______________
+
+- [ ] **Overall condition:** ❓ Straight/bent: ******\_\_\_******
+- [ ] **U-joints:** ❓ Play/noise: ******\_\_\_******
+- [ ] **Slip yoke:** ❓ Movement/splines worn: ******\_\_\_******
+- [ ] **Balance:** ❓ Vibration: ******\_\_\_******
 
 ---
 
 ## 6. AXLES
 
 ### Front Axle (Dana 30)
-- [ ] **Differential cover:** ❓ Leaks: _______________
-- [ ] **Axle tube seals:** ❓ Leaking: _______________
-- [ ] **U-joint condition:** ❓ Play: _______________
-- [ ] **CV boots (if applicable):** ❓ Torn: _______________
-- [ ] **Fluid level:** ❓ Full/low: _______________
-- [ ] **Fluid condition:** ❓ Metal contamination: _______________
-- [ ] **Gear noise:** ❓ Whine/howl: _______________
+
+- [ ] **Differential cover:** ❓ Leaks: ******\_\_\_******
+- [ ] **Axle tube seals:** ❓ Leaking: ******\_\_\_******
+- [ ] **U-joint condition:** ❓ Play: ******\_\_\_******
+- [ ] **CV boots (if applicable):** ❓ Torn: ******\_\_\_******
+- [ ] **Fluid level:** ❓ Full/low: ******\_\_\_******
+- [ ] **Fluid condition:** ❓ Metal contamination: ******\_\_\_******
+- [ ] **Gear noise:** ❓ Whine/howl: ******\_\_\_******
 
 ### Rear Axle (Dana 35)
-- [ ] **Differential cover:** ❓ Leaks: _______________
-- [ ] **Pinion seal:** ❓ Leaking: _______________
-- [ ] **Axle seals:** ❓ Leaking: _______________
-- [ ] **Fluid level:** ❓ Full/low: _______________
-- [ ] **Fluid condition:** ❓ Metal contamination: _______________
-- [ ] **Gear noise:** ❓ Whine/howl: _______________
+
+- [ ] **Differential cover:** ❓ Leaks: ******\_\_\_******
+- [ ] **Pinion seal:** ❓ Leaking: ******\_\_\_******
+- [ ] **Axle seals:** ❓ Leaking: ******\_\_\_******
+- [ ] **Fluid level:** ❓ Full/low: ******\_\_\_******
+- [ ] **Fluid condition:** ❓ Metal contamination: ******\_\_\_******
+- [ ] **Gear noise:** ❓ Whine/howl: ******\_\_\_******
 
 **Note:** Dana 35 is weak link in drivetrain - monitor for issues, budget for Dana 44 upgrade if fails
 
@@ -303,26 +325,29 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 7. SUSPENSION
 
 ### Front Suspension
-- [ ] **Coil springs:** ❓ Sagging/broken: _______________
+
+- [ ] **Coil springs:** ❓ Sagging/broken: ******\_\_\_******
 - [x] **Shocks:** ⚠️ ESTIMATED: Likely worn given age/lift
-- [ ] **Shock mounts:** ❓ Rust/damage: _______________
-- [ ] **Upper control arms:** ❓ Bushings/ball joints: _______________
-- [ ] **Lower control arms:** ❓ Bushings/ball joints: _______________
-- [ ] **Track bar:** ❓ Bushings/condition: _______________
-- [ ] **Sway bar:** ❓ Links/bushings: _______________
+- [ ] **Shock mounts:** ❓ Rust/damage: ******\_\_\_******
+- [ ] **Upper control arms:** ❓ Bushings/ball joints: ******\_\_\_******
+- [ ] **Lower control arms:** ❓ Bushings/ball joints: ******\_\_\_******
+- [ ] **Track bar:** ❓ Bushings/condition: ******\_\_\_******
+- [ ] **Sway bar:** ❓ Links/bushings: ******\_\_\_******
 
 ### Rear Suspension
-- [ ] **Leaf springs:** ❓ Sagging/broken leaves: _______________
+
+- [ ] **Leaf springs:** ❓ Sagging/broken leaves: ******\_\_\_******
 - [x] **Shocks:** ⚠️ ESTIMATED: Likely worn given age/lift
-- [ ] **Shock mounts:** ❓ Rust/damage: _______________
-- [ ] **Spring shackles:** ❓ Worn/rusted: _______________
-- [ ] **Spring bushings:** ❓ Condition: _______________
-- [ ] **U-bolts:** ❓ Tight/rusted: _______________
+- [ ] **Shock mounts:** ❓ Rust/damage: ******\_\_\_******
+- [ ] **Spring shackles:** ❓ Worn/rusted: ******\_\_\_******
+- [ ] **Spring bushings:** ❓ Condition: ******\_\_\_******
+- [ ] **U-bolts:** ❓ Tight/rusted: ******\_\_\_******
 
 ### Lift Kit
-- [x] **Lift height:** ❓ Measure: _______________ (appears 2-3")
+
+- [x] **Lift height:** ❓ Measure: ******\_\_\_****** (appears 2-3")
 - [x] **Lift kit brand:** ❓ Unknown - inspect components
-- [ ] **Lift kit condition:** ❓ Components worn: _______________
+- [ ] **Lift kit condition:** ❓ Components worn: ******\_\_\_******
 
 **ACTION REQUIRED:** Shocks likely need replacement for proper lift operation
 
@@ -331,18 +356,20 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 8. STEERING
 
 ### Steering System
-- [ ] **Steering wheel play:** ❓ Degrees: _______________ (spec: <2")
-- [ ] **Steering box:** ❓ Leaks/adjustment: _______________
-- [ ] **Pitman arm:** ❓ Wear/play: _______________
-- [ ] **Drag link:** ❓ Ends worn: _______________
-- [ ] **Tie rod:** ❓ Ends worn: _______________
-- [ ] **Steering dampener:** ❓ Leaking/worn: _______________
+
+- [ ] **Steering wheel play:** ❓ Degrees: ******\_\_\_****** (spec: <2")
+- [ ] **Steering box:** ❓ Leaks/adjustment: ******\_\_\_******
+- [ ] **Pitman arm:** ❓ Wear/play: ******\_\_\_******
+- [ ] **Drag link:** ❓ Ends worn: ******\_\_\_******
+- [ ] **Tie rod:** ❓ Ends worn: ******\_\_\_******
+- [ ] **Steering dampener:** ❓ Leaking/worn: ******\_\_\_******
 
 ### Power Steering (if equipped)
-- [ ] **PS pump:** ❓ Noise/leaks: _______________
-- [ ] **PS fluid level:** ❓ Full/low: _______________
-- [ ] **PS hoses:** ❓ Leaks/cracks: _______________
-- [ ] **PS pressure line:** ❓ Condition: _______________
+
+- [ ] **PS pump:** ❓ Noise/leaks: ******\_\_\_******
+- [ ] **PS fluid level:** ❓ Full/low: ******\_\_\_******
+- [ ] **PS hoses:** ❓ Leaks/cracks: ******\_\_\_******
+- [ ] **PS pressure line:** ❓ Condition: ******\_\_\_******
 
 **ACTION REQUIRED:** Complete inspection before mountain driving
 
@@ -351,25 +378,28 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 9. BRAKES
 
 ### Front Brakes
-- [ ] **Brake pads:** ❓ Thickness: _______________ mm (min: 3mm)
-- [ ] **Rotors:** ❓ Thickness/scoring: _______________
-- [ ] **Calipers:** ❓ Seized/leaking: _______________
-- [ ] **Caliper slides:** ❓ Lubricated/seized: _______________
-- [ ] **Brake hoses:** ❓ Cracks/swelling: _______________
+
+- [ ] **Brake pads:** ❓ Thickness: ******\_\_\_****** mm (min: 3mm)
+- [ ] **Rotors:** ❓ Thickness/scoring: ******\_\_\_******
+- [ ] **Calipers:** ❓ Seized/leaking: ******\_\_\_******
+- [ ] **Caliper slides:** ❓ Lubricated/seized: ******\_\_\_******
+- [ ] **Brake hoses:** ❓ Cracks/swelling: ******\_\_\_******
 
 ### Rear Brakes
-- [ ] **Brake shoes:** ❓ Thickness: _______________ mm
-- [ ] **Drums:** ❓ Diameter/scoring: _______________
-- [ ] **Wheel cylinders:** ❓ Leaking: _______________
-- [ ] **Brake hardware:** ❓ Springs/adjusters: _______________
-- [ ] **Brake hoses:** ❓ Cracks/swelling: _______________
+
+- [ ] **Brake shoes:** ❓ Thickness: ******\_\_\_****** mm
+- [ ] **Drums:** ❓ Diameter/scoring: ******\_\_\_******
+- [ ] **Wheel cylinders:** ❓ Leaking: ******\_\_\_******
+- [ ] **Brake hardware:** ❓ Springs/adjusters: ******\_\_\_******
+- [ ] **Brake hoses:** ❓ Cracks/swelling: ******\_\_\_******
 
 ### Brake System Overall
+
 - [x] **Brake pedal feel:** ⚠️ KNOWN: Soft/mushy - condition unknown
-- [ ] **Master cylinder:** ❓ Leaks/condition: _______________
-- [ ] **Brake fluid level:** ❓ Full/low: _______________
-- [ ] **Brake fluid condition:** ❓ Clean/contaminated: _______________
-- [ ] **Brake lines:** ❓ Rust/leaks: _______________
+- [ ] **Master cylinder:** ❓ Leaks/condition: ******\_\_\_******
+- [ ] **Brake fluid level:** ❓ Full/low: ******\_\_\_******
+- [ ] **Brake fluid condition:** ❓ Clean/contaminated: ******\_\_\_******
+- [ ] **Brake lines:** ❓ Rust/leaks: ******\_\_\_******
 - [x] **Parking brake:** ❌ KNOWN: Missing/non-functional
 
 **⚠️ PRIORITY:** Unknown brake condition on mountain roads is dangerous - complete inspection required
@@ -379,21 +409,24 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 10. WHEELS & TIRES
 
 ### Tires
+
 - [x] **Brand/model:** ✅ CONFIRMED: Falken Wild Peak AT (all four)
 - [x] **Condition:** ✅ CONFIRMED: New, excellent tread
-- [ ] **Tread depth:** ❓ Measure: _______________ mm
-- [ ] **Uneven wear:** ❓ Describe: _______________
-- [ ] **Tire pressure:** ❓ All four: _______________ PSI
+- [ ] **Tread depth:** ❓ Measure: ******\_\_\_****** mm
+- [ ] **Uneven wear:** ❓ Describe: ******\_\_\_******
+- [ ] **Tire pressure:** ❓ All four: ******\_\_\_****** PSI
 
 ### Wheels
-- [x] **Wheel size:** ❓ Measure: _______________ (appear aftermarket)
-- [ ] **Wheel condition:** ❓ Bent/cracked: _______________
-- [ ] **Lug nuts:** ❓ All present/tight: _______________
-- [ ] **Hub condition:** ❓ Rust/damage: _______________
+
+- [x] **Wheel size:** ❓ Measure: ******\_\_\_****** (appear aftermarket)
+- [ ] **Wheel condition:** ❓ Bent/cracked: ******\_\_\_******
+- [ ] **Lug nuts:** ❓ All present/tight: ******\_\_\_******
+- [ ] **Hub condition:** ❓ Rust/damage: ******\_\_\_******
 
 ### Wheel Bearings
-- [ ] **Front wheel bearings:** ❓ Play/noise: _______________
-- [ ] **Rear wheel bearings:** ❓ Play/noise: _______________
+
+- [ ] **Front wheel bearings:** ❓ Play/noise: ******\_\_\_******
+- [ ] **Rear wheel bearings:** ❓ Play/noise: ******\_\_\_******
 
 **Note:** Falken Wild Peak AT are excellent all-terrain tires - major plus
 
@@ -402,45 +435,50 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 11. ELECTRICAL
 
 ### Battery & Charging
-- [ ] **Battery:** ❓ Age/load test: _______________
-- [ ] **Battery terminals:** ❓ Clean/tight/corrosion: _______________
-- [ ] **Battery cables:** ❓ Frayed/corroded: _______________
-- [ ] **Alternator output:** ❓ Voltage: _______________ (spec: 13.5-14.5V)
-- [ ] **Alternator belt:** ❓ Condition/tension: _______________
+
+- [ ] **Battery:** ❓ Age/load test: ******\_\_\_******
+- [ ] **Battery terminals:** ❓ Clean/tight/corrosion: ******\_\_\_******
+- [ ] **Battery cables:** ❓ Frayed/corroded: ******\_\_\_******
+- [ ] **Alternator output:** ❓ Voltage: ******\_\_\_****** (spec: 13.5-14.5V)
+- [ ] **Alternator belt:** ❓ Condition/tension: ******\_\_\_******
 
 ### Lighting
+
 - [x] **Headlights:** ⚠️ CONFIRMED: High beams work, low beams unknown
 - [x] **Turn signals - front:** ⚠️ CONFIRMED: Passenger working, driver not working
 - [x] **Turn signals - rear:** ⚠️ CONFIRMED: Passenger working, driver not working
 - [x] **Brake lights:** ⚠️ CONFIRMED: Passenger works, driver doesn't work
 - [x] **Tail lights:** ⚠️ CONFIRMED: Passenger works, driver doesn't work
-- [ ] **Reverse lights:** ❓ Work: _______________
+- [ ] **Reverse lights:** ❓ Work: ******\_\_\_******
 - [x] **License plate light:** ❌ KNOWN: Not working
 - [x] **Interior lights:** ❌ KNOWN: Dome light missing
 
 **ACTION REQUIRED:** Lighting system needs comprehensive diagnosis - likely multiple bulbs and/or wiring issues
 
 ### Gauges & Instruments
+
 - [x] **Gauge cluster:** ❌ KNOWN: Destroyed/non-functional
-- [ ] **Speedometer:** ❓ Accurate: _______________
-- [ ] **Odometer:** ❓ Working: _______________
-- [ ] **Fuel gauge:** ❓ Accurate: _______________
-- [ ] **Temperature gauge:** ❓ Accurate: _______________
-- [ ] **Oil pressure gauge:** ❓ Accurate: _______________
-- [ ] **Voltmeter:** ❓ Accurate: _______________
+- [ ] **Speedometer:** ❓ Accurate: ******\_\_\_******
+- [ ] **Odometer:** ❓ Working: ******\_\_\_******
+- [ ] **Fuel gauge:** ❓ Accurate: ******\_\_\_******
+- [ ] **Temperature gauge:** ❓ Accurate: ******\_\_\_******
+- [ ] **Oil pressure gauge:** ❓ Accurate: ******\_\_\_******
+- [ ] **Voltmeter:** ❓ Accurate: ******\_\_\_******
 - [x] **Warning lights:** ❌ KNOWN: Non-functional due to destroyed cluster
 
 **ACTION REQUIRED:** Gauge cluster replacement required - may require custom fabrication
 
 ### Wiring Harness
-- [ ] **Visible wiring:** ❓ Condition/hacks: _______________
-- [ ] **Grounds:** ❓ Clean/tight: _______________
-- [ ] **Fuse box:** ❓ Condition/blown fuses: _______________
-- [ ] **Relays:** ❓ Condition: _______________
+
+- [ ] **Visible wiring:** ❓ Condition/hacks: ******\_\_\_******
+- [ ] **Grounds:** ❓ Clean/tight: ******\_\_\_******
+- [ ] **Fuse box:** ❓ Condition/blown fuses: ******\_\_\_******
+- [ ] **Relays:** ❓ Condition: ******\_\_\_******
 
 **Note:** Comprehensive wiring assessment may reveal need for harness replacement
 
 ### Switches & Controls
+
 - [x] **Ignition switch:** ❌ KNOWN: Likely failed (won't-shut-off issue)
 - [x] **Light switches:** ⚠️ CONFIRMED: Headlight switch works, others unknown
 - [x] **Turn signal stalk:** ✅ CONFIRMED: Works
@@ -451,6 +489,7 @@ This document tracks **what is** (current condition). Other documents track **wh
 **ACTION REQUIRED:** Dash will need fabrication/replacement - no factory parts needed
 
 ### Seats & Belts
+
 - [x] **Driver seat condition:** ✅ CONFIRMED: Good condition (possibly replaced)
 - [x] **Passenger seat condition:** ✅ CONFIRMED: Good condition
 - [x] **Seat mounting:** ✅ CONFIRMED: Secure to floor
@@ -461,19 +500,21 @@ This document tracks **what is** (current condition). Other documents track **wh
 - [x] **Seat belt anchors:** ✅ CONFIRMED: Secure
 
 ### Doors
+
 - [x] **Driver door attachment:** ❌ KNOWN: Barely held on by bad, spotty welds - CRITICAL
-- [ ] **Driver door hinges:** ❓ Torn from body/cracked: _______________
-- [ ] **Passenger door:** ❓ Condition/hinges: _______________
-- [ ] **Door latches:** ❓ Both operate: _______________
-- [ ] **Door strikers:** ❓ Adjustment: _______________
-- [ ] **Door seals:** ❓ Present/condition: _______________
+- [ ] **Driver door hinges:** ❓ Torn from body/cracked: ******\_\_\_******
+- [ ] **Passenger door:** ❓ Condition/hinges: ******\_\_\_******
+- [ ] **Door latches:** ❓ Both operate: ******\_\_\_******
+- [ ] **Door strikers:** ❓ Adjustment: ******\_\_\_******
+- [ ] **Door seals:** ❓ Present/condition: ******\_\_\_******
 
 **⚠️ CRITICAL SAFETY:** Driver door could detach - professional welding required
 
 ### Windows
+
 - [x] **Driver window:** ❌ KNOWN: Went down, won't come back up
 - [x] **Passenger window:** ⚠️ CONFIRMED: Operates, but rough, likely failing too
-- [ ] **Window regulators:** ❓ Condition: _______________
+- [ ] **Window regulators:** ❓ Condition: ******\_\_\_******
 - [x] **Window cranks:** ✅ CONFIRMED: Present
 - [x] **Windshield:** ✅ CONFIRMED: No large cracks or chips
 - [x] **Rear slider:** ✅ CONFIRMED: Present, operates, but rusty, and slides rough
@@ -481,26 +522,29 @@ This document tracks **what is** (current condition). Other documents track **wh
 **ACTION REQUIRED:** Driver window repair, temporarily weather sealed
 
 ### Climate Control
-- [ ] **Heater core:** ❓ Leaks/heat output: _______________
+
+- [ ] **Heater core:** ❓ Leaks/heat output: ******\_\_\_******
 - [x] **Blower motor:** ✅ CONFIRMED: Looks new, blowing air
-- [ ] **Blower speeds:** ❓ All work: _______________
+- [ ] **Blower speeds:** ❓ All work: ******\_\_\_******
 - [x] **Defroster:** ✅ CONFIRMED: Turns on and blows at windshield
-- [ ] **Heater output:** ❓ Temperature: _______________
-- [ ] **Fresh air vents:** ❓ Work: _______________
-- [ ] **Recirculation:** ❓ Works: _______________
+- [ ] **Heater output:** ❓ Temperature: ******\_\_\_******
+- [ ] **Fresh air vents:** ❓ Work: ******\_\_\_******
+- [ ] **Recirculation:** ❓ Works: ******\_\_\_******
 
 ### Interior Trim & Panels
+
 - [x] **Headliner:** ❌ KNOWN: Missing
 - [x] **Door panels:** ❌ KNOWN: Severely deteriorated
 - [x] **Plastic trim pieces:** ❌ KNOWN: Most missing, remaining in very poor condition
-- [ ] **Carpet:** ❓ Present/condition: _______________
-- [ ] **Floor mats:** ❓ Present: _______________
-- [ ] **Kick panels:** ❓ Present/condition: _______________
-- [ ] **Center console:** ❓ Present/condition: _______________
+- [ ] **Carpet:** ❓ Present/condition: ******\_\_\_******
+- [ ] **Floor mats:** ❓ Present: ******\_\_\_******
+- [ ] **Kick panels:** ❓ Present/condition: ******\_\_\_******
+- [ ] **Center console:** ❓ Present/condition: ******\_\_\_******
 
 **PLAN:** Replace missing items with custom fabricated sheet metal - military spartan style
 
 ### Miscellaneous Interior
+
 - [x] **Sun visors:** ❌ KNOWN: Missing
 - [x] **Rearview mirror:** ✅ CONFIRMED: Present, appears secure for now
 - [x] **Door mirrors:** ❌ KNOWN: Present, adjustable, but non-operable, barely hanging on
@@ -512,15 +556,17 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 12. EXTERIOR BODY
 
 ### Hood & Grille
+
 - [x] **Hood condition:** ✅ CONFIRMED: Present, no rust, some dents
 - [x] **Hood latch:** ❌ KNOWN: Broken, hood won't open
-- [ ] **Hood hinges:** ❓ Condition: _______________
-- [ ] **Grille:** ❓ Present/broken: _______________
-- [ ] **Header panel:** ❓ Condition: _______________
+- [ ] **Hood hinges:** ❓ Condition: ******\_\_\_******
+- [ ] **Grille:** ❓ Present/broken: ******\_\_\_******
+- [ ] **Header panel:** ❓ Condition: ******\_\_\_******
 
 **ACTION REQUIRED:** Hood latch cable repair/replace before engine work can proceed
 
 ### Fenders & Bed
+
 - [x] **Front fenders:** ❌ KNOWN: Passenger good, drivers damaged by door, repair or replacement possible
 - [x] **Bed condition:** ❌ KNOWN: Cut down from long-bed, poorly done work, rough, rusting on welds
 - [x] **Bed floor:** ✅ CONFIRMED: Mostly in good condition, except for cut-up portions, no obvious rust
@@ -529,9 +575,10 @@ This document tracks **what is** (current condition). Other documents track **wh
 - [x] **Bedsides inner:** ✅ CONFIRMED: Mostly in good condition, factory rollbar cut out
 
 ### Paint & Rust
+
 - [x] **Overall paint:** ❌ KNOWN: Horrible black rattle can spray paint job
 - [x] **Surface rust:** ✅ CONFIRMED: Mostly in good condition
-- [ ] **Rust bubbles:** ❓ Locations: _______________
+- [ ] **Rust bubbles:** ❓ Locations: ******\_\_\_******
 - [x] **Previous bodywork:** ❌ KNOWN: bed poorly done, paint needs work to prevent further rust
 
 **PLAN:** Black spray paint (HVLP) - embrace rough "Mad Max" aesthetic
@@ -541,28 +588,32 @@ This document tracks **what is** (current condition). Other documents track **wh
 ## 13. ACCESSORIES & MISC
 
 ### Required Accessories
+
 - [x] **Windshield wipers:** ⚠️ KNOWN: Barely functional
 - [x] **Wiper blades:** ❌ KNOWN: Dry and rotted
 - [x] **Wiper arms:** ❓❌ KNOWN: Rough, need cleaned and repainted
-- [ ] **Washer fluid reservoir:** ❓ Present/leaks: _______________
-- [ ] **Washer pump:** ❓ Works: _______________
-- [ ] **Washer nozzles:** ❓ Spray properly: _______________
-- [ ] **Horn:** ❓ Works: _______________
+- [ ] **Washer fluid reservoir:** ❓ Present/leaks: ******\_\_\_******
+- [ ] **Washer pump:** ❓ Works: ******\_\_\_******
+- [ ] **Washer nozzles:** ❓ Spray properly: ******\_\_\_******
+- [ ] **Horn:** ❓ Works: ******\_\_\_******
 
 ---
 
 ## 14. ASSESSMENT NEXT STEPS
 
 ### For Prioritized Issue Summary
+
 See **Jeep_Comanche_Project_Brief.md** for the complete Known Issues Master List with priority rankings and phase assignments.
 
 ### Immediate Actions Required
+
 - [x] **Do NOT start engine in enclosed space** (CO hazard)
 - [x] **Do NOT drive vehicle** (multiple safety concerns)
 - [ ] **Fix hood latch** (needed to access engine for inspection)
 - [ ] **Clean engine bay** (to identify oil leak sources)
 
 ### Phase 0 Tasks (Before Work Begins)
+
 - [ ] Complete this inventory (fill in all ❓ items)
 - [ ] Photograph all problem areas with measurements
 - [ ] Create prioritized repair list
@@ -576,6 +627,7 @@ See **Jeep_Comanche_Project_Brief.md** for the complete Known Issues Master List
 ## 15. PHOTOS & DOCUMENTATION
 
 ### Photo Checklist
+
 - [x] Exterior - all four sides
 - [x] Exterior - front 3/4 view
 - [x] Exterior - rear 3/4 view
@@ -596,6 +648,7 @@ See **Jeep_Comanche_Project_Brief.md** for the complete Known Issues Master List
 - [ ] VIN plate (for records)
 
 ### Measurements Required
+
 - [ ] Floor pan hole sizes (L x W for each hole)
 - [ ] Lift height (measure vs. stock)
 - [ ] Wheel size

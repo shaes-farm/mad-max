@@ -1,4 +1,5 @@
 # Complete Brake System Refresh Guide
+
 ## 1986 Jeep Comanche MJ — 2.5L I4 / AX5 / Dana 30 Front / Dana 35 Rear
 
 **Applies to:** 1986–1990 MJ Comanche and XJ Cherokee with front disc / rear drum brakes  
@@ -32,46 +33,48 @@
 
 ### Brake System Specs
 
-| Component | Specification |
-|-----------|--------------|
-| **Front brakes** | Single-piston sliding caliper disc brakes |
-| **Front rotor diameter** | 10.0 inches |
-| **Minimum rotor thickness** | 0.815 inches |
-| **Rotor runout limit** | 0.005 inches |
-| **Minimum pad thickness** | 4mm (3mm absolute minimum) |
-| **Rear brakes** | Single-anchor, self-adjusting drum brakes |
-| **Rear drum diameter** | 9.0 inches |
-| **Maximum drum diameter** | 9.060 inches (reject if over) |
-| **Minimum shoe thickness** | 2mm |
-| **Master cylinder bore** | 0.94 inches |
-| **Brake fluid type** | DOT 3 or DOT 4 |
-| **System type** | Front/rear split (not diagonal) |
-| **Brake booster** | Vacuum-assisted, single diaphragm |
-| **Proportioning** | Combination valve (mounted on frame rail, driver's side) |
+| Component                   | Specification                                            |
+| --------------------------- | -------------------------------------------------------- |
+| **Front brakes**            | Single-piston sliding caliper disc brakes                |
+| **Front rotor diameter**    | 10.0 inches                                              |
+| **Minimum rotor thickness** | 0.815 inches                                             |
+| **Rotor runout limit**      | 0.005 inches                                             |
+| **Minimum pad thickness**   | 4mm (3mm absolute minimum)                               |
+| **Rear brakes**             | Single-anchor, self-adjusting drum brakes                |
+| **Rear drum diameter**      | 9.0 inches                                               |
+| **Maximum drum diameter**   | 9.060 inches (reject if over)                            |
+| **Minimum shoe thickness**  | 2mm                                                      |
+| **Master cylinder bore**    | 0.94 inches                                              |
+| **Brake fluid type**        | DOT 3 or DOT 4                                           |
+| **System type**             | Front/rear split (not diagonal)                          |
+| **Brake booster**           | Vacuum-assisted, single diaphragm                        |
+| **Proportioning**           | Combination valve (mounted on frame rail, driver's side) |
 
 ### Torque Values
 
-| Fastener | Torque | Notes |
-|----------|--------|-------|
-| Caliper mounting bolts | 80 lb-ft | These are the big ones — caliper bracket to knuckle |
-| Caliper bracket bolts | 80 lb-ft | Same as above on this design |
-| Caliper slide pin bolts | 25–35 lb-ft | Smaller bolts — the caliper floats on these |
-| Brake hose to caliper (banjo bolt) | 23 lb-ft | New copper washers required, do NOT overtighten |
-| Brake line fittings (flare nuts) | 11 lb-ft | **Critical: do NOT overtighten** — strip easily |
-| Master cylinder to booster nuts | 16 lb-ft | Two nuts on firewall studs |
-| Wheel cylinder mounting bolts | 12 lb-ft | Two bolts per cylinder, behind backing plate |
-| Wheel lug nuts | 75–85 lb-ft | Star pattern, recheck at 50 miles |
+| Fastener                           | Torque      | Notes                                               |
+| ---------------------------------- | ----------- | --------------------------------------------------- |
+| Caliper mounting bolts             | 80 lb-ft    | These are the big ones — caliper bracket to knuckle |
+| Caliper bracket bolts              | 80 lb-ft    | Same as above on this design                        |
+| Caliper slide pin bolts            | 25–35 lb-ft | Smaller bolts — the caliper floats on these         |
+| Brake hose to caliper (banjo bolt) | 23 lb-ft    | New copper washers required, do NOT overtighten     |
+| Brake line fittings (flare nuts)   | 11 lb-ft    | **Critical: do NOT overtighten** — strip easily     |
+| Master cylinder to booster nuts    | 16 lb-ft    | Two nuts on firewall studs                          |
+| Wheel cylinder mounting bolts      | 12 lb-ft    | Two bolts per cylinder, behind backing plate        |
+| Wheel lug nuts                     | 75–85 lb-ft | Star pattern, recheck at 50 miles                   |
 
 ### Critical Measurement Reference
 
 Before you start work, you need to know your go/no-go numbers:
 
 **Front rotors — measure with a micrometer at the thinnest point:**
+
 - New rotor nominal thickness: ~1.000 inch (varies by brand)
 - Machine-to minimum: 0.882 inches (can still turn on a lathe)
 - Discard thickness: 0.815 inches (stamped on the rotor — **replace if at or below this**)
 
 **Rear drums — measure inside diameter with a drum gauge or large caliper:**
+
 - New drum nominal: 9.000 inches
 - Machine-to maximum: 9.040 inches (can still be turned)
 - Discard diameter: 9.060 inches (stamped on drum — **replace if at or above this**)
@@ -135,27 +138,27 @@ This list assumes a **complete refresh** — replace everything that's a wear it
 
 ### Always Replace (Non-Negotiable on a 38-Year-Old System)
 
-| Part | Qty | Est. Cost | Notes |
-|------|-----|-----------|-------|
-| Front brake pads | 1 set (4 pads) | $30–50 | Ceramic recommended for mountain use — less fade, less dust |
-| Rear brake shoes | 1 set (4 shoes) | $25–40 | Bonded preferred over riveted |
-| Front flex hoses | 2 | $15–25 ea. | Rubber degrades with age — replace regardless of appearance |
-| Rear flex hose | 1 | $15–20 | Single hose at rear axle junction — same age concern |
-| Brake fluid | 3 qt DOT 4 | $10–15/qt | Full system flush, no reusing old fluid |
-| Rear drum hardware kit | 1 set | $15–25 | All springs, clips, adjusters, hold-downs — springs fatigue over decades |
-| Copper crush washers | 4 | $2–5 | Two per front caliper banjo bolt — always new |
-| Rear wheel cylinders | 2 | $15–25 ea. | At 38 years old, rebuild is false economy — replace outright |
+| Part                   | Qty             | Est. Cost  | Notes                                                                    |
+| ---------------------- | --------------- | ---------- | ------------------------------------------------------------------------ |
+| Front brake pads       | 1 set (4 pads)  | $30–50     | Ceramic recommended for mountain use — less fade, less dust              |
+| Rear brake shoes       | 1 set (4 shoes) | $25–40     | Bonded preferred over riveted                                            |
+| Front flex hoses       | 2               | $15–25 ea. | Rubber degrades with age — replace regardless of appearance              |
+| Rear flex hose         | 1               | $15–20     | Single hose at rear axle junction — same age concern                     |
+| Brake fluid            | 3 qt DOT 4      | $10–15/qt  | Full system flush, no reusing old fluid                                  |
+| Rear drum hardware kit | 1 set           | $15–25     | All springs, clips, adjusters, hold-downs — springs fatigue over decades |
+| Copper crush washers   | 4               | $2–5       | Two per front caliper banjo bolt — always new                            |
+| Rear wheel cylinders   | 2               | $15–25 ea. | At 38 years old, rebuild is false economy — replace outright             |
 
 ### Inspect and Likely Replace
 
-| Part | Qty | Est. Cost | Decision Criteria |
-|------|-----|-----------|-------------------|
-| Front rotors | 2 | $30–45 ea. | Replace if below 0.882" (machine limit) or deeply grooved/cracked |
-| Rear drums | 2 | $35–50 ea. | Replace if above 9.040" (machine limit) or cracked |
-| Front calipers (loaded remanufactured) | 2 | $50–70 ea. | Replace if pistons are seized, deeply pitted, or won't retract smoothly |
-| Master cylinder | 1 | $50–80 | Replace if bore is pitted, seals are leaking, or pedal slowly sinks to floor |
-| Hard brake lines | varies | $60–120 (kit) | Replace any line with visible rust pitting, flaking, or bulging |
-| Parking brake cables | set | $40–80 | Yours are confirmed missing/non-functional |
+| Part                                   | Qty    | Est. Cost     | Decision Criteria                                                            |
+| -------------------------------------- | ------ | ------------- | ---------------------------------------------------------------------------- |
+| Front rotors                           | 2      | $30–45 ea.    | Replace if below 0.882" (machine limit) or deeply grooved/cracked            |
+| Rear drums                             | 2      | $35–50 ea.    | Replace if above 9.040" (machine limit) or cracked                           |
+| Front calipers (loaded remanufactured) | 2      | $50–70 ea.    | Replace if pistons are seized, deeply pitted, or won't retract smoothly      |
+| Master cylinder                        | 1      | $50–80        | Replace if bore is pitted, seals are leaking, or pedal slowly sinks to floor |
+| Hard brake lines                       | varies | $60–120 (kit) | Replace any line with visible rust pitting, flaking, or bulging              |
+| Parking brake cables                   | set    | $40–80        | Yours are confirmed missing/non-functional                                   |
 
 ### Sourcing Recommendations
 
@@ -198,14 +201,14 @@ This list assumes a **complete refresh** — replace everything that's a wear it
 - [ ] **Rotor runout:** If you have a dial indicator, mount it to the knuckle and spin the rotor. Max runout is 0.005 inches. Excess runout causes pulsation.
 - [ ] **Record measurements:**
 
-| Measurement | Driver Side | Passenger Side |
-|-------------|-------------|----------------|
-| Pad thickness (mm) | _____ | _____ |
-| Rotor thickness (inches) | _____ | _____ |
-| Rotor runout (inches) | _____ | _____ |
-| Caliper piston retracts? | Y / N | Y / N |
-| Caliper slides freely? | Y / N | Y / N |
-| Flex hose condition | _____ | _____ |
+| Measurement              | Driver Side | Passenger Side |
+| ------------------------ | ----------- | -------------- |
+| Pad thickness (mm)       | **\_**      | **\_**         |
+| Rotor thickness (inches) | **\_**      | **\_**         |
+| Rotor runout (inches)    | **\_**      | **\_**         |
+| Caliper piston retracts? | Y / N       | Y / N          |
+| Caliper slides freely?   | Y / N       | Y / N          |
+| Flex hose condition      | **\_**      | **\_**         |
 
 ### Rear Brake Inspection
 
@@ -220,15 +223,15 @@ This list assumes a **complete refresh** — replace everything that's a wear it
 - [ ] **Parking brake hardware:** Assess what's present and what's missing. Document everything — you need this for the parking brake restoration phase.
 - [ ] **Record measurements:**
 
-| Measurement | Driver Side | Passenger Side |
-|-------------|-------------|----------------|
-| Shoe thickness (mm) | _____ | _____ |
-| Drum inside diameter (inches) | _____ | _____ |
-| Drum cracks/scoring? | Y / N | Y / N |
-| Wheel cylinder leaking? | Y / N | Y / N |
-| Self-adjuster functional? | Y / N | Y / N |
-| Hardware complete? | Y / N | Y / N |
-| Parking brake parts present? | _____ | _____ |
+| Measurement                   | Driver Side | Passenger Side |
+| ----------------------------- | ----------- | -------------- |
+| Shoe thickness (mm)           | **\_**      | **\_**         |
+| Drum inside diameter (inches) | **\_**      | **\_**         |
+| Drum cracks/scoring?          | Y / N       | Y / N          |
+| Wheel cylinder leaking?       | Y / N       | Y / N          |
+| Self-adjuster functional?     | Y / N       | Y / N          |
+| Hardware complete?            | Y / N       | Y / N          |
+| Parking brake parts present?  | **\_**      | **\_**         |
 
 ### System Inspection
 
@@ -242,18 +245,18 @@ This list assumes a **complete refresh** — replace everything that's a wear it
 
 At this point you should have a clear picture of what needs replacement. Here's the decision framework:
 
-| Component | Replace If... |
-|-----------|---------------|
-| Pads/shoes | Below minimum thickness, glazed, contaminated with fluid, or crumbling |
-| Rotors | Below machine-to minimum, cracked, or severely scored |
-| Drums | Above machine-to maximum, cracked, or severely scored |
-| Calipers | Piston seized, deeply pitted bore, won't retract, or leaking |
-| Wheel cylinders | **Replace regardless** — 38 years old, not worth the risk |
-| Flex hoses | **Replace regardless** — rubber is age-degraded |
-| Hard lines | Any visible pitting, scaling, or corrosion that has compromised wall thickness |
-| Master cylinder | Internal bypass (sinking pedal), external leak, or pitted bore |
-| All springs/hardware | **Replace regardless** — springs fatigue over decades |
-| Brake fluid | **Replace regardless** — complete flush with new DOT 4 |
+| Component            | Replace If...                                                                  |
+| -------------------- | ------------------------------------------------------------------------------ |
+| Pads/shoes           | Below minimum thickness, glazed, contaminated with fluid, or crumbling         |
+| Rotors               | Below machine-to minimum, cracked, or severely scored                          |
+| Drums                | Above machine-to maximum, cracked, or severely scored                          |
+| Calipers             | Piston seized, deeply pitted bore, won't retract, or leaking                   |
+| Wheel cylinders      | **Replace regardless** — 38 years old, not worth the risk                      |
+| Flex hoses           | **Replace regardless** — rubber is age-degraded                                |
+| Hard lines           | Any visible pitting, scaling, or corrosion that has compromised wall thickness |
+| Master cylinder      | Internal bypass (sinking pedal), external leak, or pitted bore                 |
+| All springs/hardware | **Replace regardless** — springs fatigue over decades                          |
+| Brake fluid          | **Replace regardless** — complete flush with new DOT 4                         |
 
 **Order your parts now.** While waiting for delivery, move on to the parking brake assessment and cleaning/prep work.
 
@@ -312,7 +315,7 @@ If inspection showed it holds pressure (pedal doesn't sink) and there are no ext
 - [ ] Master cylinder is mounted and lines are connected
 - [ ] No leaks at any fitting
 - [ ] Reservoir is full
-- [ ] Pedal has *some* resistance (even if soft — the rest of the system isn't bled yet)
+- [ ] Pedal has _some_ resistance (even if soft — the rest of the system isn't bled yet)
 
 ---
 
@@ -324,7 +327,7 @@ If your inspection showed corroded hard lines, you have three options:
 
 **Option A: Pre-bent replacement kit** — Easiest if you can find one for the MJ/XJ platform. Inline Tube and similar companies make them. Lines come shaped to match the factory routing with correct fittings already installed.
 
-**Option B: Custom fabrication with cunifer (copper-nickel) line** — Buy bulk 3/16" (most common) and 1/4" cunifer brake line, a double-flare tool, and the correct fittings. Cunifer bends easily by hand, doesn't rust, and double-flares cleanly. This is the best option if you're doing selective replacement (only replacing the bad sections). 
+**Option B: Custom fabrication with cunifer (copper-nickel) line** — Buy bulk 3/16" (most common) and 1/4" cunifer brake line, a double-flare tool, and the correct fittings. Cunifer bends easily by hand, doesn't rust, and double-flares cleanly. This is the best option if you're doing selective replacement (only replacing the bad sections).
 
 **Option C: Standard steel line** — Cheapest, but harder to work with (requires a tube bender) and will eventually rust again. Acceptable if cost is tight.
 
@@ -378,12 +381,14 @@ Flex hoses connect the hard lines on the chassis to the components on the moving
 ### Caliper Inspection / Service
 
 **If keeping the calipers:**
+
 1. [ ] Inspect the caliper bore. Retract the dust boot and look inside. Minor surface discoloration is okay. Pitting, deep scoring, or corrosion in the bore = replace the caliper.
 2. [ ] Clean the slide pins. Remove them from the bracket, clean off old grease with brake cleaner, and inspect for pitting or wear. They should be smooth and shiny.
 3. [ ] Apply fresh high-temp brake grease to slide pins before reassembly. This is critical — sticky slide pins are the #1 cause of uneven pad wear and brake pull.
 4. [ ] Inspect the dust boots on both the piston and slide pins. Replace if torn or degraded.
 
 **If replacing the calipers:**
+
 - Loaded remanufactured calipers come with new pads, hardware, and pins already installed. Transfer the old bracket to the new caliper if needed, or use the new bracket if one is included.
 
 ### Rotor Removal & Replacement
@@ -436,6 +441,7 @@ Pre-1990s brake shoes may contain asbestos. **Do not blow out brake drums with c
 ### Disassembly (READ ALL STEPS BEFORE STARTING — AND PHOTOGRAPH EVERYTHING)
 
 The rear drum brake assembly consists of:
+
 - Two brake shoes (leading and trailing — they're different, with the longer lining toward the rear)
 - Upper and lower return springs
 - Hold-down springs and pins (two per side — they hold each shoe to the backing plate)
@@ -517,6 +523,7 @@ Your parking brake is confirmed missing/non-functional. On a vehicle doing twice
 The MJ/XJ parking brake is a cable-actuated drum-in-disc... actually, on this truck with rear drum brakes, the parking brake is integrated into the rear drum brake system. The parking brake lever (attached to the rear shoes) spreads the shoes mechanically via a strut bar, independent of the hydraulic system. This is why it works even if you lose hydraulic pressure — it's your emergency backup.
 
 The system consists of:
+
 - Parking brake handle/lever assembly (in the cab, between the seats or under the dash)
 - Front cable (from the lever to the equalizer)
 - Equalizer (splits one cable into two)
@@ -586,6 +593,7 @@ There are four methods. Each has pros and cons for this vehicle. Pick the one th
 This is the gold standard for old-school hydraulic brakes with no ABS. It's simple, reliable, and doesn't require special tools beyond a wrench and a length of clear tubing.
 
 **Setup:**
+
 - Clear vinyl tubing (3/16" ID) fitted snugly over the bleeder screw
 - Container partially filled with brake fluid (submerge the tube end to prevent air re-entry)
 - Correct wrench for bleeder screws (typically 5/16" or 8mm)
@@ -605,6 +613,7 @@ This is the gold standard for old-school hydraulic brakes with no ABS. It's simp
 **The communication protocol is critical.** If the helper releases the pedal while the bleeder is open, air gets sucked back into the system and you start over. Agree on the call-and-response before starting, and don't deviate from it.
 
 **Continue at each wheel until:**
+
 - No more air bubbles appear in the clear tubing
 - The fluid running through the tube is clean (not dark/contaminated)
 - Typically 8–15 cycles per wheel, more if lines were opened or replaced
@@ -747,52 +756,58 @@ New pads and shoes need to be bedded to the rotor/drum surface for optimal perfo
 ## 12. Troubleshooting
 
 ### Pedal Goes to the Floor
-| Possible Cause | Diagnosis | Fix |
-|----------------|-----------|-----|
-| Air in the system | Pedal improves when pumped rapidly | Re-bleed the entire system |
-| Master cylinder failure | Pedal slowly sinks under steady pressure | Replace master cylinder |
-| Brake fluid leak | Visible fluid loss, low reservoir | Find and fix the leak, then re-bleed |
-| Rear shoes out of adjustment | Excessive pedal travel | Adjust star wheels |
+
+| Possible Cause               | Diagnosis                                | Fix                                  |
+| ---------------------------- | ---------------------------------------- | ------------------------------------ |
+| Air in the system            | Pedal improves when pumped rapidly       | Re-bleed the entire system           |
+| Master cylinder failure      | Pedal slowly sinks under steady pressure | Replace master cylinder              |
+| Brake fluid leak             | Visible fluid loss, low reservoir        | Find and fix the leak, then re-bleed |
+| Rear shoes out of adjustment | Excessive pedal travel                   | Adjust star wheels                   |
 
 ### Pedal Feels Spongy but Doesn't Sink
-| Possible Cause | Diagnosis | Fix |
-|----------------|-----------|-----|
-| Air trapped in a high spot | Common after line replacement | Re-bleed, try tapping lines with a wrench handle during bleeding to dislodge bubbles |
-| Flex hose expanding under pressure | Old rubber hose that passed visual inspection | Replace with new (or braided stainless) |
-| Drum brakes out of adjustment | Excessive travel before shoes contact drum | Adjust star wheels, verify self-adjusters work |
+
+| Possible Cause                     | Diagnosis                                     | Fix                                                                                  |
+| ---------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Air trapped in a high spot         | Common after line replacement                 | Re-bleed, try tapping lines with a wrench handle during bleeding to dislodge bubbles |
+| Flex hose expanding under pressure | Old rubber hose that passed visual inspection | Replace with new (or braided stainless)                                              |
+| Drum brakes out of adjustment      | Excessive travel before shoes contact drum    | Adjust star wheels, verify self-adjusters work                                       |
 
 ### Brakes Pull to One Side
-| Possible Cause | Diagnosis | Fix |
-|----------------|-----------|-----|
-| Seized caliper or slide pin | One side hotter than the other after stop | Clean/rebuild or replace caliper; clean and lube slide pins |
-| Contaminated pad or shoe | Fluid or grease on friction surface | Replace the contaminated pad/shoe — don't try to clean it |
-| Mismatched friction material | Different brands or types side-to-side | Always install matched sets |
-| Collapsed flex hose | Acts as a one-way valve — fluid gets in but can't return | Replace the flex hose |
+
+| Possible Cause               | Diagnosis                                                | Fix                                                         |
+| ---------------------------- | -------------------------------------------------------- | ----------------------------------------------------------- |
+| Seized caliper or slide pin  | One side hotter than the other after stop                | Clean/rebuild or replace caliper; clean and lube slide pins |
+| Contaminated pad or shoe     | Fluid or grease on friction surface                      | Replace the contaminated pad/shoe — don't try to clean it   |
+| Mismatched friction material | Different brands or types side-to-side                   | Always install matched sets                                 |
+| Collapsed flex hose          | Acts as a one-way valve — fluid gets in but can't return | Replace the flex hose                                       |
 
 ### Brakes Drag (Wheels Don't Spin Freely)
-| Possible Cause | Diagnosis | Fix |
-|----------------|-----------|-----|
-| Master cylinder pushrod too long | Slight preload on master cylinder prevents full release | Adjust pushrod length — slight free play needed |
-| Caliper piston not retracting | Corroded bore or swollen seal | Rebuild or replace caliper |
-| Rear shoes over-adjusted | Drum barely fits or doesn't turn freely | Back off star wheel adjuster |
-| Parking brake not fully releasing | Cable sticking or adjusted too tight | Check cable routing, lubricate, adjust |
-| Collapsed flex hose | Traps pressure at the wheel | Replace the flex hose |
+
+| Possible Cause                    | Diagnosis                                               | Fix                                             |
+| --------------------------------- | ------------------------------------------------------- | ----------------------------------------------- |
+| Master cylinder pushrod too long  | Slight preload on master cylinder prevents full release | Adjust pushrod length — slight free play needed |
+| Caliper piston not retracting     | Corroded bore or swollen seal                           | Rebuild or replace caliper                      |
+| Rear shoes over-adjusted          | Drum barely fits or doesn't turn freely                 | Back off star wheel adjuster                    |
+| Parking brake not fully releasing | Cable sticking or adjusted too tight                    | Check cable routing, lubricate, adjust          |
+| Collapsed flex hose               | Traps pressure at the wheel                             | Replace the flex hose                           |
 
 ### Brake Noise
-| Noise | Likely Cause | Fix |
-|-------|-------------|-----|
-| High-pitched squeal | Vibration between pad and rotor — missing anti-squeal shims or brake grease on pad backing | Apply brake grease to pad backs; install shims |
-| Grinding/metal-on-metal | Pads or shoes worn to backing plate | Replace immediately — also inspect rotor/drum for damage |
-| Rhythmic thumping | Warped rotor or out-of-round drum | Resurface or replace |
-| Clicking from rear | Loose or broken return spring or adjuster | Remove drum and inspect hardware |
+
+| Noise                   | Likely Cause                                                                               | Fix                                                      |
+| ----------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| High-pitched squeal     | Vibration between pad and rotor — missing anti-squeal shims or brake grease on pad backing | Apply brake grease to pad backs; install shims           |
+| Grinding/metal-on-metal | Pads or shoes worn to backing plate                                                        | Replace immediately — also inspect rotor/drum for damage |
+| Rhythmic thumping       | Warped rotor or out-of-round drum                                                          | Resurface or replace                                     |
+| Clicking from rear      | Loose or broken return spring or adjuster                                                  | Remove drum and inspect hardware                         |
 
 ### Brake Warning Light On
-| Possible Cause | Diagnosis | Fix |
-|----------------|-----------|-----|
-| Low fluid in reservoir | Check level | Top up and find the leak |
-| Pressure differential | Uneven pressure between front and rear circuits (usually after line work) | Bleed system thoroughly — the combination valve shuttle may need to re-center |
-| Parking brake engaged | Check handle position | Release parking brake |
-| Faulty switch | Light stays on with all brakes working properly | Check combination valve switch and wiring |
+
+| Possible Cause         | Diagnosis                                                                 | Fix                                                                           |
+| ---------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Low fluid in reservoir | Check level                                                               | Top up and find the leak                                                      |
+| Pressure differential  | Uneven pressure between front and rear circuits (usually after line work) | Bleed system thoroughly — the combination valve shuttle may need to re-center |
+| Parking brake engaged  | Check handle position                                                     | Release parking brake                                                         |
+| Faulty switch          | Light stays on with all brakes working properly                           | Check combination valve switch and wiring                                     |
 
 > **Note on the combination valve:** After major brake work, the differential pressure shuttle inside the combination valve can get displaced to one side, keeping the warning light on. To re-center it: have a helper press the brake pedal firmly, then crack the bleeder on the side that was most recently worked on to let a small amount of fluid out. This should allow the shuttle to re-center. If the light persists, bleed the entire system again.
 
@@ -802,14 +817,14 @@ New pads and shoes need to be bedded to the rotor/drum surface for optimal perfo
 
 Once the brake system refresh is complete:
 
-| Interval | Action |
-|----------|--------|
-| **Every drive** | Note pedal feel — any change means investigate immediately |
-| **Monthly** | Check fluid level in reservoir; inspect under vehicle for leaks |
-| **Every 6 months** | Visual inspection of pad thickness (through wheel spokes), hose condition, and line condition |
-| **Every 2 years** | Complete brake fluid flush (DOT 4 absorbs moisture over time, reducing boiling point) |
-| **Every 30,000 miles** | Full brake inspection — remove wheels, measure pads/shoes/rotors/drums |
-| **As needed** | Clean and re-lube caliper slide pins every time you have the wheels off |
+| Interval               | Action                                                                                        |
+| ---------------------- | --------------------------------------------------------------------------------------------- |
+| **Every drive**        | Note pedal feel — any change means investigate immediately                                    |
+| **Monthly**            | Check fluid level in reservoir; inspect under vehicle for leaks                               |
+| **Every 6 months**     | Visual inspection of pad thickness (through wheel spokes), hose condition, and line condition |
+| **Every 2 years**      | Complete brake fluid flush (DOT 4 absorbs moisture over time, reducing boiling point)         |
+| **Every 30,000 miles** | Full brake inspection — remove wheels, measure pads/shoes/rotors/drums                        |
+| **As needed**          | Clean and re-lube caliper slide pins every time you have the wheels off                       |
 
 ### Mountain Driving Tips for Brake Longevity
 
@@ -825,6 +840,7 @@ Once the brake system refresh is complete:
 This guide was written for a specific 1986 MJ with the 2.5L I4, AX5, and Dana 30/35 axles, but the brake system is essentially identical across the MJ Comanche and XJ Cherokee lines from 1984–1990 (and very similar through 2001 for the XJ). The procedures, specifications, and torque values should apply broadly to any MJ or XJ with front disc / rear drum brakes.
 
 Key differences to watch for between model years:
+
 - 1990+ XJ/MJ may have slightly different caliper bracket designs
 - ABS-equipped vehicles (later XJs) have additional considerations for bleeding
 - 1997+ XJ went to rear disc brakes on some models
@@ -834,5 +850,5 @@ If you find errors or have corrections, please share them with the community. Br
 
 ---
 
-*Guide prepared as part of the "Mad Maxine" 1986 Jeep Comanche MJ restoration project.*  
-*February 2026*
+_Guide prepared as part of the "Mad Maxine" 1986 Jeep Comanche MJ restoration project._  
+_February 2026_

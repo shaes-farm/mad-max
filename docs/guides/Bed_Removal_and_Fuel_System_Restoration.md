@@ -28,6 +28,7 @@ This procedure guides the complete removal of the truck bed and all interconnect
 ## CRITICAL SAFETY WARNINGS
 
 ⚠️ **FUEL SYSTEM HAZARD:**
+
 - Work outdoors only (fuel vapors)
 - No smoking, open flames, or spark-producing tools near fuel tank
 - Drain tank completely before any work
@@ -36,17 +37,20 @@ This procedure guides the complete removal of the truck bed and all interconnect
 - Allow tank to air dry for 24+ hours after draining before interior inspection
 
 ⚠️ **LIFTING & SUPPORT HAZARD:**
+
 - Never work under vehicle supported by jack only
 - Use jack stands at minimum; use proper hoist if available
 - Ensure proper footing and stable work surface
 - Keep bystanders away from work area
 
 ⚠️ **ELECTRICAL HAZARD:**
+
 - Disconnect battery negative terminal BEFORE disconnecting any fuel pump wiring
 - Keep electrical connectors dry
 - Verify fuel pump is de-energized before tank removal
 
 ⚠️ **EXHAUST HAZARD:**
+
 - If disconnecting exhaust from bed: allow to cool completely
 - Touching hot exhaust causes severe burns
 - Work only on cold engine
@@ -58,6 +62,7 @@ This procedure guides the complete removal of the truck bed and all interconnect
 ### Essential Tools (Must Have)
 
 **Mechanical:**
+
 - Socket set (1/2" drive, deep wells for bed bolts)
 - Wrench set (metric and SAE, focus on 15mm bolts)
 - Breaker bar (leverage for stuck fasteners)
@@ -71,17 +76,20 @@ This procedure guides the complete removal of the truck bed and all interconnect
 - Drain pan (large, for fuel tank residue)
 
 **Penetrating & Lubrication:**
+
 - PB Blaster or Würth Rost Off (for rusted bolts) — ESSENTIAL
 - Engine oil or WD-40 (general lubrication)
 - Brake fluid (new, DOT 3 or DOT 4)
 
 **Fuel System:**
+
 - Fuel siphon pump (manual or electric 12V)
 - Fuel line clamps (hose clamps for old lines, new proper clamps for new lines)
 - Fuel line disconnect tool (if equipped with spring clamps)
 - Clean glass or plastic fuel container (approved for gasoline)
 
 **Cleaning & Protection:**
+
 - Wire brush (hand and rotary wire wheel for drill)
 - Shop towels and rags
 - Degreaser (Simple Green, Purple Power)
@@ -91,6 +99,7 @@ This procedure guides the complete removal of the truck bed and all interconnect
 - Masking tape and permanent markers (labeling everything)
 
 **Safety:**
+
 - Safety glasses or face shield
 - Chemical-resistant gloves (nitrile not adequate for fuel; use neoprene)
 - Respirator (P100 cartridge if grinding rust or welding prep)
@@ -112,16 +121,19 @@ This procedure guides the complete removal of the truck bed and all interconnect
 ### Community Resources (Real-World Comanche Bed Removal)
 
 **Primary:** ComancheClub.com Bed Removal Thread
+
 - URL: https://comancheclub.com/topic/12659-bed-removal/
 - Key guidance: 8 bolts total, gas tank straps, e-brake bracket, tail light wiring
 - Real experiences: rusted bolt removal, tank strap strategies, broken stud repair
 
 **Secondary:** NAXJA Forums (XJ Cherokee, MJ-applicable)
+
 - URL: https://naxja.org/threads/mj-bed-removal.1059183/
 - Key info: bolt locations, bolt sizes (15mm), gas tank strap removal technique
 - Advanced: Using door jack to relieve tank strap tension
 
 **Video Reference:** BleepinJeep YouTube
+
 - Search: "Comanche Bed Removal" or "remove truck bed"
 - Shows: practical tool use, custom penetrant rig, fuel tank handling
 - Runtime: ~15-20 minutes
@@ -129,17 +141,20 @@ This procedure guides the complete removal of the truck bed and all interconnect
 ### Technical References
 
 **Factory Service Manual (1986 Jeep Comanche)**
+
 - Resource: Jeep FSM PDF repositories
 - Sections: Body removal, fuel system diagrams, brake system layout
 - Why: Official wiring diagrams and bolt torque specifications
 
 **Fuel System Components (Renix TBI)**
+
 - Fuel pump location: Tank mounted
 - Fuel lines: Steel hard lines from tank to firewall, rubber lines under hood
 - Pressure rating: ~30 PSI (check your pump specification)
 - Regulator: On fuel pump module or near engine
 
 **Brake System Components**
+
 - Parking brake: Cable-operated, bracket bolted to bed
 - Lines: Steel hard lines from master cylinder, brake hoses at wheels
 - Your truck: Manual cable parking brake (common on '86 MJ)
@@ -223,13 +238,13 @@ This procedure guides the complete removal of the truck bed and all interconnect
       ___
    2 |   | 1
   ===|   |===  (Front crossmember)
-   
+
    4 |   | 3
   ===|   |===  (Rear of rear axle arch)
-   
+
    6 |   | 5
   ===|   |===  (Flat frame rail areas)
-   
+
    8 |   | 7
   ===|   |===  (Rear frame rails)
      GROUND
@@ -331,7 +346,7 @@ Fuel connections (critical to find before draining is critical):
   - **Check:** Trace from license plate area
   - **Mark:** If found, "LICENSE PLATE LIGHT"
 
-**Reference:** ComancheClub user "earl*t" warns: "Wiring harness runs along driver side frame rail and is connected to bed by plastic loom fasteners — found out the hard way." Plan to free all clips.
+**Reference:** ComancheClub user "earl\*t" warns: "Wiring harness runs along driver side frame rail and is connected to bed by plastic loom fasteners — found out the hard way." Plan to free all clips.
 
 ---
 
@@ -448,7 +463,7 @@ Fuel connections (critical to find before draining is critical):
   - Carefully position harness so it won't get pinched when bed lifts
 - [ ] **Safety:** Verify no wires will be severed or kinked during bed removal
 
-**Reference:** ComancheClub user earl*t: "Wiring harness is connected to bed by plastic loom fasteners — found out the hard way."
+**Reference:** ComancheClub user earl\*t: "Wiring harness is connected to bed by plastic loom fasteners — found out the hard way."
 
 ---
 
@@ -544,6 +559,7 @@ If a bolt breaks during breakout:
 **Prerequisites:** All bolts broken free, all systems disconnected
 
 ⚠️ **LIFTING SAFETY:** Bed weighs 300-400 lbs. You need either:
+
 - Professional hoist/lift, OR
 - 2-3 strong people + proper technique
 
@@ -974,16 +990,19 @@ You have an '86 Comanche with Renix TBI fuel injection. Your fuel system include
 Keep existing steel hard line (bed to firewall), replace only rubber hoses and connections.
 
 **Advantages:**
+
 - Minimal cost ($50-100 total)
 - Steel line is protected inside bed, less susceptible to road damage
 - Faster installation
 - Can reuse existing line routing
 
 **Disadvantages:**
+
 - Existing line may have internal corrosion (can't see)
 - Steel line is more difficult to repair if kinked
 
 **What you'll replace:**
+
 - All rubber hoses under hood
 - All hose clamps
 - Fuel pump inlet clamp (inside tank)
@@ -993,16 +1012,19 @@ Keep existing steel hard line (bed to firewall), replace only rubber hoses and c
 Replace steel hard line from tank all the way through firewall to engine.
 
 **Advantages:**
+
 - Complete peace of mind
 - No hidden corrosion
 - Fresher system throughout
 
 **Disadvantages:**
+
 - Much higher cost ($200-400)
 - Requires professional installation if soldering hard lines
 - More complex routing
 
 **What you'll replace:**
+
 - Entire steel hard line
 - All rubber hoses
 - All fittings and clamps
@@ -1957,17 +1979,20 @@ With battery connected and fuel pump tested:
 After bed removal and fuel system restoration is complete:
 
 **Phase 2B: Brake System Overhaul**
+
 - Full brake inspection and service
 - Brake line replacement (if corrosion found)
 - Brake hose replacement
 - Master cylinder inspection
 
 **Phase 3: Electrical Systems**
+
 - Engine harness cleanup (Phase A Renix guide)
 - Fuel pump verification and testing
 - Tail light wiring inspection
 
 **Phase 1C: Frame Protection (if not complete)**
+
 - Annual Fluid Film reapplication
 - Final inspection of all treated areas
 
@@ -1978,4 +2003,3 @@ After bed removal and fuel system restoration is complete:
 **Status:** Ready for Implementation  
 **Estimated Project Hours:** 20-30 hours (weekends/evenings)  
 **Estimated Materials Cost:** $300-500
-
