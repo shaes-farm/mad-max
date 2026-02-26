@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Binary and media files
+photos/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.ico
+*.pdf
+*.docx
+*.xlsx
+*.doc
+
+# Reference docs (PDFs stored in LFS)
+docs/references/
+
+# Build artifacts
+docs/build/
