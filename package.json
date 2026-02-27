@@ -2,11 +2,6 @@
   "name": "mad-max",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "format": "prettier --write .",
-    "format:check": "prettier --check ."
-  },
-  "devDependencies": {
-    "prettier": "^3.0.0"
-  }
+  "scripts": {},
+  "devDependencies": {}
 }
