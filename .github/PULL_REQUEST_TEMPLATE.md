@@ -1,12 +1,15 @@
 ## Description
+
 <!-- Provide a brief description of the changes in this PR -->
 
 ## Related Issues
+
 <!-- Link any related issues using #issue_number -->
 
 Closes [Github Issue #NNN](https://github.com/shaes-farm/mad-max/issues/NNN)
 
 ## Type of Change
+
 <!-- Mark the relevant option with an 'x' -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
@@ -36,7 +39,9 @@ Closes [Github Issue #NNN](https://github.com/shaes-farm/mad-max/issues/NNN)
 - [ ] Verified no console errors
 
 ## Screenshots/Videos
+
 <!-- If applicable, add screenshots or videos to demonstrate the changes -->
 
 ## Additional Notes
+
 <!-- Add any other context about the PR here -->

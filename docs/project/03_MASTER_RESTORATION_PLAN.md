@@ -1,6 +1,7 @@
 # MASTER RESTORATION PLAN: Mad Maxine
 
 ## Document Purpose
+
 This document provides the complete phased restoration plan with task dependencies, estimated timelines, and decision points. Use this as your roadmap from "basket case" to reliable daily driver.
 
 **Project Start:** January 2026  
@@ -10,12 +11,14 @@ This document provides the complete phased restoration plan with task dependenci
 ## Document Relationship
 
 This is the **authoritative phased execution plan**. Use this document to:
+
 - Track task completion (check boxes)
 - Reference time and cost estimates
 - Follow decision point criteria
 - Monitor phase progress
 
 For strategic context, see:
+
 - **Jeep_Comanche_Project_Brief.md** - Current issues, technical specs
 - **01_PROJECT_CHARTER.md** - Project vision and success criteria
 - **02_CURRENT_STATE_INVENTORY.md** - Detailed condition assessment
@@ -24,15 +27,15 @@ For strategic context, see:
 
 ## Phase Overview & Timeline
 
-| Phase | Focus | Duration Estimate | Budget Estimate | Status |
-|-------|-------|-------------------|-----------------|--------|
-| **Phase 0** | Planning & Assessment | 1-2 weeks | $0-200 | ← CURRENT |
-| **Phase 1** | Safety & Structural | 3-6 weeks | $1,200-1,800 | Pending |
-| **Phase 2** | Drivetrain Reliability | 4-6 weeks | $800-1,200 | Pending |
-| **Phase 3** | Electrical Systems | 2-4 weeks | $400-800 | Pending |
-| **Phase 4** | Cab & Interior | 2-3 weeks | $300-500 | Pending |
-| **Phase 5** | Final Prep & Testing | 1-2 weeks | $200-400 | Pending |
-| **TOTAL** | | **13-23 weeks** | **$2,900-4,900** | |
+| Phase       | Focus                  | Duration Estimate | Budget Estimate  | Status    |
+| ----------- | ---------------------- | ----------------- | ---------------- | --------- |
+| **Phase 0** | Planning & Assessment  | 1-2 weeks         | $0-200           | ← CURRENT |
+| **Phase 1** | Safety & Structural    | 3-6 weeks         | $1,200-1,800     | Pending   |
+| **Phase 2** | Drivetrain Reliability | 4-6 weeks         | $800-1,200       | Pending   |
+| **Phase 3** | Electrical Systems     | 2-4 weeks         | $400-800         | Pending   |
+| **Phase 4** | Cab & Interior         | 2-3 weeks         | $300-500         | Pending   |
+| **Phase 5** | Final Prep & Testing   | 1-2 weeks         | $200-400         | Pending   |
+| **TOTAL**   |                        | **13-23 weeks**   | **$2,900-4,900** |           |
 
 **Note:** Phases 1 & 2 will run concurrently on separate tracks (structural vs. mechanical)
 
@@ -41,6 +44,7 @@ For strategic context, see:
 ## PHASE 0: PLANNING & ASSESSMENT
 
 ### Goals
+
 - Complete comprehensive vehicle condition assessment
 - Document all issues with photos and measurements
 - Identify project kill criteria (frame rust, major mechanical failures)
@@ -49,9 +53,11 @@ For strategic context, see:
 - Get professional assessment of critical safety items
 
 ### Duration
+
 1-2 weeks (can work evenings/weekends)
 
 ### Budget
+
 $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 
 ---
@@ -61,6 +67,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 #### Week 1: Documentation & Access
 
 **Task 0.1: Fix Hood Latch** ⚠️ PREREQUISITE FOR ENGINE ACCESS
+
 - [ ] Assess latch mechanism failure
 - [ ] Lubricate/repair or replace latch
 - [ ] Verify hood opens and closes securely
@@ -70,6 +77,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0-50 (latch assembly if needed)
 
 **Task 0.2: Vehicle Photography**
+
 - [x] Exterior (all angles, 3/4 views)
 - [x] Underside (entire frame, suspension)
 - [x] Engine bay (overview and detail shots)
@@ -81,6 +89,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0
 
 **Task 0.3: Frame & Structural Inspection** ⚠️ PROJECT KILL CRITERIA
+
 - [ ] Clean frame rails with wire brush/scraper
 - [ ] Inspect for rust-through, cracks, previous damage
 - [ ] Document rust severity with photos and notes
@@ -93,6 +102,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0-100 (mobile mechanic consult if needed)
 
 **Task 0.4: Floor Pan Rust Assessment**
+
 - [ ] Remove floor mats and any loose debris
 - [ ] Clean floor pans to reveal extent of rust
 - [ ] Measure and photograph all holes
@@ -105,6 +115,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 #### Week 2: Mechanical Assessment
 
 **Task 0.5: Engine Bay Cleaning** ⚠️ REQUIRED TO IDENTIFY LEAK SOURCES
+
 - [ ] Degrease engine bay thoroughly
 - [ ] Pressure wash or steam clean (careful around electrical)
 - [ ] Allow to dry completely
@@ -117,6 +128,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $30-50 (degreaser, UV dye, UV light if needed)
 
 **Task 0.6: Transfer Case Identification & Leak Assessment**
+
 - [x] Locate ID tag on transfer case (NP207)
 - [ ] Clean area around leak to identify source
 - [ ] Check fluid level (may be low from leak)
@@ -127,6 +139,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0
 
 **Task 0.7: Front Driveshaft Safety Inspection** ⚠️ CRITICAL SAFETY
+
 - [x] Photograph welds from all angles
 - [x] Check for cracks in welds or parent metal
 - [x] Test for straightness (rotate and observe runout)
@@ -139,6 +152,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0-75 (mobile mechanic inspection)
 
 **Task 0.8: Complete CURRENT_STATE_INVENTORY.md**
+
 - [ ] Work through entire inventory checklist
 - [ ] Fill in all ❓ items with actual findings
 - [ ] Document fluid levels and conditions
@@ -150,6 +164,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0
 
 **Task 0.9: Wiring Harness Condition Assessment**
+
 - [ ] Trace engine bay harness - look for splices, damage, corrosion
 - [ ] Inspect dash harness - check for melted wires, missing connectors
 - [ ] Check all ground points - clean and test continuity
@@ -160,6 +175,7 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 - **Est. Cost:** $0
 
 **Task 0.10: Brake System Visual Inspection**
+
 - [ ] Check master cylinder fluid level and condition
 - [ ] Inspect all visible brake lines for rust, bulging, leaks
 - [ ] Check brake hoses for cracks, swelling
@@ -195,18 +211,22 @@ $0-200 (cleaning supplies, inspection tools, mobile mechanic consult if needed)
 ## PHASE 1: SAFETY & STRUCTURAL
 
 ### Goals
+
 - Make vehicle structurally sound and safe
 - Address all immediate safety hazards
 - Create foundation for reliable operation
 - Prevent further deterioration (rust prevention)
 
 ### Duration
+
 3-6 weeks (depending on welding complexity and parts availability)
 
 ### Budget
+
 $1,200-1,800
 
 ### Concurrent with Phase 2
+
 Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel since they don't interfere with each other.
 
 ---
@@ -216,6 +236,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 #### Track 1A: Critical Safety Items
 
 **Task 1.1: Exhaust System Replacement** ⚠️ CRITICAL - CO POISONING HAZARD
+
 - [ ] Inspect exhaust manifold for cracks (common 2.5L failure)
 - [ ] If manifold cracked: Replace manifold + gasket
 - [ ] Measure existing system for parts ordering
@@ -231,6 +252,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 - **Est. Cost:** $225-410
 
 **Task 1.2: Driver Door Structural Repair** ⚠️ CRITICAL - DOOR DETACHMENT HAZARD
+
 - [ ] Assess hinge attachment points
 - [ ] Determine if hinges torn from body or door damaged
 - [ ] Grind out bad welds completely
@@ -247,6 +269,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 - **Est. Cost:** $50-250 (parts + welding class or professional labor)
 
 **Task 1.3: Floor Pan Rust Repair**
+
 - [ ] Cut out rusted areas or prepare for patch
 - [ ] Purchase patch panels or cut custom from sheet metal
 - [ ] Weld patches in place
@@ -261,6 +284,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 - **Est. Cost:** $40-350 (depending on patch vs. full replacement)
 
 **Task 1.4: Front Driveshaft Replacement** ⚠️ SAFETY - if inspection shows unsafe
+
 - [ ] Source replacement driveshaft (XJ Cherokee front often fits)
 - [ ] Remove old driveshaft
 - [ ] Inspect U-joints on new shaft, replace if needed
@@ -276,6 +300,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 #### Track 1B: Brake System Overhaul
 
 **Task 1.5: Brake System Inspection & Service**
+
 - [ ] Complete inspection from Phase 0
 - [ ] Test drive to assess stopping power (safe area only)
 - [ ] **Front brakes:**
@@ -306,6 +331,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 - **Est. Cost:** $200-650 (depending on what needs replacement)
 
 **Task 1.6: Steering System Inspection & Service**
+
 - [ ] Test steering box for play and leaks
 - [ ] Inspect tie rod ends - replace if play or torn boots
 - [ ] Inspect drag link - replace if worn
@@ -326,6 +352,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 #### Track 1C: Rust Prevention & Protection
 
 **Task 1.7: Frame & Undercarriage Rust Treatment**
+
 - [ ] Wire brush all frame rails to bare metal where rusty
 - [ ] Treat surface rust with rust converter (POR-15, Rustoleum Rust Reformer)
 - [ ] Allow to cure per product instructions
@@ -337,6 +364,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 - **Est. Cost:** $150-200 (rust converter, POR-15, brushes/rollers)
 
 **Task 1.8: Undercoating Application**
+
 - [ ] Clean underside thoroughly
 - [ ] Apply oil-based undercoating (Fluid Film, Wool Wax)
 - [ ] Spray inside frame rails (cavity wax)
@@ -350,6 +378,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 - **Est. Cost:** $100-150 (Fluid Film/Wool Wax, spray equipment)
 
 **Task 1.9: Cab Weatherproofing**
+
 - [ ] Replace/repair door seals
 - [ ] Install new windshield gasket if leaking
 - [ ] Seal firewall grommets and penetrations
@@ -379,6 +408,7 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 ## PHASE 2: DRIVETRAIN RELIABILITY
 
 ### Goals
+
 - Engine runs smoothly, no leaks, reliable starts
 - Transmission shifts properly in all gears
 - Transfer case sealed and 4WD functional
@@ -386,9 +416,11 @@ Phase 1 (structural work) and Phase 2 (drivetrain work) can proceed in parallel 
 - No fluid leaks anywhere
 
 ### Duration
+
 4-6 weeks (concurrent with Phase 1)
 
 ### Budget
+
 $800-1,200
 
 ---
@@ -398,6 +430,7 @@ $800-1,200
 #### Track 2A: Engine Mechanical Repairs
 
 **Task 2.1: Oil Leak Diagnosis & Repair**
+
 - [ ] With clean engine bay from Phase 0, identify all leak sources
 - [ ] **Oil pressure sending unit:**
   - [ ] Replace sending unit (known leak)
@@ -422,6 +455,7 @@ $800-1,200
 - **Est. Cost:** $55-110
 
 **Task 2.2: Ignition System Repair (Won't Shut Off)**
+
 - [ ] Test for power at ECM with key in OFF position
 - [ ] If power present, trace back to ignition switch
 - [ ] Remove steering column covers
@@ -438,6 +472,7 @@ $800-1,200
 - **Est. Cost:** $35-60
 
 **Task 2.3: Engine Tune-Up**
+
 - [ ] Replace spark plugs (Champion RC12YC)
 - [ ] Replace spark plug wires (if cracked/high resistance)
 - [ ] Replace distributor cap
@@ -454,6 +489,7 @@ $800-1,200
 - **Est. Cost:** $88-123
 
 **Task 2.4: Cooling System Service**
+
 - [ ] Drain coolant (dispose properly)
 - [ ] Flush cooling system thoroughly
 - [ ] Inspect all hoses, replace if cracked/swollen
@@ -470,6 +506,7 @@ $800-1,200
 - **Est. Cost:** $50-305
 
 **Task 2.5: Renix Sensor Service**
+
 - [ ] Clean throttle body and IAC valve
 - [ ] Test coolant temperature sensor (CTS) - common cause of rough cold idle
 - [ ] Check throttle position sensor (TPS) voltage range
@@ -484,6 +521,7 @@ $800-1,200
 - **Est. Cost:** $10-110
 
 **Task 2.6: Battery & Charging System**
+
 - [ ] Load test battery
 - [ ] Replace battery if failed or weak
 - [ ] Clean battery terminals and cables
@@ -500,6 +538,7 @@ $800-1,200
 #### Track 2B: Transmission & Drivetrain Service
 
 **Task 2.7: Transmission Fluid Service**
+
 - [ ] Drain AX5 transmission fluid
 - [ ] Inspect drain plug for metal particles
 - [ ] Clean magnetic drain plug
@@ -513,6 +552,7 @@ $800-1,200
 - **Est. Cost:** $30
 
 **Task 2.8: Transfer Case Service**
+
 - [ ] Drain transfer case fluid
 - [ ] Inspect for metal contamination
 - [ ] Identify leak source (output seal, input seal, case gasket, speedometer drive)
@@ -529,6 +569,7 @@ $800-1,200
 - **Est. Cost:** $40-60
 
 **Task 2.9: Differential Service (Front & Rear)**
+
 - [ ] **Front differential (Dana 30):**
   - [ ] Drain fluid
   - [ ] Inspect for metal particles
@@ -549,6 +590,7 @@ $800-1,200
 - **Est. Cost:** $70
 
 **Task 2.10: Driveshaft & U-Joint Inspection**
+
 - [ ] Inspect rear driveshaft U-joints for play
 - [ ] Replace rear U-joints if worn
 - [ ] Inspect front driveshaft (or new one installed in Phase 1)
@@ -563,6 +605,7 @@ $800-1,200
 #### Track 2C: Fuel System Service
 
 **Task 2.11: Fuel System Inspection & Service**
+
 - [ ] Inspect fuel tank for leaks or rust
 - [ ] Check fuel lines for cracks or leaks
 - [ ] Replace fuel filter (already in tune-up)
@@ -596,6 +639,7 @@ $800-1,200
 ## PHASE 3: ELECTRICAL SYSTEMS
 
 ### Goals
+
 - All lights functional for safe night driving
 - Gauges operational for monitoring critical systems
 - Wiring harness repaired or replaced
@@ -603,9 +647,11 @@ $800-1,200
 - 4WD indicator operational
 
 ### Duration
+
 2-4 weeks (after Phases 1 & 2)
 
 ### Budget
+
 $400-800 (depending on harness condition)
 
 ---
@@ -613,6 +659,7 @@ $400-800 (depending on harness condition)
 ### Task List - Phase 3
 
 **Task 3.1: Wiring Harness Repair or Replacement**
+
 - [ ] **If harness is salvageable (based on Phase 0 assessment):**
   - [ ] Repair damaged sections
   - [ ] Replace corroded connectors
@@ -635,6 +682,7 @@ $400-800 (depending on harness condition)
 - **Decision Made in Phase 0**
 
 **Task 3.2: Lighting System Restoration**
+
 - [ ] Test all lights per CURRENT_STATE_INVENTORY
 - [ ] Replace all non-working bulbs
 - [ ] Repair or replace light sockets if corroded
@@ -651,6 +699,7 @@ $400-800 (depending on harness condition)
 - **Est. Cost:** $50-100
 
 **Task 3.3: Gauge Cluster Repair or Replacement**
+
 - [ ] Remove gauge cluster
 - [ ] Test speedometer cable or sensor (electronic)
 - [ ] Test fuel gauge and sending unit
@@ -668,6 +717,7 @@ $400-800 (depending on harness condition)
 - **Est. Cost:** $50-300
 
 **Task 3.4: Switch & Control Restoration**
+
 - [ ] Test ignition switch (should be replaced in Phase 2)
 - [ ] Test light switch all positions
 - [ ] Test turn signal stalk
@@ -683,6 +733,7 @@ $400-800 (depending on harness condition)
 - **Est. Cost:** $50-100
 
 **Task 3.5: Accessory Systems**
+
 - [ ] Test horn, repair if needed
 - [ ] Test windshield wipers, repair motor or linkage
 - [ ] Test washer pump, replace if needed
@@ -710,6 +761,7 @@ $400-800 (depending on harness condition)
 ## PHASE 4: CAB & INTERIOR
 
 ### Goals
+
 - Cab is tidy and functional (military-spartan style)
 - Dash operational with custom fabricated panels
 - Doors open, close, latch properly
@@ -717,9 +769,11 @@ $400-800 (depending on harness condition)
 - Interior is weathertight and cleanable
 
 ### Duration
+
 2-3 weeks (after Phase 3)
 
 ### Budget
+
 $300-500
 
 ---
@@ -727,6 +781,7 @@ $300-500
 ### Task List - Phase 4
 
 **Task 4.1: Driver Window Repair**
+
 - [ ] Remove door panel (if present)
 - [ ] Inspect window regulator
 - [ ] Test window motor (if power windows)
@@ -742,6 +797,7 @@ $300-500
 - **Est. Cost:** $40-80
 
 **Task 4.2: Dash Fabrication**
+
 - [ ] Assess what's salvageable from existing dash
 - [ ] Measure and template for custom sheet metal panels
 - [ ] Cut sheet metal panels to replace missing plastic pieces
@@ -758,6 +814,7 @@ $300-500
 - **Est. Cost:** $80-100
 
 **Task 4.3: Interior Panel Fabrication**
+
 - [ ] Assess door panels - fabricate simple metal or plywood replacements
 - [ ] Create functional kick panels if needed
 - [ ] Fabricate any missing trim pieces for tidy appearance
@@ -771,6 +828,7 @@ $300-500
 - **Est. Cost:** $80
 
 **Task 4.4: Seat Verification & Installation**
+
 - [ ] Verify seats are secure to floor (check mounting bolts)
 - [ ] Test seat adjustments
 - [ ] Inspect seat frames for cracks
@@ -784,6 +842,7 @@ $300-500
 - **Est. Cost:** $0
 
 **Task 4.5: Floor Mat/Liner Installation**
+
 - [ ] Clean floor pans thoroughly (repaired in Phase 1)
 - [ ] Apply bed liner or durable paint to floors
 - [ ] Install rubber floor mats or liners
@@ -796,6 +855,7 @@ $300-500
 - **Est. Cost:** $40-130
 
 **Task 4.6: Final Weatherproofing & Sealing**
+
 - [ ] Test all door seals with water spray
 - [ ] Replace any leaking seals
 - [ ] Verify windshield seal is good
@@ -823,6 +883,7 @@ $300-500
 ## PHASE 5: FINAL PREP & TESTING
 
 ### Goals
+
 - Verify all systems operational
 - Complete shakedown testing
 - Address any remaining issues
@@ -831,9 +892,11 @@ $300-500
 - Certify vehicle ready for daily use
 
 ### Duration
+
 1-2 weeks
 
 ### Budget
+
 $200-400
 
 ---
@@ -841,6 +904,7 @@ $200-400
 ### Task List - Phase 5
 
 **Task 5.1: Systems Verification**
+
 - [ ] Complete walk-around inspection
 - [ ] Check all fluid levels
 - [ ] Test all electrical systems
@@ -856,6 +920,7 @@ $200-400
 - **Est. Cost:** $0
 
 **Task 5.2: Short Test Drives**
+
 - [ ] Test drive #1: 5-mile local roads
   - [ ] Inspect after drive for leaks, noises, issues
   - [ ] Document any problems
@@ -876,6 +941,7 @@ $200-400
 - **Est. Cost:** $0
 
 **Task 5.3: Extended Test Drive (Farm Route Simulation)**
+
 - [ ] Drive complete round-trip farm route (24 miles)
 - [ ] Test in various weather if possible
 - [ ] Load bed with typical farm cargo
@@ -890,6 +956,7 @@ $200-400
 - **Est. Cost:** $0 (fuel)
 
 **Task 5.4: Cosmetic Finish (Black Paint)**
+
 - [ ] Wash entire vehicle thoroughly
 - [ ] Mask off windows, lights, trim
 - [ ] Light sanding to prep surfaces (not full body prep)
@@ -905,6 +972,7 @@ $200-400
 - **Est. Cost:** $130-180
 
 **Task 5.5: Final Adjustments**
+
 - [ ] Adjust headlight aim
 - [ ] Adjust mirrors
 - [ ] Adjust steering wheel position
@@ -918,6 +986,7 @@ $200-400
 - **Est. Cost:** $0
 
 **Task 5.6: Documentation & Maintenance Schedule**
+
 - [ ] Update WORK_LOG.md with all completed work
 - [ ] Create maintenance schedule:
   - [ ] Daily: walkaround, fluid checks
@@ -939,6 +1008,7 @@ $200-400
 - **Est. Cost:** $0
 
 **Task 5.7: Insurance & Registration**
+
 - [ ] Ensure vehicle is insurable as daily driver
 - [ ] Update registration if needed
 - [ ] Verify inspection requirements for your state
@@ -969,6 +1039,7 @@ $200-400
 Many Phase 1 and Phase 2 tasks can proceed in parallel:
 
 **Track A: Structural/Body Work (Phase 1)**
+
 - Exhaust system replacement
 - Door welding repair
 - Floor pan welding
@@ -978,6 +1049,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 - Steering system inspection
 
 **Track B: Drivetrain Work (Phase 2)**
+
 - Engine oil leak repairs
 - Ignition system repair
 - Engine tune-up
@@ -989,6 +1061,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 **Advantage:** Work proceeds on two fronts simultaneously, reducing overall calendar time.
 
 **Coordination Needed:**
+
 - Both tracks may need vehicle raised (coordinate jack/stands usage)
 - Engine bay work (Track B) may interfere with exhaust work (Track A) - sequence appropriately
 - Test drives for Track A require Track B to be safe enough to run
@@ -1000,29 +1073,35 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 ### Major Decision Points
 
 **DP1: Frame Rust Severity (Phase 0)**
+
 - **GO:** Surface rust, repairable - proceed with plan
 - **NO-GO:** Structural rust, unsafe - abort project or major frame repair required
 
 **DP2: Wiring Harness Condition (Phase 0)**
+
 - **Option A:** Salvageable - repair for $100-200
 - **Option B:** Replace with Painless harness for $500-800
 - **Impact:** Affects Phase 3 budget and timeline
 
 **DP3: Front Driveshaft Safety (Phase 0)**
+
 - **Safe:** Continue using existing shaft
 - **Unsafe:** Replace immediately in Phase 1 (\$90-210)
 
 **DP4: Engine Mechanical Condition (Phase 2)**
+
 - **Minor leaks:** Repair seals/gaskets as planned
 - **Major wear:** Engine rebuild required (\$1,500-2,000) - major budget impact
 
 **DP5: Transfer Case Internal Condition (Phase 2)**
+
 - **Seal leak only:** Repair as planned
 - **Internal damage:** Rebuild or replace (\$400-800) - budget impact
 
 ### Budget Contingencies
 
 **Best Case (Minimal Issues):**
+
 - Phase 0: $50
 - Phase 1: $1,200
 - Phase 2: $800
@@ -1032,6 +1111,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 - **Total: $2,950**
 
 **Expected Case (Moderate Issues):**
+
 - Phase 0: $100
 - Phase 1: $1,500
 - Phase 2: $1,000
@@ -1041,6 +1121,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 - **Total: $3,900**
 
 **Worst Case (Major Issues Within Scope):**
+
 - Phase 0: $200
 - Phase 1: $1,800
 - Phase 2: $1,200 (plus engine rebuild: +$1,500)
@@ -1052,6 +1133,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 ### Timeline Contingencies
 
 **Optimistic (No Major Setbacks):**
+
 - Phase 0: 1 week
 - Phase 1 & 2: 4 weeks (concurrent)
 - Phase 3: 2 weeks
@@ -1060,6 +1142,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 - **Total: 10 weeks**
 
 **Realistic (Some Delays):**
+
 - Phase 0: 2 weeks
 - Phase 1 & 2: 6 weeks (concurrent)
 - Phase 3: 3 weeks
@@ -1068,6 +1151,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 - **Total: 16 weeks**
 
 **Pessimistic (Multiple Issues):**
+
 - Phase 0: 2 weeks
 - Phase 1 & 2: 8 weeks (concurrent)
 - Phase 3: 4 weeks
@@ -1080,18 +1164,21 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 ## SKILLS DEVELOPMENT PLAN
 
 ### Welding (Phase 1)
+
 - [ ] Take community college or trade school welding class (MIG focus)
 - [ ] Practice on scrap metal before cab work
 - [ ] Start with simple patches, progress to structural
 - [ ] Have mobile mechanic inspect critical structural welds
 
 ### Electrical (Throughout)
+
 - [ ] Study Jeep wiring diagrams
 - [ ] Practice connector repair on junkyard harness
 - [ ] Learn proper solder and heat shrink techniques
 - [ ] Document all wiring modifications clearly
 
 ### Fabrication (Phase 4)
+
 - [ ] Learn basic sheet metal layout and cutting
 - [ ] Practice bending techniques
 - [ ] Develop finishing skills (deburring, painting)
@@ -1102,6 +1189,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 ## TOOLS & EQUIPMENT CHECKLIST
 
 ### Already Have (Per Your Description)
+
 ✅ Comprehensive mechanic's tools
 ✅ Electrical test equipment (multimeters, oscilloscope, etc.)
 ✅ Wire/stick welder
@@ -1112,6 +1200,7 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 ✅ Soldering irons and heat guns
 
 ### May Need to Acquire
+
 - [ ] Automotive jack stands (4-ton rated for safety)
 - [ ] Torque wrench (if not already owned)
 - [ ] Brake bleeder kit
@@ -1129,12 +1218,14 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 ## PARTS SOURCING STRATEGY
 
 ### Priority Order
+
 1. **Safety items:** New or OEM (brakes, steering, structural)
 2. **Reliability items:** New preferred, quality used acceptable (engine, drivetrain)
 3. **Convenience items:** Whatever works (switches, trim, accessories)
 4. **Cosmetic items:** Used, junkyard, DIY fabricated
 
 ### Recommended Sources
+
 - **RockAuto:** Primary for most parts (wide selection, good prices)
 - **NAPA/O'Reilly/AutoZone:** Local pickup, emergency parts, returns
 - **ComancheClub.com:** Used parts marketplace, technical advice
@@ -1143,7 +1234,9 @@ Many Phase 1 and Phase 2 tasks can proceed in parallel:
 - **Amazon:** Varies by part, check seller ratings
 
 ### XJ Cherokee Interchange
+
 Many parts interchange with 1984-1996 XJ Cherokee (2-door):
+
 - Doors and glass
 - Interior components
 - Electrical components
@@ -1152,6 +1245,7 @@ Many parts interchange with 1984-1996 XJ Cherokee (2-door):
 - Suspension components
 
 MJ-specific (harder to find):
+
 - Bed and tailgate
 - Some body panels
 
@@ -1160,6 +1254,7 @@ MJ-specific (harder to find):
 ## SUCCESS METRICS
 
 ### Road-Worthy Milestone (Minimum Viable Truck)
+
 - [ ] Passes safety inspection
 - [ ] Starts reliably in all weather
 - [ ] Stops safely on mountain grades
@@ -1172,6 +1267,7 @@ MJ-specific (harder to find):
 - [ ] Doors secure and weather sealed
 
 ### Fully Restored Milestone
+
 - [ ] All Road-Worthy criteria met
 - [ ] All electrical systems functional
 - [ ] Interior tidy and complete
@@ -1182,6 +1278,7 @@ MJ-specific (harder to find):
 - [ ] No known issues remaining
 
 ### Long-Term Success (After 6 Months Use)
+
 - [ ] Zero breakdowns or being stranded
 - [ ] Reliable winter operation in snow/ice
 - [ ] Comfortable for daily 24-mile round trips

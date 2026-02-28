@@ -15,6 +15,7 @@
 This guide provides a complete, realistic plan for converting a Renix-equipped 2.5L MJ to **GM TBI EFI**. This is presented as a **contingency option** — a "Plan B" to be executed only if the Renix system proves unreliable or parts become unavailable after completing the Renix refresh.
 
 **What this covers:**
+
 - Complete parts list with realistic sourcing
 - Step-by-step installation workflow
 - Integration with existing Renix harness cleanup work
@@ -23,6 +24,7 @@ This guide provides a complete, realistic plan for converting a Renix-equipped 2
 - Cost and complexity comparison
 
 **What this does NOT cover:**
+
 - Performance modifications (this is a reliability swap)
 - Multi-port fuel injection conversions
 - Forced induction integration
@@ -36,20 +38,21 @@ This guide provides a complete, realistic plan for converting a Renix-equipped 2
 
 GM TBI is chosen because it represents the **simplest, most tolerant, most serviceable** electronic fuel injection system ever mass-produced:
 
-| Attribute | Renix TBI | GM TBI |
-|-----------|-----------|--------|
-| Units produced | ~500,000 | 15+ million |
-| Sensor count | 7 critical sensors | 6 critical sensors |
-| Parts availability (2026) | Declining | Excellent |
-| Parts availability (2036) | Questionable | Still excellent |
-| Diagnostic capability | Limited self-diagnostics | Full ALDL data stream |
-| Wiring tolerance | Ground-sensitive | Very forgiving |
-| Tuning capability | Fixed PROM | User-tunable PROM |
-| Service documentation | Good (forums) | Extensive (factory + aftermarket) |
+| Attribute                 | Renix TBI                | GM TBI                            |
+| ------------------------- | ------------------------ | --------------------------------- |
+| Units produced            | ~500,000                 | 15+ million                       |
+| Sensor count              | 7 critical sensors       | 6 critical sensors                |
+| Parts availability (2026) | Declining                | Excellent                         |
+| Parts availability (2036) | Questionable             | Still excellent                   |
+| Diagnostic capability     | Limited self-diagnostics | Full ALDL data stream             |
+| Wiring tolerance          | Ground-sensitive         | Very forgiving                    |
+| Tuning capability         | Fixed PROM               | User-tunable PROM                 |
+| Service documentation     | Good (forums)            | Extensive (factory + aftermarket) |
 
 ### What GM TBI Is NOT
 
 This is **not**:
+
 - A performance upgrade (power will be similar or slightly less)
 - A modern EFI solution (1980s-1990s technology)
 - Plug-and-play (requires fabrication and tuning)
@@ -85,12 +88,14 @@ Test Drive & Evaluate (6+ months)
 ### Legal & Regulatory ⚠️
 
 **Emissions Testing:**
+
 - Tennessee requirements vary by county
 - Swapping ECUs may trigger inspection failure if system doesn't match factory specs
 - **ACTION REQUIRED:** Verify your county's requirements before starting
 - Document original Renix system for potential reversal
 
 **Off-Road Use Disclaimer:**
+
 - Removing emissions equipment may violate federal/state law
 - This guide is for off-road use only
 - User assumes all legal responsibility
@@ -98,6 +103,7 @@ Test Drive & Evaluate (6+ months)
 ### Technical Prerequisites
 
 **You should NOT attempt this swap if:**
+
 - You have never worked with automotive wiring
 - You do not own a multimeter and know how to use it
 - You cannot fabricate simple brackets
@@ -105,6 +111,7 @@ Test Drive & Evaluate (6+ months)
 - You expect plug-and-play installation
 
 **You SHOULD attempt this swap if:**
+
 - You completed Phase A Renix cleanup successfully
 - Renix parts are becoming unavailable
 - You want maximum long-term serviceability
@@ -113,34 +120,35 @@ Test Drive & Evaluate (6+ months)
 
 ### Cost Reality Check
 
-| Category | Estimated Cost | Notes |
-|----------|---------------|-------|
-| **GM ECU & PROM** | $150-300 | Reman or used |
-| **TBI Unit** | $200-400 | Reman preferred |
-| **Wiring Harness** | $0-600 | DIY free, Howell $600 |
-| **Intake Adapter** | $100-200 | Custom fab or aftermarket |
-| **Fuel System** | $100-200 | Pump, filter, regulator if needed |
-| **Sensors** | $150-300 | GM sensors (most needed) |
-| **Fabrication Supplies** | $50-100 | Brackets, fittings, hardware |
-| **Tuning Tools** | $50-100 | ALDL cable, software free |
-| **Contingency** | $100-200 | Unexpected issues |
-| **TOTAL** | **$900-2400** | DIY low end, turnkey high end |
+| Category                 | Estimated Cost | Notes                             |
+| ------------------------ | -------------- | --------------------------------- |
+| **GM ECU & PROM**        | $150-300       | Reman or used                     |
+| **TBI Unit**             | $200-400       | Reman preferred                   |
+| **Wiring Harness**       | $0-600         | DIY free, Howell $600             |
+| **Intake Adapter**       | $100-200       | Custom fab or aftermarket         |
+| **Fuel System**          | $100-200       | Pump, filter, regulator if needed |
+| **Sensors**              | $150-300       | GM sensors (most needed)          |
+| **Fabrication Supplies** | $50-100        | Brackets, fittings, hardware      |
+| **Tuning Tools**         | $50-100        | ALDL cable, software free         |
+| **Contingency**          | $100-200       | Unexpected issues                 |
+| **TOTAL**                | **$900-2400**  | DIY low end, turnkey high end     |
 
 **Comparison:**
+
 - Renix Refresh: $400-650
 - GM TBI Swap (DIY harness): $900-1400
 - GM TBI Swap (Howell harness): $1500-2400
 
 ### Timeline Reality Check
 
-| Phase | Time Required | Can Be Rushed? |
-|-------|---------------|----------------|
-| Parts acquisition | 2-4 weeks | No (backorders common) |
-| Harness prep | 1-3 days | No (must be thorough) |
-| Physical installation | 2-4 days | Somewhat (budget extra) |
-| Initial tuning | 1-2 days | No (patience required) |
-| Shake-down period | 2-4 weeks | No (find all issues) |
-| **TOTAL** | **4-8 weeks** | Assume longer is safer |
+| Phase                 | Time Required | Can Be Rushed?          |
+| --------------------- | ------------- | ----------------------- |
+| Parts acquisition     | 2-4 weeks     | No (backorders common)  |
+| Harness prep          | 1-3 days      | No (must be thorough)   |
+| Physical installation | 2-4 days      | Somewhat (budget extra) |
+| Initial tuning        | 1-2 days      | No (patience required)  |
+| Shake-down period     | 2-4 weeks     | No (find all issues)    |
+| **TOTAL**             | **4-8 weeks** | Assume longer is safer  |
 
 **Important:** This assumes you already completed Phase A Renix cleanup. If starting from scratch, add 3-5 weeks.
 
@@ -168,16 +176,17 @@ Each subsystem must be completed in order. **Do not skip ahead.**
 
 ### Core Components
 
-| Part | Specification | Source | Est. Cost |
-|------|---------------|--------|-----------|
-| **GM ECU** | 1227747 | eBay, GM parts | $100-200 |
-| **PROM Chip** | Stock 4-cyl or custom | TunerPro, mail-order | $50-100 |
-| **ECU Mounting Bracket** | Custom or universal | Fabricate or aftermarket | $0-50 |
-| **ECU Connector** | If not included with ECU | Junkyard, aftermarket | $20-50 |
+| Part                     | Specification            | Source                   | Est. Cost |
+| ------------------------ | ------------------------ | ------------------------ | --------- |
+| **GM ECU**               | 1227747                  | eBay, GM parts           | $100-200  |
+| **PROM Chip**            | Stock 4-cyl or custom    | TunerPro, mail-order     | $50-100   |
+| **ECU Mounting Bracket** | Custom or universal      | Fabricate or aftermarket | $0-50     |
+| **ECU Connector**        | If not included with ECU | Junkyard, aftermarket    | $20-50    |
 
 ### Why ECU 1227747?
 
 The **1227747** is the gold standard for GM TBI conversions:
+
 - Supports 4-cylinder and V6 applications
 - Batch-fire injector control (simple)
 - Closed-loop O2 capability
@@ -186,10 +195,12 @@ The **1227747** is the gold standard for GM TBI conversions:
 - Tuning software widely available
 
 **Alternatives:**
+
 - 16188051 (similar capability, less documentation)
 - 16196344 (also viable, harder to find info)
 
 **Avoid:**
+
 - Random junkyard ECUs without known part numbers
 - ECUs from automatic transmission vehicles (different logic)
 
@@ -198,12 +209,14 @@ The **1227747** is the gold standard for GM TBI conversions:
 The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 
 **Option 1: Stock GM PROM (Easiest)**
+
 - Source: 2.5L Iron Duke S10 (1987-1993)
 - **Pros:** Readily available, proven
 - **Cons:** Tuned for Iron Duke, not AMC 150
-- **Reality:** Will run, may not run *optimally*
+- **Reality:** Will run, may not run _optimally_
 
 **Option 2: Custom PROM Burn (Best)**
+
 - Source: DIY with TunerPro, or mail-order from tuner
 - **Pros:** Optimized for AMC 150 specs
 - **Cons:** Requires tuning knowledge or paying someone
@@ -215,6 +228,7 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
   5. Install custom PROM, re-test
 
 **PROM Specs to Match:**
+
 - Displacement: 2.5L (150 CID) ✅ (Iron Duke is also 2.5L)
 - Compression: 9.2:1 (AMC) vs 8.0:1 (Iron Duke) ⚠️
 - Cam profile: Mild (similar) ✅
@@ -241,6 +255,7 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
    - Keep away from moisture
 
 **Mounting Requirements:**
+
 - Secure against vibration (rubber isolators recommended)
 - Protected from water intrusion
 - Accessible for ALDL connection
@@ -249,12 +264,14 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 ### ECU Connector Preparation
 
 **If using junkyard ECU:**
+
 - Connector may be cut off (common)
 - Source replacement connector from same donor vehicle
 - **Critical:** Match connector gender and pin count
 - Label every wire before disconnecting from donor harness
 
 **If using reman ECU:**
+
 - Usually includes connector
 - Verify before purchasing
 
@@ -264,17 +281,18 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 
 ### Decision Matrix: DIY vs. Purchased
 
-| Approach | Cost | Time | Skill Required | Flexibility |
-|----------|------|------|----------------|-------------|
-| **Howell Standalone** | $600 | 1 day | Low | Low (fixed design) |
-| **DIY Rework** | $50-100 | 2-3 days | Medium | High (custom) |
-| **Modified Renix Harness** | $0-50 | 1-2 days | Medium | Highest (leverage existing work) |
+| Approach                   | Cost    | Time     | Skill Required | Flexibility                      |
+| -------------------------- | ------- | -------- | -------------- | -------------------------------- |
+| **Howell Standalone**      | $600    | 1 day    | Low            | Low (fixed design)               |
+| **DIY Rework**             | $50-100 | 2-3 days | Medium         | High (custom)                    |
+| **Modified Renix Harness** | $0-50   | 1-2 days | Medium         | Highest (leverage existing work) |
 
 ### Option 1: Howell TBI Harness (Easiest)
 
 **Part Number:** Varies by application (call Howell for Jeep 2.5L)
 
 **Pros:**
+
 - Plug-and-play (mostly)
 - Pre-labeled wires
 - Includes all connectors
@@ -282,6 +300,7 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 - Proven reliable
 
 **Cons:**
+
 - Expensive ($600+)
 - Fixed design (can't customize easily)
 - May include features you don't need
@@ -294,6 +313,7 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 **Source:** Junkyard 2.5L S10 or 4.3L truck (1987-1995)
 
 **Process:**
+
 1. Pull complete harness from donor
 2. Strip down to essential circuits
 3. Extend/shorten wires as needed
@@ -301,12 +321,14 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 5. Label everything thoroughly
 
 **Pros:**
+
 - Cheap ($50-100 for junkyard pull + connectors)
 - Highly customizable
 - Learn the system inside-out
 - All GM connectors included
 
 **Cons:**
+
 - Time-consuming
 - Requires wiring skill
 - Easy to make mistakes
@@ -319,12 +341,14 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 **Concept:** Leverage the Phase A Renix cleanup work.
 
 **Why This Makes Sense:**
+
 - You already isolated engine management circuits
 - Ground network already rebuilt
 - Power distribution already verified
 - Just need to adapt sensor connectors and ECU pinout
 
 **Process:**
+
 1. Keep existing power/ground infrastructure
 2. Replace Renix ECU connector with GM connector
 3. Swap sensor connectors (Renix → GM)
@@ -332,12 +356,14 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 5. Test each circuit before powering up
 
 **Pros:**
+
 - Minimal new wiring
 - Leverages completed work
 - Familiar layout (you built it)
 - Easy to troubleshoot
 
 **Cons:**
+
 - Requires understanding both Renix and GM pinouts
 - Must verify every connection
 - Some circuits need rewiring (different sensor count)
@@ -350,24 +376,24 @@ The PROM (Programmable Read-Only Memory) chip contains the fuel/spark maps.
 
 Regardless of which harness approach you choose, the following circuits are **mandatory**:
 
-| Circuit | Purpose | Wire Gauge | Notes |
-|---------|---------|------------|-------|
-| **Battery +12V (Constant)** | ECU memory, fuel pump relay | 12 AWG min | Always hot |
-| **Ignition +12V (Switched)** | ECU power, sensors | 12 AWG min | Hot in RUN/START |
-| **ECU Grounds (3x minimum)** | ECU ground reference | 12-14 AWG | Critical — use multiple |
-| **Sensor +5V Reference** | MAP, TPS power | 18 AWG | From ECU |
-| **Sensor Ground** | MAP, TPS, CTS ground | 18 AWG | Clean ground |
-| **Fuel Pump Relay Control** | ECU → relay coil | 18 AWG | Switched ground |
-| **Fuel Pump Relay Power** | Battery → relay → pump | 12 AWG | Fused 15-20A |
-| **TPS Signal** | Throttle position → ECU | 18 AWG | Shield if possible |
-| **MAP Signal** | Manifold pressure → ECU | 18 AWG | Shield if possible |
-| **CTS Signal** | Coolant temp → ECU | 18 AWG | |
-| **IAT Signal** | Intake air temp → ECU | 18 AWG | |
-| **O2 Signal** | Oxygen sensor → ECU | 18 AWG | High-temp wire |
-| **Injector Control A** | ECU → injector | 16 AWG | Switched ground |
-| **Injector Control B** | ECU → injector | 16 AWG | Switched ground |
-| **Check Engine Light** | ECU → dash light | 18 AWG | Switched ground |
-| **ALDL Data** | Diagnostic port | 18 AWG | TX/RX data lines |
+| Circuit                      | Purpose                     | Wire Gauge | Notes                   |
+| ---------------------------- | --------------------------- | ---------- | ----------------------- |
+| **Battery +12V (Constant)**  | ECU memory, fuel pump relay | 12 AWG min | Always hot              |
+| **Ignition +12V (Switched)** | ECU power, sensors          | 12 AWG min | Hot in RUN/START        |
+| **ECU Grounds (3x minimum)** | ECU ground reference        | 12-14 AWG  | Critical — use multiple |
+| **Sensor +5V Reference**     | MAP, TPS power              | 18 AWG     | From ECU                |
+| **Sensor Ground**            | MAP, TPS, CTS ground        | 18 AWG     | Clean ground            |
+| **Fuel Pump Relay Control**  | ECU → relay coil            | 18 AWG     | Switched ground         |
+| **Fuel Pump Relay Power**    | Battery → relay → pump      | 12 AWG     | Fused 15-20A            |
+| **TPS Signal**               | Throttle position → ECU     | 18 AWG     | Shield if possible      |
+| **MAP Signal**               | Manifold pressure → ECU     | 18 AWG     | Shield if possible      |
+| **CTS Signal**               | Coolant temp → ECU          | 18 AWG     |                         |
+| **IAT Signal**               | Intake air temp → ECU       | 18 AWG     |                         |
+| **O2 Signal**                | Oxygen sensor → ECU         | 18 AWG     | High-temp wire          |
+| **Injector Control A**       | ECU → injector              | 16 AWG     | Switched ground         |
+| **Injector Control B**       | ECU → injector              | 16 AWG     | Switched ground         |
+| **Check Engine Light**       | ECU → dash light            | 18 AWG     | Switched ground         |
+| **ALDL Data**                | Diagnostic port             | 18 AWG     | TX/RX data lines        |
 
 **Total Wire Count:** ~20-25 wires (depending on optional features)
 
@@ -415,12 +441,14 @@ Regardless of which harness approach you choose, the following circuits are **ma
 Assembly Line Diagnostic Link — GM's pre-OBD-II diagnostic system.
 
 **Why You Need It:**
+
 - Real-time data logging (RPM, TPS, MAP, CTS, O2, etc.)
 - Fault code reading (check engine light codes)
 - Tuning verification (fuel trim, timing, etc.)
 - Troubleshooting sensor issues
 
 **Physical Implementation:**
+
 - 12-pin connector (OBD-I style)
 - Mount under dash, driver's side
 - Minimum required pins:
@@ -430,16 +458,19 @@ Assembly Line Diagnostic Link — GM's pre-OBD-II diagnostic system.
   - Pin 16: +12V (keyed power)
 
 **Connector Source:**
+
 - Junkyard GM (under dash of any 1980s-1990s GM)
 - Aftermarket OBD-I ALDL connector
 - DIY: Just use individual pins in housing
 
 **Software:**
+
 - **WinALDL** (free, basic)
 - **TunerPro RT** (free, advanced)
 - **MegaLogViewer** (paid, professional)
 
 **Cable:**
+
 - USB ALDL cable ($20-50 on eBay/Amazon)
 - Verify cable supports 1227747 ECU (most do)
 
@@ -451,25 +482,29 @@ Assembly Line Diagnostic Link — GM's pre-OBD-II diagnostic system.
 
 **Recommended Units:**
 
-| Donor Application | TBI Size | Injector Flow | Notes |
-|------------------|----------|---------------|-------|
-| **2.5L S10 (1987-1993)** | 700 CFM | ~12 lb/hr | Best match for 2.5L AMC |
-| **4.3L S10/Blazer (1987-1995)** | 700 CFM | ~15 lb/hr | Common, works when tuned |
+| Donor Application               | TBI Size | Injector Flow | Notes                    |
+| ------------------------------- | -------- | ------------- | ------------------------ |
+| **2.5L S10 (1987-1993)**        | 700 CFM  | ~12 lb/hr     | Best match for 2.5L AMC  |
+| **4.3L S10/Blazer (1987-1995)** | 700 CFM  | ~15 lb/hr     | Common, works when tuned |
 
 **Avoid:**
+
 - 305/350 V8 TBI (too large, poor atomization at low flow)
 - Single-injector TBI (very early units, less desirable)
 
 **Part Number Examples:**
+
 - 17093640 (2.5L application)
 - 17094004 (4.3L application, common)
 
 **Condition:**
+
 - **Remanufactured preferred** (known good injectors, IAC, TPS)
 - Used acceptable if low-mileage
 - Avoid corroded or damaged units
 
 **What's Included in TBI Unit:**
+
 - (2) Fuel injectors
 - Throttle Position Sensor (TPS)
 - Idle Air Control (IAC) motor
@@ -515,15 +550,18 @@ Your Renix system has a **Renix TBI flange** on the AMC intake manifold. The GM 
 - **Port Alignment:** Critical — misalignment causes turbulence and performance loss
 
 **Gaskets:**
+
 - Use quality gaskets both sides of adapter
 - RTV sealant on metal-to-metal surfaces
 - Torque in proper sequence (center out, crisscross pattern)
 
 **Estimated Cost:**
+
 - DIY machining: $50-100 (material + shop time if farming out)
 - Custom one-off: $150-300 (CNC shop)
 
 **Timeline:**
+
 - Design and measure: 2-4 hours
 - Machining: 1-2 days (if outsourcing)
 - Test-fit and adjust: 1-2 hours
@@ -563,12 +601,14 @@ Renix throttle cable pull angle ≠ GM TBI pull angle. Factory cable will not wo
 You **will** need a custom bracket. GM TBI throttle shaft position does not match Renix.
 
 **Requirements:**
+
 - Secure mounting to TBI body
 - Proper cable pull angle (perpendicular to shaft)
 - Adjustable cable stop (for idle setting)
 - Return spring attachment point
 
 **Materials:**
+
 - Steel plate (1/8"-1/4" thick)
 - Bolts matching TBI mounting holes
 - Cable retention clip or pinch bolt
@@ -576,6 +616,7 @@ You **will** need a custom bracket. GM TBI throttle shaft position does not matc
 **Estimated Fabrication Time:** 2-4 hours
 
 **Testing:**
+
 - Full throttle travel must be achieved
 - Cable must not bind at any point
 - Return spring must close throttle completely
@@ -619,6 +660,7 @@ Renix air cleaner may not fit GM TBI inlet size/orientation.
 GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the air cleaner housing.
 
 **Options:**
+
 - Drill hole in air cleaner (if using enclosed box)
 - Use inline IAT bung in intake tube
 - Mount directly in intake manifold runner (requires drilling/tapping)
@@ -633,18 +675,19 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 
 **Critical Specification Difference:**
 
-| System | Pressure | Regulator Location |
-|--------|----------|-------------------|
-| **Renix TBI** | ~14.5 PSI | External (usually) |
-| **GM TBI** | 9-13 PSI (typ. 10-12) | Internal (in TBI body) |
+| System        | Pressure              | Regulator Location     |
+| ------------- | --------------------- | ---------------------- |
+| **Renix TBI** | ~14.5 PSI             | External (usually)     |
+| **GM TBI**    | 9-13 PSI (typ. 10-12) | Internal (in TBI body) |
 
-**Implication:** Your existing Renix fuel pump *might* work, but pressure is higher than GM TBI spec.
+**Implication:** Your existing Renix fuel pump _might_ work, but pressure is higher than GM TBI spec.
 
 ### Fuel Pump Strategy
 
 **Option 1: Test Existing Pump First (Recommended)**
 
 **Procedure:**
+
 1. Install GM TBI (which has internal regulator)
 2. Connect existing fuel pump
 3. Measure fuel pressure at TBI inlet
@@ -656,19 +699,21 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 
 **If existing pump doesn't regulate correctly:**
 
-| Pump Type | Pressure | Flow | Source | Cost |
-|-----------|----------|------|--------|------|
-| **Carter P4070** | 6-8 PSI | 35 GPH | RockAuto, NAPA | $60-100 |
-| **Airtex E2000** | 9-13 PSI | 30 GPH | RockAuto, AutoZone | $80-120 |
-| **Walbro GSL392** | 10-12 PSI | 40 GPH | Amazon, Summit | $100-150 |
+| Pump Type         | Pressure  | Flow   | Source             | Cost     |
+| ----------------- | --------- | ------ | ------------------ | -------- |
+| **Carter P4070**  | 6-8 PSI   | 35 GPH | RockAuto, NAPA     | $60-100  |
+| **Airtex E2000**  | 9-13 PSI  | 30 GPH | RockAuto, AutoZone | $80-120  |
+| **Walbro GSL392** | 10-12 PSI | 40 GPH | Amazon, Summit     | $100-150 |
 
 **Installation:**
+
 - Same location as existing pump (in-tank preferred, inline acceptable)
 - If using inline pump: mount low, near tank (gravity feed to pump)
 - Use pre-filter before pump (protect from debris)
 - Use post-filter before TBI (10-micron minimum)
 
 **Wiring:**
+
 - Same circuit as existing (ECU-controlled relay)
 - Verify amperage rating (most TBI pumps draw 4-6A)
 
@@ -679,11 +724,13 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Requirement:** High-quality inline filter, **before TBI**.
 
 **Specification:**
+
 - 10-micron or finer
 - Rated for EFI pressure (50+ PSI rating even though running 10-12)
 - Metal canister preferred (plastic can crack)
 
 **Recommended Parts:**
+
 - AC Delco GF652
 - WIX 33042
 - NAPA 3042
@@ -691,6 +738,7 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Cost:** $15-30
 
 **Mounting:**
+
 - Frame rail or firewall
 - Inlet from tank, outlet to TBI
 - Arrow on filter points toward engine
@@ -701,6 +749,7 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 ### Return Line Verification
 
 **GM TBI uses a return-style fuel system:**
+
 - Fuel pump → filter → TBI
 - TBI internal regulator → return line → tank
 
@@ -730,13 +779,14 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 
 **Return Line Replacement:**
 
-| Material | Pros | Cons | Cost |
-|----------|------|------|------|
-| **Steel (pre-bent)** | OEM-style, durable | Rusts eventually | $80-150 |
-| **Steel (custom-bent)** | Perfect fit | Requires bending tools | $50-100 |
-| **Nylon (3/8")** | Rust-proof, flexible | Less durable, heat-sensitive | $30-60 |
+| Material                | Pros                 | Cons                         | Cost    |
+| ----------------------- | -------------------- | ---------------------------- | ------- |
+| **Steel (pre-bent)**    | OEM-style, durable   | Rusts eventually             | $80-150 |
+| **Steel (custom-bent)** | Perfect fit          | Requires bending tools       | $50-100 |
+| **Nylon (3/8")**        | Rust-proof, flexible | Less durable, heat-sensitive | $30-60  |
 
 **Installation:**
+
 - Route away from exhaust (minimum 3" clearance if nylon)
 - Secure every 12-18" (prevent vibration)
 - Use proper fittings (no barbs on EFI line)
@@ -746,12 +796,14 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 ### Fuel Pump Relay
 
 **GM TBI fuel pump control:**
+
 - ECU provides ground signal to relay coil
 - Relay switches 12V power to fuel pump
 - Relay energizes for 2-3 seconds at key-on (prime)
 - Relay stays energized while engine runs
 
 **Relay Specification:**
+
 - Standard automotive relay (Bosch-style)
 - 30A continuous rating minimum
 - SPST (single-pole, single-throw) acceptable
@@ -759,19 +811,21 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 
 **Wiring:**
 
-| Relay Pin | Connects To |
-|-----------|-------------|
-| **85** | ECU fuel pump control (ground signal) |
-| **86** | +12V switched (ignition) |
-| **30** | +12V constant (fused 20A) |
-| **87** | Fuel pump positive |
+| Relay Pin | Connects To                           |
+| --------- | ------------------------------------- |
+| **85**    | ECU fuel pump control (ground signal) |
+| **86**    | +12V switched (ignition)              |
+| **30**    | +12V constant (fused 20A)             |
+| **87**    | Fuel pump positive                    |
 
 **Mounting:**
+
 - Near ECU or in engine bay
 - Protected from weather
 - Accessible for replacement
 
 **Existing Renix Relay:**
+
 - Can be reused if wiring is compatible
 - Verify coil voltage matches (12V)
 - Test before relying on it
@@ -784,18 +838,19 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 
 **GM TBI uses FEWER sensors than Renix:**
 
-| Sensor | Renix TBI | GM TBI |
-|--------|-----------|--------|
-| Crank Position Sensor (CPS) | ✅ Required | ❌ Not used |
-| Manifold Absolute Pressure (MAP) | ✅ Required | ✅ Required |
-| Throttle Position Sensor (TPS) | ✅ Required | ✅ Required (on TBI) |
-| Coolant Temp Sensor (CTS) | ✅ Required | ✅ Required |
-| Manifold Air Temp (MAT) | ✅ Required | ❌ Not used |
-| Intake Air Temp (IAT) | ❌ Not used | ✅ Required |
-| Idle Air Control (IAC) | ✅ Required | ✅ Required (on TBI) |
-| Oxygen Sensor (O2) | ✅ Required | ✅ Required |
+| Sensor                           | Renix TBI   | GM TBI               |
+| -------------------------------- | ----------- | -------------------- |
+| Crank Position Sensor (CPS)      | ✅ Required | ❌ Not used          |
+| Manifold Absolute Pressure (MAP) | ✅ Required | ✅ Required          |
+| Throttle Position Sensor (TPS)   | ✅ Required | ✅ Required (on TBI) |
+| Coolant Temp Sensor (CTS)        | ✅ Required | ✅ Required          |
+| Manifold Air Temp (MAT)          | ✅ Required | ❌ Not used          |
+| Intake Air Temp (IAT)            | ❌ Not used | ✅ Required          |
+| Idle Air Control (IAC)           | ✅ Required | ✅ Required (on TBI) |
+| Oxygen Sensor (O2)               | ✅ Required | ✅ Required          |
 
 **Key Changes:**
+
 - **No CPS needed** — GM TBI ignition reference comes from distributor (HEI pickup coil or reluctor)
 - **IAT replaces MAT** — Function is similar (measures air temp), different sensor
 - **Fewer critical sensors = fewer failure points**
@@ -809,18 +864,22 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Function:** Measures intake manifold vacuum/pressure, primary load sensor for fuel calculation.
 
 **GM Part:**
+
 - AC Delco 16040749 (or equivalent)
 - 1-bar sensor (good to ~14,000 ft elevation)
 
 **Mounting:**
+
 - Firewall (same location as Renix MAP)
 - Must be above engine (prevent oil contamination)
 
 **Connections:**
+
 - (3) wires: +5V reference, ground, signal
 - Vacuum line from intake manifold (same as Renix)
 
 **Testing:**
+
 - Key ON, engine OFF: ~4.5V signal (atmospheric pressure)
 - Engine idling: ~1.5-2.5V signal (depending on idle vacuum)
 - Voltage should change smoothly with throttle
@@ -828,6 +887,7 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Cost:** $40-80
 
 **Can You Reuse Renix MAP?**
+
 - **No.** Voltage output curves are different.
 - GM ECU expects GM MAP sensor signal.
 
@@ -838,17 +898,20 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Function:** Reports throttle blade angle to ECU.
 
 **GM Part:**
+
 - Included with TBI unit ✅
 - Mounted directly on throttle shaft
 
 **No separate purchase needed** — comes with reman TBI.
 
 **Testing:**
+
 - Key ON, throttle closed: ~0.5V
 - Throttle wide open: ~4.5V
 - Should sweep smoothly with no dead spots
 
 **Adjustment:**
+
 - TPS is adjustable (slotted mounting holes)
 - Set closed-throttle voltage to 0.5V per GM spec
 - Lock down and retest
@@ -860,6 +923,7 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Function:** Measures engine coolant temp for cold-start enrichment and closed-loop operation.
 
 **GM Part:**
+
 - AC Delco 213-190 (or equivalent)
 - 2-wire sensor (ground through ECU)
 
@@ -875,9 +939,11 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
    - Use thread sealer (not Teflon tape — contaminates coolant)
 
 **Wiring:**
+
 - (2) wires: ECU reference voltage, ground
 
 **Testing:**
+
 - Cold engine (~70°F): ~3000Ω resistance
 - Warm engine (~200°F): ~300Ω resistance
 - Use resistance chart to verify
@@ -885,6 +951,7 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Cost:** $15-30
 
 **Can You Reuse Renix CTS?**
+
 - **No.** Different resistance curve.
 - GM ECU expects GM sensor values.
 
@@ -895,6 +962,7 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Function:** Measures incoming air temperature for fuel/timing compensation.
 
 **GM Part:**
+
 - AC Delco 213-783 (or equivalent)
 - Same sensor type as CTS (thermistor)
 
@@ -914,15 +982,18 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
    - Sensor in airflow path
 
 **Wiring:**
+
 - (2) wires: ECU reference voltage, ground
 
 **Testing:**
+
 - Same as CTS (same sensor type)
 - Should read ambient air temperature when cold
 
 **Cost:** $15-30
 
 **Can You Reuse Renix MAT?**
+
 - **Maybe.** If it's the same GM sensor type.
 - Verify resistance curve matches.
 - Safer to use new GM IAT sensor.
@@ -935,20 +1006,22 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 
 **GM Part Options:**
 
-| Type | Wires | Heat Time | Cost | Recommended? |
-|------|-------|-----------|------|--------------|
-| **Non-heated** | 1-wire | 3-5 min | $20-40 | Not for this application |
-| **Heated** | 3-wire | 30-60 sec | $40-80 | ✅ Yes |
+| Type                | Wires  | Heat Time | Cost    | Recommended?                      |
+| ------------------- | ------ | --------- | ------- | --------------------------------- |
+| **Non-heated**      | 1-wire | 3-5 min   | $20-40  | Not for this application          |
+| **Heated**          | 3-wire | 30-60 sec | $40-80  | ✅ Yes                            |
 | **Heated wideband** | 4-wire | 10-20 sec | $80-150 | Overkill (requires different ECU) |
 
 **Recommendation:** **3-wire heated O2 sensor**
 
 **Why Heated?**
+
 - Faster warm-up (closed-loop operation sooner)
 - Better cold-weather performance
 - More accurate at low exhaust temps (idle, light load)
 
 **Part Numbers:**
+
 - AC Delco 213-1572
 - Bosch 13913
 - Denso 234-4012
@@ -971,11 +1044,13 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
    - Avoid sharp bends
 
 **Wiring (3-wire heated):**
+
 - Wire 1: Signal (to ECU)
 - Wire 2: Heater +12V (from relay, key-on power)
 - Wire 3: Ground (to chassis or ECU ground)
 
 **Testing:**
+
 - Warm engine fully (5-10 minutes)
 - Signal voltage should fluctuate 0.1-0.9V rapidly (closed loop)
 - Steady voltage = failed sensor or system not in closed loop
@@ -989,20 +1064,24 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Function:** Stepper motor that controls idle speed by bypassing air around throttle plate.
 
 **GM Part:**
+
 - Included with TBI unit ✅
 
 **No separate purchase needed.**
 
 **Wiring:**
+
 - (4) wires from ECU (stepper motor coil pairs)
 - Polarity matters — follow wiring diagram
 
 **Testing:**
+
 - Key ON (engine not running): Should hear faint clicking (IAC moving)
 - Engine idling: Disconnecting IAC should cause stall or rough idle
 - Use ALDL scanner to command IAC position (verify response)
 
 **Cleaning:**
+
 - Carbon buildup is common
 - Remove IAC, spray with throttle body cleaner
 - **Do not soak in solvent** (damages stepper motor)
@@ -1012,14 +1091,14 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 
 ### Sensor Summary Table
 
-| Sensor | GM P/N | Location | Cost | Reuse Renix? |
-|--------|--------|----------|------|--------------|
-| **MAP** | 16040749 | Firewall | $40-80 | No |
-| **TPS** | (on TBI) | TBI shaft | Incl. | No |
-| **CTS** | 213-190 | T-stat housing | $15-30 | No |
-| **IAT** | 213-783 | Air cleaner | $15-30 | Maybe |
-| **O2** | 213-1572 | Downpipe | $40-80 | Maybe |
-| **IAC** | (on TBI) | TBI body | Incl. | No |
+| Sensor  | GM P/N   | Location       | Cost   | Reuse Renix? |
+| ------- | -------- | -------------- | ------ | ------------ |
+| **MAP** | 16040749 | Firewall       | $40-80 | No           |
+| **TPS** | (on TBI) | TBI shaft      | Incl.  | No           |
+| **CTS** | 213-190  | T-stat housing | $15-30 | No           |
+| **IAT** | 213-783  | Air cleaner    | $15-30 | Maybe        |
+| **O2**  | 213-1572 | Downpipe       | $40-80 | Maybe        |
+| **IAC** | (on TBI) | TBI body       | Incl.  | No           |
 
 **Total Sensor Cost (all new):** $150-300
 
@@ -1032,12 +1111,14 @@ GM TBI uses an **Intake Air Temperature (IAT)** sensor, usually mounted in the a
 **Why This Makes Sense:**
 
 GM TBI ECU can operate in two modes:
+
 1. **ECU-controlled timing** (requires distributor with HEI module or crank trigger)
 2. **Mechanical timing** (ECU has no timing control)
 
 **For this swap, use Mode 2 (mechanical timing).**
 
 **Advantages:**
+
 - Keep your existing Renix distributor ✅
 - Keep your existing ignition module ✅
 - Keep your existing coil ✅
@@ -1045,6 +1126,7 @@ GM TBI ECU can operate in two modes:
 - Proven reliable (it already works)
 
 **Trade-off:**
+
 - No electronic timing advance (uses mechanical + vacuum advance)
 - Slightly less optimal timing than ECU control
 - **But:** Simplicity and reliability outweigh small performance loss
@@ -1053,13 +1135,13 @@ GM TBI ECU can operate in two modes:
 
 ### Renix Ignition Components (Retained)
 
-| Component | Function | Action |
-|-----------|----------|--------|
-| **Distributor** | Triggers ignition events | Retain, verify condition |
-| **Ignition Module** | Controls coil dwell/trigger | Retain, test |
-| **Coil** | Generates spark | Retain or upgrade |
-| **Spark Plugs** | Ignite fuel | Replace (routine maintenance) |
-| **Spark Plug Wires** | Conduct spark | Replace if cracked/worn |
+| Component            | Function                    | Action                        |
+| -------------------- | --------------------------- | ----------------------------- |
+| **Distributor**      | Triggers ignition events    | Retain, verify condition      |
+| **Ignition Module**  | Controls coil dwell/trigger | Retain, test                  |
+| **Coil**             | Generates spark             | Retain or upgrade             |
+| **Spark Plugs**      | Ignite fuel                 | Replace (routine maintenance) |
+| **Spark Plug Wires** | Conduct spark               | Replace if cracked/worn       |
 
 **No changes required.** Just verify everything is in good working order.
 
@@ -1068,26 +1150,31 @@ GM TBI ECU can operate in two modes:
 ### Ignition Timing Setup (Mechanical)
 
 **Initial Timing:**
+
 - Set base timing to **10° BTDC** (typical for 2.5L AMC)
 - Verify with timing light
 - Lock distributor
 
 **Vacuum Advance:**
+
 - Connect vacuum advance to manifold vacuum port
 - Verify advance mechanism works (test with hand vacuum pump)
 
 **Total Timing:**
+
 - Base: 10° BTDC
 - Mechanical: +10-15° (by 3000 RPM)
 - Vacuum: +10-15° (at idle/cruise)
 - Total: ~30-35° at cruise (typical)
 
 **Tuning:**
+
 - Drive truck, listen for detonation (spark knock)
 - If knock occurs: retard timing 2° at a time
 - Goal: Maximum advance without knock
 
 **Notes:**
+
 - 9.2:1 compression AMC 150 is not knock-prone
 - Regular 87 octane fuel is fine
 - Higher octane gains nothing (no advantage without higher compression)
@@ -1099,6 +1186,7 @@ GM TBI ECU can operate in two modes:
 **If you want ECU timing control later:**
 
 **Requirements:**
+
 - Replace distributor with GM HEI distributor
 - Wire ECU timing reference (from HEI module)
 - Wire ECU timing control (to HEI module)
@@ -1106,11 +1194,13 @@ GM TBI ECU can operate in two modes:
 - Tune on dyno or with extensive data-logging
 
 **Advantages:**
+
 - Optimal timing under all conditions
 - Slight fuel economy improvement (~1-2 MPG)
 - Easier cold starts (ECU advances timing when cold)
 
 **Disadvantages:**
+
 - More complex wiring
 - More failure points (HEI module, ECU timing circuit)
 - Requires tuning expertise
@@ -1367,35 +1457,35 @@ GM TBI ECU can operate in two modes:
    - [ ] Throttle returns to idle (spring tension correct)
 
 2. **Electrical tests (key OFF, battery connected):**
-   - [ ] Battery voltage: _______ V (should be 12.6V+)
-   - [ ] Constant 12V at ECU: _______ V (should be 12V+)
-   - [ ] Switched 12V at ECU (key OFF): _______ V (should be 0V)
+   - [ ] Battery voltage: **\_\_\_** V (should be 12.6V+)
+   - [ ] Constant 12V at ECU: **\_\_\_** V (should be 12V+)
+   - [ ] Switched 12V at ECU (key OFF): **\_\_\_** V (should be 0V)
 
 3. **Key ON tests (engine not running):**
-   - [ ] Switched 12V at ECU: _______ V (should be 12V+)
+   - [ ] Switched 12V at ECU: **\_\_\_** V (should be 12V+)
    - [ ] Fuel pump runs for 2-3 seconds: YES / NO
    - [ ] Fuel pump stops after prime: YES / NO
    - [ ] Check for fuel leaks: NONE / LEAKS FOUND
    - [ ] CEL light ON: YES / NO (should illuminate)
 
 4. **Sensor voltage tests (key ON, engine OFF):**
-   - [ ] MAP sensor 5V reference: _______ V (5.0V ±0.2V)
-   - [ ] MAP sensor signal: _______ V (4.0-4.5V atmospheric)
-   - [ ] TPS 5V reference: _______ V (5.0V ±0.2V)
-   - [ ] TPS signal (closed throttle): _______ V (0.5V ±0.1V)
-   - [ ] TPS signal (WOT): _______ V (4.5V ±0.2V)
-   - [ ] CTS signal (cold engine): _______ V (3-4V typical)
-   - [ ] IAT signal (ambient): _______ V (similar to CTS)
+   - [ ] MAP sensor 5V reference: **\_\_\_** V (5.0V ±0.2V)
+   - [ ] MAP sensor signal: **\_\_\_** V (4.0-4.5V atmospheric)
+   - [ ] TPS 5V reference: **\_\_\_** V (5.0V ±0.2V)
+   - [ ] TPS signal (closed throttle): **\_\_\_** V (0.5V ±0.1V)
+   - [ ] TPS signal (WOT): **\_\_\_** V (4.5V ±0.2V)
+   - [ ] CTS signal (cold engine): **\_\_\_** V (3-4V typical)
+   - [ ] IAT signal (ambient): **\_\_\_** V (similar to CTS)
 
 5. **Resistance tests (sensors disconnected):**
-   - [ ] CTS resistance: _______ Ω (3000Ω @ 70°F typical)
-   - [ ] IAT resistance: _______ Ω (should match temp)
-   - [ ] O2 heater resistance: _______ Ω (5-20Ω typical)
+   - [ ] CTS resistance: **\_\_\_** Ω (3000Ω @ 70°F typical)
+   - [ ] IAT resistance: **\_\_\_** Ω (should match temp)
+   - [ ] O2 heater resistance: **\_\_\_** Ω (5-20Ω typical)
 
 6. **Fuel pressure test:**
    - [ ] Install fuel pressure gauge at TBI inlet
    - [ ] Key ON (pump primes)
-   - [ ] Fuel pressure: _______ PSI (target: 10-13 PSI)
+   - [ ] Fuel pressure: **\_\_\_** PSI (target: 10-13 PSI)
    - [ ] Pressure holds (no rapid drop): YES / NO
 
 7. **Ignition system test:**
@@ -1405,6 +1495,7 @@ GM TBI ECU can operate in two modes:
 **All tests must PASS. Do not proceed if any failures.**
 
 **If failures found:**
+
 - Trace circuits with multimeter
 - Verify wiring matches diagram
 - Check for crossed wires, bad grounds, shorts
@@ -1416,12 +1507,14 @@ GM TBI ECU can operate in two modes:
 **Goal:** Start engine and verify basic operation.
 
 **Safety:**
+
 - [ ] Fire extinguisher within reach
 - [ ] Exhaust system repaired (no CO intrusion to cab)
 - [ ] Helper nearby
 - [ ] All tools removed from engine bay
 
 **Pre-Start Checklist:**
+
 - [ ] All fluids topped off
 - [ ] Battery fully charged
 - [ ] Fuel tank has clean fuel (no old varnished gas)
@@ -1463,8 +1556,8 @@ GM TBI ECU can operate in two modes:
 
 6. **When engine is running:**
    - [ ] Idle quality: SMOOTH / ROUGH
-   - [ ] Idle speed: _______ RPM (target 700-900 warm)
-   - [ ] Oil pressure: _______ PSI (should be 20+ at idle when warm)
+   - [ ] Idle speed: **\_\_\_** RPM (target 700-900 warm)
+   - [ ] Oil pressure: **\_\_\_** PSI (should be 20+ at idle when warm)
    - [ ] Coolant temp: rising normally
    - [ ] CEL light: OFF / ON (OFF is good; ON means fault code present)
 
@@ -1485,15 +1578,15 @@ GM TBI ECU can operate in two modes:
 
 **Common First-Start Issues:**
 
-| Symptom | Likely Cause | Solution |
-|---------|--------------|----------|
-| Won't start, no spark | Ignition wiring error | Verify coil trigger circuit |
-| Won't start, has spark | No fuel delivery | Check pump, injectors, pressure |
-| Starts, dies immediately | IAC not working | Check IAC wiring, clean IAC |
-| Rough idle, won't stay running | MAP sensor issue | Check vacuum line, sensor wiring |
-| Idles OK, dies when throttle applied | TPS not working | Check TPS wiring, adjustment |
-| High idle (1500+ RPM) | IAC stuck open | Clean IAC, check for vacuum leaks |
-| Engine runs rich (black smoke) | O2 not working or ignored | Check O2 wiring, wait for warm-up |
+| Symptom                              | Likely Cause              | Solution                          |
+| ------------------------------------ | ------------------------- | --------------------------------- |
+| Won't start, no spark                | Ignition wiring error     | Verify coil trigger circuit       |
+| Won't start, has spark               | No fuel delivery          | Check pump, injectors, pressure   |
+| Starts, dies immediately             | IAC not working           | Check IAC wiring, clean IAC       |
+| Rough idle, won't stay running       | MAP sensor issue          | Check vacuum line, sensor wiring  |
+| Idles OK, dies when throttle applied | TPS not working           | Check TPS wiring, adjustment      |
+| High idle (1500+ RPM)                | IAC stuck open            | Clean IAC, check for vacuum leaks |
+| Engine runs rich (black smoke)       | O2 not working or ignored | Check O2 wiring, wait for warm-up |
 
 **Diagnostic Tools:**
 
@@ -1602,10 +1695,10 @@ GM TBI ECU can operate in two modes:
 
 Document any issues discovered:
 
-| Issue | When It Occurs | Severity | Action Needed |
-|-------|----------------|----------|---------------|
-| Example: Hesitation on acceleration | When cold | Moderate | Check TPS, IAC |
-| | | | |
+| Issue                               | When It Occurs | Severity | Action Needed  |
+| ----------------------------------- | -------------- | -------- | -------------- |
+| Example: Hesitation on acceleration | When cold      | Moderate | Check TPS, IAC |
+|                                     |                |          |                |
 
 ---
 
@@ -1658,31 +1751,31 @@ Document any issues discovered:
 
 ### What You Gain ✅
 
-| Benefit | Impact |
-|---------|--------|
-| **Parts availability** | Excellent now, excellent in 10+ years |
+| Benefit                   | Impact                                      |
+| ------------------------- | ------------------------------------------- |
+| **Parts availability**    | Excellent now, excellent in 10+ years       |
 | **Diagnostic capability** | Full ALDL data stream, easy troubleshooting |
-| **Serviceability** | Any mechanic can work on GM TBI |
-| **Tuning flexibility** | Custom PROMs available, user-tunable |
-| **Sensor reduction** | No CPS (one fewer critical failure point) |
-| **Cold start (maybe)** | Heated O2 helps, but Renix was already good |
+| **Serviceability**        | Any mechanic can work on GM TBI             |
+| **Tuning flexibility**    | Custom PROMs available, user-tunable        |
+| **Sensor reduction**      | No CPS (one fewer critical failure point)   |
+| **Cold start (maybe)**    | Heated O2 helps, but Renix was already good |
 
 ### What You Lose ❌
 
-| Trade-off | Impact |
-|-----------|--------|
-| **Factory originality** | No longer stock Renix (matters to some) |
-| **Initial cost** | $900-2400 vs. $400-650 Renix refresh |
-| **Installation time** | 4-8 weeks vs. 3-5 weeks Renix cleanup |
+| Trade-off                   | Impact                                                                       |
+| --------------------------- | ---------------------------------------------------------------------------- |
+| **Factory originality**     | No longer stock Renix (matters to some)                                      |
+| **Initial cost**            | $900-2400 vs. $400-650 Renix refresh                                         |
+| **Installation time**       | 4-8 weeks vs. 3-5 weeks Renix cleanup                                        |
 | **Cold start optimization** | Renix PROM was very good for cold starts (GM TBI matches it, doesn't exceed) |
 
 ### What Stays the Same 🔄
 
-| Attribute | Reality |
-|-----------|---------|
-| **Power output** | Nearly identical (both are mild 2.5L TBI systems) |
-| **Fuel economy** | 18-22 MPG (same range) |
-| **Reliability** | Both are reliable when properly maintained |
+| Attribute             | Reality                                                |
+| --------------------- | ------------------------------------------------------ |
+| **Power output**      | Nearly identical (both are mild 2.5L TBI systems)      |
+| **Fuel economy**      | 18-22 MPG (same range)                                 |
+| **Reliability**       | Both are reliable when properly maintained             |
 | **Throttle response** | Similar (TBI is inherently slower than port injection) |
 
 **Key Insight:** This is not a performance swap. This is a **serviceability and long-term parts availability** swap.
@@ -1694,6 +1787,7 @@ Document any issues discovered:
 ### Won't Start — No Spark
 
 **Checklist:**
+
 - [ ] Ignition module getting trigger signal from distributor?
 - [ ] Coil getting 12V power?
 - [ ] Coil negative being triggered (should pulse to ground)?
@@ -1701,6 +1795,7 @@ Document any issues discovered:
 - [ ] Ignition wiring correct?
 
 **Common Causes:**
+
 1. Distributor pickup coil failed
 2. Ignition module failed
 3. Coil failed
@@ -1711,13 +1806,15 @@ Document any issues discovered:
 ### Won't Start — Has Spark, No Fuel
 
 **Checklist:**
+
 - [ ] Fuel pump running when key turned ON?
-- [ ] Fuel pressure at TBI: _______ PSI (should be 10-13)
+- [ ] Fuel pressure at TBI: **\_\_\_** PSI (should be 10-13)
 - [ ] Injectors clicking? (listen with screwdriver to ear)
 - [ ] Injector wiring correct?
 - [ ] ECU getting RPM signal? (check ALDL scanner)
 
 **Common Causes:**
+
 1. Fuel pump not running (relay, wiring, or pump failure)
 2. No fuel pressure (clogged filter, weak pump, leaking return line)
 3. Injectors not firing (ECU not seeing RPM, or injector wiring error)
@@ -1727,12 +1824,14 @@ Document any issues discovered:
 ### Starts, Dies Immediately
 
 **Checklist:**
+
 - [ ] IAC functioning? (should hear clicking when key turned ON)
 - [ ] Vacuum leaks? (listen for hissing)
 - [ ] TPS reading correctly? (0.5V closed throttle)
 - [ ] MAP sensor connected to vacuum?
 
 **Common Causes:**
+
 1. IAC stuck closed (no idle air bypass)
 2. Large vacuum leak (too much air, too little fuel)
 3. TPS not adjusted (ECU thinks throttle is open)
@@ -1742,6 +1841,7 @@ Document any issues discovered:
 ### Rough Idle, Won't Smooth Out
 
 **Checklist:**
+
 - [ ] MAP sensor vacuum line connected and leak-free?
 - [ ] CTS reading correct temperature?
 - [ ] Vacuum leaks at intake gaskets?
@@ -1749,6 +1849,7 @@ Document any issues discovered:
 - [ ] Ignition timing correct?
 
 **Common Causes:**
+
 1. Vacuum leak at intake adapter plate (poor gasket seal)
 2. MAP sensor vacuum line cracked or disconnected
 3. CTS reading incorrectly (wrong enrichment)
@@ -1758,12 +1859,14 @@ Document any issues discovered:
 ### Idles High (1500+ RPM)
 
 **Checklist:**
+
 - [ ] Throttle cable binding or adjusted too tight?
 - [ ] IAC stuck open?
 - [ ] Vacuum leak?
 - [ ] TPS adjusted correctly?
 
 **Common Causes:**
+
 1. Throttle stop screw too far out
 2. IAC stuck in high-flow position (carbon buildup)
 3. Vacuum leak causing ECU to increase idle to compensate
@@ -1773,12 +1876,14 @@ Document any issues discovered:
 ### Hesitation or Stumble on Acceleration
 
 **Checklist:**
+
 - [ ] TPS sweeping smoothly? (use ALDL to watch live)
 - [ ] Fuel pressure maintaining 10-13 PSI under load?
 - [ ] Ignition timing correct and distributor locked?
 - [ ] Vacuum advance working?
 
 **Common Causes:**
+
 1. TPS dead spot (needs replacement)
 2. Weak fuel pump (pressure drops under load)
 3. Distributor advance mechanism sticking
@@ -1788,12 +1893,14 @@ Document any issues discovered:
 ### Runs Rich (Black Smoke, Poor MPG)
 
 **Checklist:**
+
 - [ ] O2 sensor working? (should fluctuate 0.1-0.9V rapidly)
 - [ ] MAP sensor reading correctly?
 - [ ] Fuel pressure too high? (should be 10-13 PSI, not 15+)
 - [ ] Injectors leaking?
 
 **Common Causes:**
+
 1. O2 sensor failed (ECU defaults to rich)
 2. MAP sensor reading low vacuum (ECU thinks engine is under load)
 3. Fuel pressure too high (internal TBI regulator stuck)
@@ -1804,12 +1911,14 @@ Document any issues discovered:
 ### Runs Lean (Backfire, Hesitation, Poor Power)
 
 **Checklist:**
+
 - [ ] Fuel pressure adequate? (10-13 PSI minimum)
 - [ ] Vacuum leaks?
 - [ ] Injectors clogged?
 - [ ] MAP sensor reading correctly?
 
 **Common Causes:**
+
 1. Fuel pressure too low (weak pump, clogged filter)
 2. Large vacuum leak (adapter plate gaskets, intake manifold)
 3. Injectors partially clogged (dirty fuel)
@@ -1819,23 +1928,24 @@ Document any issues discovered:
 ### Check Engine Light ON
 
 **Action:**
+
 - [ ] Connect ALDL scanner
 - [ ] Read fault codes
 - [ ] Consult GM TBI fault code chart
 
 **Common Codes:**
 
-| Code | Meaning | Action |
-|------|---------|--------|
-| 12 | No RPM signal | Check distributor pickup, wiring |
-| 13 | O2 sensor circuit | Check O2 wiring, sensor |
-| 14 | CTS circuit high | Check CTS wiring, sensor |
-| 15 | CTS circuit low | Check CTS wiring, sensor |
-| 21 | TPS circuit high | Check TPS wiring, adjustment |
-| 22 | TPS circuit low | Check TPS wiring, adjustment |
-| 33 | MAP circuit high | Check MAP wiring, vacuum line |
-| 34 | MAP circuit low | Check MAP wiring, sensor |
-| 42 | EST circuit (if using ECU timing) | Ignition wiring |
+| Code | Meaning                           | Action                           |
+| ---- | --------------------------------- | -------------------------------- |
+| 12   | No RPM signal                     | Check distributor pickup, wiring |
+| 13   | O2 sensor circuit                 | Check O2 wiring, sensor          |
+| 14   | CTS circuit high                  | Check CTS wiring, sensor         |
+| 15   | CTS circuit low                   | Check CTS wiring, sensor         |
+| 21   | TPS circuit high                  | Check TPS wiring, adjustment     |
+| 22   | TPS circuit low                   | Check TPS wiring, adjustment     |
+| 33   | MAP circuit high                  | Check MAP wiring, vacuum line    |
+| 34   | MAP circuit low                   | Check MAP wiring, sensor         |
+| 42   | EST circuit (if using ECU timing) | Ignition wiring                  |
 
 **Note:** Code 12 (no RPM) is normal if checked with engine not running. Clear codes and retest after repair.
 
@@ -1844,12 +1954,14 @@ Document any issues discovered:
 ## Maintenance Schedule (Post-Swap)
 
 ### First Week:
+
 - [ ] Daily visual inspection (leaks, loose wires)
 - [ ] Monitor idle quality and driveability
 - [ ] Check fault codes daily
 - [ ] Retorque intake bolts (after 50 miles)
 
 ### First Month:
+
 - [ ] Weekly inspection
 - [ ] Check all connections (vibration can loosen)
 - [ ] Monitor fuel pressure (verify pump is stable)
@@ -1857,12 +1969,14 @@ Document any issues discovered:
 - [ ] Retorque intake bolts (after 200 miles)
 
 ### First 3 Months:
+
 - [ ] Monthly inspection
 - [ ] Check for fault codes
 - [ ] Monitor fuel economy (should stabilize)
 - [ ] Clean any corrosion from connections
 
 ### After 3 Months:
+
 - [ ] Quarterly inspection
 - [ ] Replace fuel filter (every 10,000 miles or 1 year)
 - [ ] Clean IAC (every 20,000 miles or as needed)
@@ -1879,7 +1993,7 @@ Document any issues discovered:
 ✅ All sensors are available and affordable  
 ✅ You can diagnose issues with multimeter and basic tools  
 ✅ You value originality  
-✅ You're comfortable with limited parts availability in future  
+✅ You're comfortable with limited parts availability in future
 
 **Bottom Line:** If Renix works, don't fix what isn't broken.
 
@@ -1891,7 +2005,7 @@ Document any issues discovered:
 ⚠️ Critical sensors (CPS, MAP) become unobtainable  
 ⚠️ Diagnostics are frustrating (limited self-diagnostics)  
 ⚠️ You want to "set it and forget it" for 10-20 years  
-⚠️ You value diagnostic capability (ALDL data logging)  
+⚠️ You value diagnostic capability (ALDL data logging)
 
 **Bottom Line:** GM TBI is "insurance" against Renix parts obsolescence.
 
@@ -1899,19 +2013,21 @@ Document any issues discovered:
 
 ## Cost-Benefit Analysis Summary
 
-| Scenario | Cost | Time | Parts Availability | Diagnostic Capability | Result |
-|----------|------|------|-------------------|----------------------|--------|
-| **Renix Refresh** | $400-650 | 3-5 weeks | Declining | Limited | Works if parts available |
-| **GM TBI Swap (DIY)** | $900-1400 | 4-8 weeks | Excellent | Excellent | Works forever |
-| **GM TBI Swap (Turnkey)** | $1500-2400 | 4-8 weeks | Excellent | Excellent | Works forever |
+| Scenario                  | Cost       | Time      | Parts Availability | Diagnostic Capability | Result                   |
+| ------------------------- | ---------- | --------- | ------------------ | --------------------- | ------------------------ |
+| **Renix Refresh**         | $400-650   | 3-5 weeks | Declining          | Limited               | Works if parts available |
+| **GM TBI Swap (DIY)**     | $900-1400  | 4-8 weeks | Excellent          | Excellent             | Works forever            |
+| **GM TBI Swap (Turnkey)** | $1500-2400 | 4-8 weeks | Excellent          | Excellent             | Works forever            |
 
 **Break-Even Analysis:**
 
 If Renix ECU fails in 5 years:
+
 - Renix ECU replacement: $300-500 (if available)
 - **Total Renix cost over 5 years:** $700-1150
 
 If you swap to GM TBI now:
+
 - **Total GM TBI cost:** $900-1400
 
 **Conclusion:** GM TBI swap pays for itself if Renix requires major component replacement within 5 years.
@@ -1983,23 +2099,26 @@ If Renix parts continue to decline in availability, **the MJ community will need
 ✅ **No wasted effort** — Renix cleanup work transfers to GM swap  
 ✅ **Lowest total cost** — Only spend on swap if actually needed  
 ✅ **Real-world validation** — Test Renix reliability before committing  
-✅ **Fallback option** — Keep Renix components as emergency spare  
+✅ **Fallback option** — Keep Renix components as emergency spare
 
 ---
 
 ## Acknowledgments & Resources
 
 ### Online Communities:
+
 - **ComancheClub.com** — MJ Comanche community
 - **NAXJA.org** — XJ Cherokee (many parts/systems identical)
 - **GM TBI Forums** — S10, Blazer, full-size truck communities
 
 ### Technical References:
+
 - **GM EFI Tuning Manual** (Mark Mansur)
 - **TunerPro RT Documentation** (tuning software)
 - **Factory Service Manuals** (1987-1995 GM trucks)
 
 ### Suppliers:
+
 - **Howell EFI** — Turnkey TBI harnesses
 - **RockAuto** — Sensors, TBI units, pumps
 - **Summit Racing** — Performance parts, fuel system
@@ -2010,10 +2129,10 @@ If Renix parts continue to decline in availability, **the MJ community will need
 
 ## Document Revision History
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | January 2026 | Initial draft (original document) |
-| 2.0 | January 2026 | Complete rewrite with analysis, refinements, and decision criteria integrated |
+| Version | Date         | Changes                                                                       |
+| ------- | ------------ | ----------------------------------------------------------------------------- |
+| 1.0     | January 2026 | Initial draft (original document)                                             |
+| 2.0     | January 2026 | Complete rewrite with analysis, refinements, and decision criteria integrated |
 
 ---
 
@@ -2035,4 +2154,4 @@ Good luck with your project. Whether you keep Renix or swap to GM TBI, may your 
 
 **END OF GM TBI SWAP GUIDE**
 
-*For Renix system cleanup, see: Phase_A_Renix_Harness_Cleanup_Guide.md*
+_For Renix system cleanup, see: Phase_A_Renix_Harness_Cleanup_Guide.md_

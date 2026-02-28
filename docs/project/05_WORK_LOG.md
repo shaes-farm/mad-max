@@ -1,6 +1,7 @@
 # WORK LOG: Mad Maxine Restoration
 
 ## Document Purpose
+
 This is your daily/weekly journal for the restoration project. Document every work session, every discovery, every part installed, and every lesson learned. This log becomes invaluable for tracking progress, troubleshooting issues, and providing maintenance history.
 
 **Project Start Date:** January 2026  
@@ -12,6 +13,7 @@ This is your daily/weekly journal for the restoration project. Document every wo
 This is your **daily/weekly work journal** - the chronological history of the restoration.
 
 **Different from other tracking documents:**
+
 - **Master Restoration Plan:** What to do (future-focused tasks)
 - **Parts Tracker:** What to buy and when (shopping focused)
 - **Budget Tracker:** Financial tracking (money focused)
@@ -24,13 +26,14 @@ This log captures: session notes, discoveries, lessons learned, troubleshooting 
 ## How to Use This Log
 
 ### Daily Entry Template
+
 Copy this template for each work session:
 
 ```
 ## [DATE] - [PHASE] - Session [#]
 
-**Time:** [Start] - [End] ([Total Hours])  
-**Location:** [Garage / Driveway / Shop]  
+**Time:** [Start] - [End] ([Total Hours])
+**Location:** [Garage / Driveway / Shop]
 **Weather:** [Conditions if working outside]
 
 ### Work Performed
@@ -62,9 +65,9 @@ Copy this template for each work session:
 - [ ] Task 1
 - [ ] Task 2
 
-**Session Time:** [X.X hours]  
-**Session Cost:** $[XXX]  
-**Cumulative Time:** [XX.X hours]  
+**Session Time:** [X.X hours]
+**Session Cost:** $[XXX]
+**Cumulative Time:** [XX.X hours]
 **Cumulative Cost:** $[XXXX]
 ```
 
@@ -83,23 +86,27 @@ Copy this template for each work session:
 **Weather:** Clear, 45°F
 
 ### Work Performed
+
 - [x] Fixed hood latch to gain engine bay access
 - [x] Photographed entire vehicle (exterior, underside, engine bay, interior)
 - [x] Started CURRENT_STATE_INVENTORY documentation
 - [ ] Frame inspection (not completed - need more time)
 
 ### Issues Discovered
+
 - Hood latch cable was seized - lubricated with PB Blaster and worked free
 - More extensive floor rust than expected - holes in driver floor approximately 4" x 6" and 2" x 3"
 - Front driveshaft welds look very sketchy - definitely needs professional inspection
 
 ### Parts Used
-| Part | Qty | Source | Cost | Notes |
-|------|-----|--------|------|-------|
-| PB Blaster | 1 can | Auto parts | $8 | For hood latch |
-| WD-40 | 1 can | Garage stock | $0 | Already had |
+
+| Part       | Qty   | Source       | Cost | Notes          |
+| ---------- | ----- | ------------ | ---- | -------------- |
+| PB Blaster | 1 can | Auto parts   | $8   | For hood latch |
+| WD-40      | 1 can | Garage stock | $0   | Already had    |
 
 ### Photos Taken
+
 - [x] Exterior all angles (20 photos)
 - [x] Underside frame rails (15 photos)
 - [x] Engine bay overview (10 photos)
@@ -108,6 +115,7 @@ Copy this template for each work session:
 - [x] Interior dash condition (12 photos)
 
 ### Tools Used
+
 - Socket set
 - Screwdrivers
 - Pliers
@@ -116,12 +124,14 @@ Copy this template for each work session:
 - Camera/phone
 
 ### Lessons Learned / Notes
+
 - Hood latch was easier to fix than expected - just needed lubrication and working the mechanism
 - Need better lighting for underside photography - bring work light next time
 - Floor pan rust is repairable but will need welding practice first
 - Should have taken photos BEFORE trying to clean anything - lost some "before" documentation
 
 ### Next Session Plan
+
 - [ ] Complete frame inspection with wire brush cleaning
 - [ ] Measure and document all floor pan holes
 - [ ] Check transfer case ID tag (NP207 vs NP231)
@@ -138,103 +148,114 @@ Copy this template for each work session:
 
 ---
 
-## January ___, 2026 - Phase 0 - Session 2
+## January \_\_\_, 2026 - Phase 0 - Session 2
 
-**Time:** ___:___ - ___:___ (___ hours)  
-**Location:** ___________  
-**Weather:** ___________
+**Time:** **_:_** - **_:_** (**\_ hours)  
+**Location:** ****\_******  
+**Weather:** ****\_\_\_****
 
 ### Work Performed
-- [ ] 
-- [ ] 
-- [ ] 
+
+- [ ]
+- [ ]
+- [ ]
 
 ### Issues Discovered
-- 
-- 
+
+-
+-
 
 ### Parts Used
+
 | Part | Qty | Source | Cost | Notes |
-|------|-----|--------|------|-------|
-|  |  |  | $ |  |
+| ---- | --- | ------ | ---- | ----- |
+|      |     |        | $    |       |
 
 ### Photos Taken
-- [ ] 
-- [ ] 
+
+- [ ]
+- [ ]
 
 ### Tools Used
-- 
-- 
+
+-
+-
 
 ### Lessons Learned / Notes
 
-
 ### Next Session Plan
-- [ ] 
-- [ ] 
 
-**Session Time:** ___ hours  
-**Session Cost:** $_____  
-**Cumulative Time:** ___ hours  
-**Cumulative Cost:** $_____
+- [ ]
+- [ ]
+
+**Session Time:** **\_ hours  
+**Session Cost:** $\_\_\_**  
+**Cumulative Time:** **\_ hours  
+**Cumulative Cost:** $\_\_\_**
 
 ---
 
 ## SESSION SUMMARY BY PHASE
 
 ### Phase 0: Planning & Assessment
-| Session | Date | Hours | Cost | Key Accomplishments |
-|---------|------|-------|------|---------------------|
-| 1 | _____ | ___ | $___ | _____ |
-| 2 | _____ | ___ | $___ | _____ |
-| **Total** | | **___** | **$___** | |
+
+| Session   | Date   | Hours      | Cost        | Key Accomplishments |
+| --------- | ------ | ---------- | ----------- | ------------------- |
+| 1         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| 2         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| **Total** |        | **\_\_\_** | **$\_\_\_** |                     |
 
 ### Phase 1: Safety & Structural
-| Session | Date | Hours | Cost | Key Accomplishments |
-|---------|------|-------|------|---------------------|
-| 1 | _____ | ___ | $___ | _____ |
-| 2 | _____ | ___ | $___ | _____ |
-| **Total** | | **___** | **$___** | |
+
+| Session   | Date   | Hours      | Cost        | Key Accomplishments |
+| --------- | ------ | ---------- | ----------- | ------------------- |
+| 1         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| 2         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| **Total** |        | **\_\_\_** | **$\_\_\_** |                     |
 
 ### Phase 2: Drivetrain Reliability
-| Session | Date | Hours | Cost | Key Accomplishments |
-|---------|------|-------|------|---------------------|
-| 1 | _____ | ___ | $___ | _____ |
-| 2 | _____ | ___ | $___ | _____ |
-| **Total** | | **___** | **$___** | |
+
+| Session   | Date   | Hours      | Cost        | Key Accomplishments |
+| --------- | ------ | ---------- | ----------- | ------------------- |
+| 1         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| 2         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| **Total** |        | **\_\_\_** | **$\_\_\_** |                     |
 
 ### Phase 3: Electrical Systems
-| Session | Date | Hours | Cost | Key Accomplishments |
-|---------|------|-------|------|---------------------|
-| 1 | _____ | ___ | $___ | _____ |
-| 2 | _____ | ___ | $___ | _____ |
-| **Total** | | **___** | **$___** | |
+
+| Session   | Date   | Hours      | Cost        | Key Accomplishments |
+| --------- | ------ | ---------- | ----------- | ------------------- |
+| 1         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| 2         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| **Total** |        | **\_\_\_** | **$\_\_\_** |                     |
 
 ### Phase 4: Cab & Interior
-| Session | Date | Hours | Cost | Key Accomplishments |
-|---------|------|-------|------|---------------------|
-| 1 | _____ | ___ | $___ | _____ |
-| 2 | _____ | ___ | $___ | _____ |
-| **Total** | | **___** | **$___** | |
+
+| Session   | Date   | Hours      | Cost        | Key Accomplishments |
+| --------- | ------ | ---------- | ----------- | ------------------- |
+| 1         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| 2         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| **Total** |        | **\_\_\_** | **$\_\_\_** |                     |
 
 ### Phase 5: Final Prep & Testing
-| Session | Date | Hours | Cost | Key Accomplishments |
-|---------|------|-------|------|---------------------|
-| 1 | _____ | ___ | $___ | _____ |
-| 2 | _____ | ___ | $___ | _____ |
-| **Total** | | **___** | **$___** | |
+
+| Session   | Date   | Hours      | Cost        | Key Accomplishments |
+| --------- | ------ | ---------- | ----------- | ------------------- |
+| 1         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| 2         | **\_** | \_\_\_     | $\_\_\_     | **\_**              |
+| **Total** |        | **\_\_\_** | **$\_\_\_** |                     |
 
 ---
 
 ## PROJECT TOTALS
 
-**Total Hours Invested:** _____ hours  
-**Total Cost (Parts & Supplies):** $_____  
-**Professional Labor Cost:** $_____  
-**Project Total:** $_____
+**Total Hours Invested:** **\_** hours  
+**Total Cost (Parts & Supplies):** $**\_**  
+**Professional Labor Cost:** $**\_**  
+**Project Total:** $**\_**
 
-**Value of DIY Labor (at $75/hr):** $_____  
-**Total Project Value:** $_____
+**Value of DIY Labor (at $75/hr):** $**\_**  
+**Total Project Value:** $**\_**
 
 ---
 
@@ -242,17 +263,17 @@ Copy this template for each work session:
 
 Track significant accomplishments:
 
-| Date | Milestone | Phase | Notes |
-|------|-----------|-------|-------|
-| _____ | Hood latch fixed - gained engine bay access | 0 | Example milestone |
-| _____ | Frame inspection complete - GO decision made | 0 | |
-| _____ | Exhaust system replaced - CO hazard eliminated | 1 | |
-| _____ | Driver door welded properly - safety restored | 1 | |
-| _____ | All oil leaks repaired | 2 | |
-| _____ | Engine won't-shut-off issue resolved | 2 | |
-| _____ | First successful test drive | 5 | |
-| _____ | Vehicle painted (Mad Max black) | 5 | |
-| _____ | **PROJECT COMPLETE - Road Worthy** | 5 | |
+| Date   | Milestone                                      | Phase | Notes             |
+| ------ | ---------------------------------------------- | ----- | ----------------- |
+| **\_** | Hood latch fixed - gained engine bay access    | 0     | Example milestone |
+| **\_** | Frame inspection complete - GO decision made   | 0     |                   |
+| **\_** | Exhaust system replaced - CO hazard eliminated | 1     |                   |
+| **\_** | Driver door welded properly - safety restored  | 1     |                   |
+| **\_** | All oil leaks repaired                         | 2     |                   |
+| **\_** | Engine won't-shut-off issue resolved           | 2     |                   |
+| **\_** | First successful test drive                    | 5     |                   |
+| **\_** | Vehicle painted (Mad Max black)                | 5     |                   |
+| **\_** | **PROJECT COMPLETE - Road Worthy**             | 5     |                   |
 
 ---
 
@@ -260,19 +281,21 @@ Track significant accomplishments:
 
 Track all new issues as discovered (may not be in current phase):
 
-| Date | Issue Description | Severity | Phase Discovered | Resolution Plan | Status |
-|------|-------------------|----------|------------------|-----------------|--------|
-| _____ | Floor rust holes (4"x6", 2"x3") | 🟠 High | 0 | Weld patches in Phase 1 | 📋 |
-| _____ | Front driveshaft sketchy welds | 🔴 Critical | 0 | Replace before 4WD use | 📋 |
-| _____ |  |  |  |  |  |
+| Date   | Issue Description               | Severity    | Phase Discovered | Resolution Plan         | Status |
+| ------ | ------------------------------- | ----------- | ---------------- | ----------------------- | ------ |
+| **\_** | Floor rust holes (4"x6", 2"x3") | 🟠 High     | 0                | Weld patches in Phase 1 | 📋     |
+| **\_** | Front driveshaft sketchy welds  | 🔴 Critical | 0                | Replace before 4WD use  | 📋     |
+| **\_** |                                 |             |                  |                         |        |
 
 **Severity Key:**
+
 - 🔴 Critical - Safety hazard or prevents operation
 - 🟠 High - Significant problem affecting reliability
 - 🟡 Moderate - Needs attention but not urgent
 - 🟢 Low - Minor issue, convenience item
 
 **Status Key:**
+
 - 📋 Identified - plan created
 - 🛠️ In Progress - currently working on it
 - ✅ Resolved - fixed and verified
@@ -284,11 +307,11 @@ Track all new issues as discovered (may not be in current phase):
 
 Quick reference for when parts were installed:
 
-| Date | Part Installed | Vendor | Cost | Mileage | Phase | Notes |
-|------|----------------|--------|------|---------|-------|-------|
-| _____ | Oil pressure sender | NAPA | $25 | 118,000 | 2 | Resolved leak |
-| _____ | Exhaust system | RockAuto | $350 | 118,000 | 1 | Complete replacement |
-| _____ |  |  | $ |  |  |  |
+| Date   | Part Installed      | Vendor   | Cost | Mileage | Phase | Notes                |
+| ------ | ------------------- | -------- | ---- | ------- | ----- | -------------------- |
+| **\_** | Oil pressure sender | NAPA     | $25  | 118,000 | 2     | Resolved leak        |
+| **\_** | Exhaust system      | RockAuto | $350 | 118,000 | 1     | Complete replacement |
+| **\_** |                     |          | $    |         |       |                      |
 
 ---
 
@@ -296,11 +319,11 @@ Quick reference for when parts were installed:
 
 Document all test drives and findings:
 
-| Date | Mileage | Distance | Purpose | Issues Found | Notes |
-|------|---------|----------|---------|--------------|-------|
-| _____ | ___,___ | ___ mi | First test after brake work | Soft pedal - needs bleeding | Need to re-bleed brakes |
-| _____ | ___,___ | ___ mi | Extended test - highway speeds | None! Runs great | Ready for next phase |
-| _____ |  |  |  |  |  |
+| Date   | Mileage | Distance  | Purpose                        | Issues Found                | Notes                   |
+| ------ | ------- | --------- | ------------------------------ | --------------------------- | ----------------------- |
+| **\_** | **_,_** | \_\_\_ mi | First test after brake work    | Soft pedal - needs bleeding | Need to re-bleed brakes |
+| **\_** | **_,_** | \_\_\_ mi | Extended test - highway speeds | None! Runs great            | Ready for next phase    |
+| **\_** |         |           |                                |                             |                         |
 
 ---
 
@@ -309,42 +332,46 @@ Document all test drives and findings:
 When problems arise, document the diagnostic process:
 
 ### Problem: [Description]
-**Date:** _____  
+
+**Date:** **\_**  
 **Symptoms:**
-- 
-- 
+
+-
+-
 
 **Tests Performed:**
-1. 
-2. 
+
+1.
+2.
 
 **Root Cause:**
 
-
 **Solution:**
 
-
 **Parts Used:**
-- 
 
-**Time to Resolve:** ___ hours  
-**Cost:** $_____
+-
+
+**Time to Resolve:** **\_ hours  
+**Cost:** $\_\_\_**
 
 **Lessons Learned:**
-
 
 ---
 
 ### Example Troubleshooting Entry
 
 ### Problem: Engine won't shut off when key turned to OFF
+
 **Date:** February 3, 2026  
 **Symptoms:**
+
 - Engine continues running after key turned to OFF position
 - Must pull ECM fuse to kill engine
 - Started happening randomly, now happens every time
 
 **Tests Performed:**
+
 1. Checked for 12V at ECM with key OFF - PRESENT (should be 0V)
 2. Traced power back to ignition switch
 3. Removed steering column covers
@@ -358,12 +385,14 @@ Ignition switch contacts worn/failed - not opening circuits in OFF position
 Replaced ignition switch with new Standard Ignition US-83
 
 **Parts Used:**
+
 - Ignition switch (Standard Ignition US-83) - $52 from RockAuto
 
 **Time to Resolve:** 2.5 hours (including diagnosis and steering column disassembly)  
 **Cost:** $52
 
 **Lessons Learned:**
+
 - Renix system needs ECM power cut to stop fuel injection
 - Ignition switch failure is common on 30+ year old vehicles
 - Taking photos during disassembly helps with reassembly
@@ -375,12 +404,12 @@ Replaced ignition switch with new Standard Ignition US-83
 
 Track experiences with parts vendors:
 
-| Vendor | Date | Order # | Parts | Quality | Speed | Price | Would Use Again? | Notes |
-|--------|------|---------|-------|---------|-------|-------|------------------|-------|
-| RockAuto | _____ | _____ | Brake pads, rotors | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Yes | Good prices, multiple shipments |
-| NAPA | _____ | _____ | Oil, filter | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ✅ Yes | Local, convenient |
-| Local Junkyard | _____ | - | Gauge cluster | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Yes | Cheap, tested before buying |
-|  |  |  |  |  |  |  |  |  |
+| Vendor         | Date   | Order # | Parts              | Quality    | Speed      | Price      | Would Use Again? | Notes                           |
+| -------------- | ------ | ------- | ------------------ | ---------- | ---------- | ---------- | ---------------- | ------------------------------- |
+| RockAuto       | **\_** | **\_**  | Brake pads, rotors | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ | ✅ Yes           | Good prices, multiple shipments |
+| NAPA           | **\_** | **\_**  | Oil, filter        | ⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐     | ✅ Yes           | Local, convenient               |
+| Local Junkyard | **\_** | -       | Gauge cluster      | ⭐⭐⭐     | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Yes           | Cheap, tested before buying     |
+|                |        |         |                    |            |            |            |                  |                                 |
 
 ---
 
@@ -388,13 +417,13 @@ Track experiences with parts vendors:
 
 Document skills learned during the project:
 
-| Skill | Date Started | Practice Sessions | Proficiency Level | Notes |
-|-------|--------------|-------------------|-------------------|-------|
-| MIG Welding | _____ | ___ | 🟢 Beginner / 🟡 Intermediate / 🟢 Advanced | Took class at community college |
-| Sheet Metal Fabrication | _____ | ___ | 🟢 / 🟡 / 🟢 |  |
-| Exhaust System Installation | _____ | ___ | 🟢 / 🟡 / 🟢 |  |
-| Brake System Overhaul | _____ | ___ | 🟢 / 🟡 / 🟢 |  |
-|  |  |  |  |  |
+| Skill                       | Date Started | Practice Sessions | Proficiency Level                           | Notes                           |
+| --------------------------- | ------------ | ----------------- | ------------------------------------------- | ------------------------------- |
+| MIG Welding                 | **\_**       | \_\_\_            | 🟢 Beginner / 🟡 Intermediate / 🟢 Advanced | Took class at community college |
+| Sheet Metal Fabrication     | **\_**       | \_\_\_            | 🟢 / 🟡 / 🟢                                |                                 |
+| Exhaust System Installation | **\_**       | \_\_\_            | 🟢 / 🟡 / 🟢                                |                                 |
+| Brake System Overhaul       | **\_**       | \_\_\_            | 🟢 / 🟡 / 🟢                                |                                 |
+|                             |              |                   |                                             |                                 |
 
 ---
 
@@ -403,6 +432,7 @@ Document skills learned during the project:
 Organize photos by category for easy reference:
 
 ### Before Photos (Phase 0)
+
 - Exterior: Photos 001-020
 - Underside: Photos 021-035
 - Engine Bay: Photos 036-045
@@ -410,23 +440,29 @@ Organize photos by category for easy reference:
 - Known Issues: Photos 061-080
 
 ### During Work (By Phase)
+
 **Phase 1:**
+
 - Exhaust Removal: Photos 101-115
 - Door Welding: Photos 116-130
 - Floor Pan Repair: Photos 131-145
 
 **Phase 2:**
+
 - Engine Cleaning: Photos 201-215
 - Oil Leak Repair: Photos 216-230
 
 **Phase 3:**
+
 - Wiring Harness: Photos 301-320
 
 **Phase 4:**
+
 - Dash Fabrication: Photos 401-420
 - Interior Panels: Photos 421-440
 
 **Phase 5:**
+
 - Paint Prep: Photos 501-520
 - Final Paint: Photos 521-540
 - After Photos: Photos 541-560
@@ -437,15 +473,15 @@ Organize photos by category for easy reference:
 
 Link to detailed budget in BUDGET_TRACKER.md, but maintain running total here:
 
-| Phase | Budgeted | Actual | Variance | Notes |
-|-------|----------|--------|----------|-------|
-| Phase 0 | $87 | $____ | $____ | |
-| Phase 1 | $1,200-1,800 | $____ | $____ | |
-| Phase 2 | $800-1,200 | $____ | $____ | |
-| Phase 3 | $400-800 | $____ | $____ | |
-| Phase 4 | $300-500 | $____ | $____ | |
-| Phase 5 | $200-400 | $____ | $____ | |
-| **Total** | **$2,987-4,887** | **$____** | **$____** | |
+| Phase     | Budgeted         | Actual        | Variance      | Notes |
+| --------- | ---------------- | ------------- | ------------- | ----- |
+| Phase 0   | $87              | $\_\_\_\_     | $\_\_\_\_     |       |
+| Phase 1   | $1,200-1,800     | $\_\_\_\_     | $\_\_\_\_     |       |
+| Phase 2   | $800-1,200       | $\_\_\_\_     | $\_\_\_\_     |       |
+| Phase 3   | $400-800         | $\_\_\_\_     | $\_\_\_\_     |       |
+| Phase 4   | $300-500         | $\_\_\_\_     | $\_\_\_\_     |       |
+| Phase 5   | $200-400         | $\_\_\_\_     | $\_\_\_\_     |       |
+| **Total** | **$2,987-4,887** | **$\_\_\_\_** | **$\_\_\_\_** |       |
 
 ---
 
@@ -453,10 +489,10 @@ Link to detailed budget in BUDGET_TRACKER.md, but maintain running total here:
 
 Document any safety issues for future reference:
 
-| Date | Incident Description | Injury? | Root Cause | Prevention for Next Time |
-|------|---------------------|---------|------------|--------------------------|
-| _____ | Nearly dropped transmission | No | Inadequate support | Use transmission jack, not floor jack |
-| _____ |  |  |  |  |
+| Date   | Incident Description        | Injury? | Root Cause         | Prevention for Next Time              |
+| ------ | --------------------------- | ------- | ------------------ | ------------------------------------- |
+| **\_** | Nearly dropped transmission | No      | Inadequate support | Use transmission jack, not floor jack |
+| **\_** |                             |         |                    |                                       |
 
 ---
 
@@ -464,11 +500,11 @@ Document any safety issues for future reference:
 
 Track tools acquired for the project:
 
-| Date | Tool | Source | Cost | Needed For | Still Have? |
-|------|------|--------|------|------------|-------------|
-| _____ | Brake bleeder kit | Harbor Freight | $25 | Brake work | ✅ |
-| _____ | Gear puller set | Amazon | $30 | U-joints | ✅ |
-| _____ |  |  | $ |  |  |
+| Date   | Tool              | Source         | Cost | Needed For | Still Have? |
+| ------ | ----------------- | -------------- | ---- | ---------- | ----------- |
+| **\_** | Brake bleeder kit | Harbor Freight | $25  | Brake work | ✅          |
+| **\_** | Gear puller set   | Amazon         | $30  | U-joints   | ✅          |
+| **\_** |                   |                | $    |            |             |
 
 ---
 
@@ -477,12 +513,14 @@ Track tools acquired for the project:
 Once restoration is complete, document the maintenance schedule here:
 
 ### Daily Checks (Before Each Drive)
+
 - [ ] Visual walk-around
 - [ ] Tire pressure check (if extended trip)
 - [ ] Fluid levels (oil, coolant) if visible low
 - [ ] Lights operational
 
 ### Weekly Checks
+
 - [ ] Detailed visual inspection (leaks, damage)
 - [ ] Check all fluid levels
 - [ ] Tire pressure
@@ -490,6 +528,7 @@ Once restoration is complete, document the maintenance schedule here:
 - [ ] Brake pedal feel
 
 ### Monthly Maintenance
+
 - [ ] Oil level check and top-off if needed
 - [ ] Coolant level check
 - [ ] Brake fluid level check
@@ -499,6 +538,7 @@ Once restoration is complete, document the maintenance schedule here:
 - [ ] Inspect for new leaks or damage
 
 ### Every 3,000 Miles or 3 Months
+
 - [ ] Oil and filter change
 - [ ] Rotate tires
 - [ ] Inspect brakes
@@ -506,6 +546,7 @@ Once restoration is complete, document the maintenance schedule here:
 - [ ] Check all belts and hoses
 
 ### Every 6 Months or Before Winter
+
 - [ ] Transmission fluid check
 - [ ] Transfer case fluid check
 - [ ] Differential fluid check
@@ -518,6 +559,7 @@ Once restoration is complete, document the maintenance schedule here:
 - [ ] **REAPPLY UNDERCOATING (Fluid Film annual application)**
 
 ### Annually
+
 - [ ] Complete brake inspection
 - [ ] Complete steering/suspension inspection
 - [ ] Inspect frame and undercarriage for rust
@@ -528,25 +570,25 @@ Once restoration is complete, document the maintenance schedule here:
 
 ## USEFUL CONTACTS
 
-| Name/Business | Phone | Service | Notes |
-|---------------|-------|---------|-------|
-| [Mobile Mechanic Name] | ___-___-____ | General mechanical | Used for structural welding inspection |
-| [Local Junkyard] | ___-___-____ | Used parts | Good XJ inventory |
-| [Welding Supply] | ___-___-____ | Welding supplies | Took welding class here |
-| [NAPA Store #] | ___-___-____ | Parts | Commercial account # _____ |
-|  |  |  |  |
+| Name/Business          | Phone            | Service            | Notes                                  |
+| ---------------------- | ---------------- | ------------------ | -------------------------------------- |
+| [Mobile Mechanic Name] | **_-_**-\_\_\_\_ | General mechanical | Used for structural welding inspection |
+| [Local Junkyard]       | **_-_**-\_\_\_\_ | Used parts         | Good XJ inventory                      |
+| [Welding Supply]       | **_-_**-\_\_\_\_ | Welding supplies   | Took welding class here                |
+| [NAPA Store #]         | **_-_**-\_\_\_\_ | Parts              | Commercial account # **\_**            |
+|                        |                  |                    |                                        |
 
 ---
 
 ## REFERENCE RESOURCES
 
-| Resource | Type | URL/Location | Used For |
-|----------|------|--------------|----------|
-| ComancheClub.com | Forum | https://comancheclub.com | Technical advice, parts sources |
-| FSM (Factory Service Manual) | PDF | [Local file location] | Torque specs, procedures |
-| Wiring Diagrams | PDF | [Local file location] | Electrical troubleshooting |
-| YouTube: [Channel Name] | Video | YouTube | Jeep Comanche how-to videos |
-|  |  |  |  |
+| Resource                     | Type  | URL/Location             | Used For                        |
+| ---------------------------- | ----- | ------------------------ | ------------------------------- |
+| ComancheClub.com             | Forum | https://comancheclub.com | Technical advice, parts sources |
+| FSM (Factory Service Manual) | PDF   | [Local file location]    | Torque specs, procedures        |
+| Wiring Diagrams              | PDF   | [Local file location]    | Electrical troubleshooting      |
+| YouTube: [Channel Name]      | Video | YouTube                  | Jeep Comanche how-to videos     |
+|                              |       |                          |                                 |
 
 ---
 
@@ -555,115 +597,106 @@ Once restoration is complete, document the maintenance schedule here:
 At the end of each phase, reflect on lessons learned:
 
 ### Phase 0 Reflection
-**Completed:** _____  
+
+**Completed:** **\_**  
 **What Went Well:**
-- 
-- 
+
+-
+-
 
 **Challenges Faced:**
-- 
-- 
+
+-
+-
 
 **What I'd Do Differently:**
-- 
-- 
+
+-
+-
 
 **Key Takeaways:**
-- 
-- 
+
+-
+-
 
 ---
 
 ### Phase 1 Reflection
-**Completed:** _____  
-**What Went Well:**
 
+**Completed:** **\_**  
+**What Went Well:**
 
 **Challenges Faced:**
 
-
 **What I'd Do Differently:**
 
-
 **Key Takeaways:**
-
 
 ---
 
 ### Phase 2 Reflection
-**Completed:** _____  
-**What Went Well:**
 
+**Completed:** **\_**  
+**What Went Well:**
 
 **Challenges Faced:**
 
-
 **What I'd Do Differently:**
 
-
 **Key Takeaways:**
-
 
 ---
 
 ### Phase 3 Reflection
-**Completed:** _____  
-**What Went Well:**
 
+**Completed:** **\_**  
+**What Went Well:**
 
 **Challenges Faced:**
 
-
 **What I'd Do Differently:**
 
-
 **Key Takeaways:**
-
 
 ---
 
 ### Phase 4 Reflection
-**Completed:** _____  
-**What Went Well:**
 
+**Completed:** **\_**  
+**What Went Well:**
 
 **Challenges Faced:**
 
-
 **What I'd Do Differently:**
 
-
 **Key Takeaways:**
-
 
 ---
 
 ### Phase 5 Reflection
-**Completed:** _____  
-**What Went Well:**
 
+**Completed:** **\_**  
+**What Went Well:**
 
 **Challenges Faced:**
 
-
 **What I'd Do Differently:**
 
-
 **Key Takeaways:**
-
 
 ---
 
 ## FINAL PROJECT REFLECTION
 
-**Project Completed:** _____  
-**Final Mileage:** _____  
-**Total Time Invested:** _____ hours  
-**Total Cost:** $_____
+**Project Completed:** **\_**  
+**Final Mileage:** **\_**  
+**Total Time Invested:** **\_** hours  
+**Total Cost:** $**\_**
 
 ### Overall Assessment
 
 **Goals Achieved:**
+
 - [ ] Safe for daily driving
 - [ ] Reliable in all weather conditions
 - [ ] 4WD functional
@@ -673,37 +706,30 @@ At the end of each phase, reflect on lessons learned:
 
 **What Went Well:**
 
-
 **Biggest Challenges:**
-
 
 **Unexpected Discoveries:**
 
-
 **Skills Developed:**
-
 
 **Would I Do This Again?**
 
-
 **Advice for Future Self (or Others):**
-
 
 **Proudest Moment:**
 
-
 **Most Frustrating Moment:**
 
-
 **Total Value Created:**
-- Parts & Labor: $_____
-- DIY Labor Value (@$75/hr): $_____
-- Total Project Value: $_____
-- Vehicle Market Value: $_____
+
+- Parts & Labor: $**\_**
+- DIY Labor Value (@$75/hr): $**\_**
+- Total Project Value: $**\_**
+- Vehicle Market Value: $**\_**
 
 ---
 
 **Document Status:** Active Work Log  
 **Created:** January 2026  
-**Last Entry:** _____  
-**Total Entries:** _____
+**Last Entry:** **\_**  
+**Total Entries:** **\_**
